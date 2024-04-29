@@ -13,10 +13,10 @@ https://lsm-g11.tv360.vn:18443/155.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2
 https://vtvgolive-vtv.vtvdigital.vn/tsItvhzH0_JtdqOUiSMHtw/1714406163/vtvgo/vtv4-480p.m3u8
 
 #EXTINF:-5 tvg-id="VTV5" tvg-logo="https://i.imgur.com/7qPKNFU.png" group-title="VTV", VTV5
-https://ec03-pop4-hlc.tv360.vn/bpk-token/4br5qnhhfdzdiyiocb36cy6ygtqghwbu/bpk-tv/194/output/194-audio_133600_eng=131600-video=6730000.m3u8
+https://vtvgolive-vtv.vtvdigital.vn/5uFno_hVEDI6AtywOZ8oew/1714406955/vtvgo/vtv5-480p.m3u8
 
 #EXTINF:-6 tvg-id="VTV CẦN THƠ" tvg-logo="https://i.imgur.com/HCpqatZ.png" group-title="VTV", VTV CẦN THƠ
-https://ec03-pop4-hlc.tv360.vn/bpk-token/syceeeutj5ubepzvrnizobcccklaiqqs/bpk-tv/156/output/156-audio_133600_eng=131600-video=1752000.m3u8
+https://vtvgolive-vtv.vtvdigital.vn/Pd_XHX64M8Te6SoRIk4w-A/1714407003/vtvgo/vtv6-480p.m3u8
 
 #EXTINF:-7 tvg-id="VTV7" tvg-logo="https://i.imgur.com/AgamSNe.png" group-title="VTV", VTV7
 https://vtvgolive-vtv.vtvdigital.vn/LYOKKh4P0-Gptqe1gxcXKA/1714406194/vtvgo/vtv7-480p.m3u8

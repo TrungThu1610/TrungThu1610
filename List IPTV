@@ -39,6 +39,53 @@ https://1011337676.vnns.net/-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MT
 #EXTINF:-2 tvg-id="VTC2" tvg-logo="https://i.imgur.com/WUUXS6T.png" group-title="VTC", VTC2
 https://lsm-hlc.tv360.vn:18443/181.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5TB4ePfezm8SFLpHCkAoiPuWYzbzevFcfrLVKaPjw8vvsM1BCGbx6bvZqVGvwwgvuRVbLkRaTSF7zhqE8p+/yv4NxAt+UmJXA1xXu8Ejh2X34K2cGUvpxwN3q9iJms2QN69p3Qr+qX5u83dYCAUlDodVakefpksndDQaYlss/2XhA==&uid=226653457
 
-#EXTINF:-1 tvg-id="VTC3" tvg-logo="https://i.imgur.com/7HD60aD.png" group-title="VTC", VTC3
+#EXTINF:-3 tvg-id="VTC3" tvg-logo="https://i.imgur.com/hS4bgHe.png" group-title="VTC", VTC3
 https://live-zlr1.tv360.vn/manifest/VTC3_HD/master.m3u8?timestamp=1714462920&token=df55b824cdb335bfc021a49d65c60c39&manifestfilter=video_bitrate:1-5767168&uid=226653457
 
+#EXTINF:-4 tvg-id="VTC4" tvg-logo="https://i.imgur.com/5cwYPTt.png" group-title="VTC", VTC4
+https://1011337676.vnns.net/-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MTQ0NDIwNzAsInVyaSI6IlwvQ0ROLUZQVDAyXC9WVEM0LVNELUFCUiIsImlwIjoiIn0.RHw9q8XhvG0OMp_aSZUkxpkW0bYEJ0gDh6cGeagbutY-/CDN-FPT02/VTC4-SD-ABR/HTV-ABR/VTC4-SD-720p/chunks.m3u8
+
+#EXTINF:-5 tvg-id="VTC5" tvg-logo="https://i.imgur.com/VvfiwPJ.png" group-title="VTC", VTC5
+https://vips-livecdn.fptplay.net/Mzc0MDY2Nzd8dnRjNV9obHMuc21pbHx2bnB0fDE3MTQ0NDE4NTh8MTQuMTgwLjM3LjE1OXwzNzFjNDU5MDY3MDY1MzI5YWU5MzFmNmQ0NjZhZjU1Mg/fnxhd2/vtc5_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-6 tvg-id="VTC6" tvg-logo="https://i.imgur.com/LPdjM0z.png" group-title="VTC", VTC6
+https://vips-livecdn.fptplay.net/Mzc0MDY2Nzd8dnRjNl92aGxzLnNtaWx8dm5wdHwxNzE0NDQxOTQ3fDE0LjE4MC4zNy4xNTl8MGQyMjQ0MmUzMDVhNTk3NjUyMDY4MDg1YjRkYjI3Mzk/fnxhd2/vtc6_vhls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-7 tvg-id="VTC7" tvg-logo="https://i.imgur.com/Y5FUbsY.png" group-title="VTC", VTC7
+https://vips-livecdn.fptplay.net/Mzc0MDY2Nzd8dG9kYXl0dl9obHMuc21pbHx2bnB0fDE3MTQ0NDIwNzN8MTQuMTgwLjM3LjE1OXxmYTQ3NmQzOWJhY2FkZmFhNDlkNWNhYzg3ODliNGVjZQ/fnxhd2/todaytv_hls.smil/chunklist_b1800000.m3u8
+
+#EXTINF:-8 tvg-id="VTC8" tvg-logo="https://i.imgur.com/4k57giG.png" group-title="VTC", VTC8
+https://vips-livecdn.fptplay.net/Mzc0MDY2Nzd8dnRjOF9obHMuc21pbHx2bnB0fDE3MTQ0NDIxNzd8MTQuMTgwLjM3LjE1OXw1OGJjOGZiNDZlMGMyODM3N2ViOTY5YjA4OGRjOTlkNg/fnxhd2/vtc8_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-9 tvg-id="VTC9" tvg-logo="https://i.imgur.com/cnAht7i.png" group-title="VTC", VTC9
+https://vips-livecdn.fptplay.net/Mzc0MDY2Nzd8dnRjOV9obHMuc21pbHx2bnB0fDE3MTQ0NDIyNDh8MTQuMTgwLjM3LjE1OXwyYzhjMWY5NGY2NTlhOTlkOWE5NjU5ZTZhZGI3MTYzNw/fnxhd2/vtc9_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-10 tvg-id="VTC10" tvg-logo="https://i.imgur.com/PaVbyxg.png" group-title="VTC", VTC10
+https://vips-livecdn.fptplay.net/Mzc0MDY2Nzd8dnRjMTBoZF92aGxzLnNtaWx8dm5wdHwxNzE0NDQyMzMwfDE0LjE4MC4zNy4xNTl8ODMwOWU2YmM4YjYyODAxZWRiYzJkMzRiOWIyZGQ1Mjg/fnxhd2/vtc10hd_vhls.smil/chunklist_b1800000.m3u8
+
+#EXTINF:-11 tvg-id="VTC11" tvg-logo="https://i.imgur.com/0ovZkYb.png" group-title="VTC", VTC11
+https://vips-livecdn.fptplay.net/Mzc0MDY2Nzd8dnRjMTFfaGxzLnNtaWx8dm5wdHwxNzE0NDQyNDE1fDE0LjE4MC4zNy4xNTl8ZDk3MDc2ZmQ0YmIzNmZlNjFhMzY5MGEyZDRmOGM3NDY/fnxhd2/vtc11_hls.smil/chunklist_b1800000.m3u8
+
+#EXTINF:-12 tvg-id="VTC14" tvg-logo="https://i.imgur.com/phXvB0t.png" group-title="VTC", VTC14
+https://vips-livecdn.fptplay.net/Mzc0MDY2Nzd8dnRjMTRfdmhscy5zbWlsfHZucHR8MTcxNDQ0MjQ3NnwxNC4xODAuMzcuMTU5fDM4ZjFkOTBiNTQzYzllYWQ0ZTFjZTM2NjhkMGI2ZmI3/fnxhd2/vtc14_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-13 tvg-id="VTC16" tvg-logo="https://i.imgur.com/rltq2Dy.png" group-title="VTC", VTC16
+https://vips-livecdn.fptplay.net/Mzc0MDY2Nzd8dnRjMTZfaGxzLnNtaWx8dm5wdHwxNzE0NDQyNTQ4fDE0LjE4MC4zNy4xNTl8ZjkzMWI5NzQ1NTM5NmEwZTljNzJmZWM1ZjVmOTMwZDc/fnxhd2/vtc16_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-14 tvg-id="VOV TV" tvg-logo="https://i.imgur.com/lARtNRO.png" group-title="VTC", VOV TV
+https://vips-livecdn.fptplay.net/Mzc0MDY2Nzd8dm92dHZzZF9obHMuc21pbHx2bnB0fDE3MTQ0NDI2MjR8MTQuMTgwLjM3LjE1OXwxNDhlODI0ZTE1ZTM0MWNiYjM1MWQwMmYwNTljZjQ1ZA/fnxsd1/vovtvsd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-id="KÊNH7 - Truyền hình Quốc Hội Việt Nam" tvg-logo="https://i.imgur.com/YtZGuSy.png" group-title="Thiết yếu", KÊNH7 - Truyền hình Quốc Hội Việt Nam
+https://vips-livecdn.fptplay.net/Mzc0MDY2Nzd8cXVvY2hvaXZuX3ZobHMuc21pbHx2bnB0fDE3MTQ0NDI4MzJ8MTQuMTgwLjM3LjE1OXw2Yzc2OTYyMzgwZDU4NzRlYmRiYTIyZTEyZGJmMDI2Nw/fnxhd2/quochoivn_vhls.smil/chunklist_b1800000.m3u8
+
+#EXTINF:-1 tvg-id="ANTV - Truyền hình Công An Nhân Dân" tvg-logo="https://i.imgur.com/QztqOe0.png" group-title="Thiết yếu", ANTV - Truyền hình Công An Nhân Dân
+https://vips-livecdn.fptplay.net/Mzc0MDY2Nzd8YW5uaW5odHZfdmhscy5zbWlsfHZucHR8MTcxNDQ0MzA0NnwxNC4xODAuMzcuMTU5fDNhNTc3ZTkyMzFjMjYwM2Y3NTZhNTc4NTI3OTQxZDEw/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="QPVN - Truyền hình Quốc Phòng Việt Nam" tvg-logo="https://i.imgur.com/UIGZw0y.png" group-title="Thiết yếu", QPVN - Truyền hình Quốc Phòng Việt Nam
+https://vips-livecdn.fptplay.net/Mzc0MDY2Nzd8cXVvY3Bob25ndm5oZF92aGxzLnNtaWx8dm5wdHwxNzE0NDQzMjc3fDE0LjE4MC4zNy4xNTl8NDE2MzJlZWE5ODNlMTJlY2M4NThlODdhM2NjMjEzODg/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="VNews - Truyền hình Thông Tấn Xã Việt Nam" tvg-logo="https://i.imgur.com/AAWIPHz.png" group-title="Thiết yếu", VNews - Truyền hình Thông Tấn Xã Việt Nam
+https://vips-livecdn.fptplay.net/Mzc0MDY2Nzd8dHR4dm5fdmhscy5zbWlsfHZucHR8MTcxNDQ0MzgxN3wxNC4xODAuMzcuMTU5fGU1Y2EyNzdkNTk4ODdiNDNmOGQzNTRhMmJjOWQ1Yzlj/epzhd2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="Nhân Dân TV - Truyền hình Nhân Dân" tvg-logo="https://i.imgur.com/7zgsFIK.png" group-title="Thiết yếu", Nhân Dân TV - Truyền hình Nhân Dân
+https://vips-livecdn.fptplay.net/Mzc0MDY2Nzd8dHJ1eWVuaGluaG5oYW5kYW5faGxzLnNtaWx8dm5wdHwxNzE0NDQ0MTMwfDE0LjE4MC4zNy4xNTl8NTE2OGYzNzBjM2IwMDNiN2JjNmI4ZDZhZTZlYWNhNzU/fnxhd2/truyenhinhnhandan_hls.smil/chunklist_b1800000.m3u8

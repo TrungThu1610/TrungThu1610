@@ -37,10 +37,10 @@ https://lsm-g11.tv360.vn:18443/307.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2
 https://fo-hlc.tv360.vn/bpk-tv/150/output/index.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3MTQ0OTIxNTUsInVyaSI6Ii9icGstdHYvMTUwL291dHB1dC9pbmRleC5tM3U4In0.NIxHquNtWxh7u8Vw1TY4SEZsqiDZGcup6Mwzws1q-U0&manifestfilter=video_bitrate:1-5767168&uid=226653457
 
 #EXTINF:-2 tvg-id="VTC2" tvg-logo="https://i.imgur.com/WUUXS6T.png" group-title="VTC", VTC2
-https://lsm-hlc.tv360.vn:18443/181.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5TB4ePfezm8SFLpHCkAoiPuWYzbzevFcfrLVKaPjw8vvsM1BCGbx6bvZqVGvwwgvuRVbLkRaTSF7zhqE8p+/yv4NxAt+UmJXA1xXu8Ejh2X34K2cGUvpxwN3q9iJms2QN69p3Qr+qX5u83dYCAUlDodVakefpksndDQaYlss/2XhA==&uid=226653457
+https://lsm-g11.tv360.vn:18443/181.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5RZNrXWjKJvX+E/lTe4IcifGTBauGgV7wYfqn6728UYnB8Fxz9GHr3UiB/9Mr4QeGv+UdZNVHnsr5ZmhXxFWe516MRsfzyI6jogb/qf93R5bD9fidG4UUFT/D6MpnFfpCVwhmcFT0EitZ/8Hc9NAq/IuoVmfois8WNPtZb35AKRwg==&uid=226653457
 
 #EXTINF:-3 tvg-id="VTC3" tvg-logo="https://i.imgur.com/hS4bgHe.png" group-title="VTC", VTC3
-https://live-zlr1.tv360.vn/manifest/VTC3_HD/master.m3u8?timestamp=1714462920&token=df55b824cdb335bfc021a49d65c60c39&manifestfilter=video_bitrate:1-5767168&uid=226653457
+https://live-zlr1.tv360.vn/manifest/VTC3_HD/master.m3u8?timestamp=1714494480&token=082abc2ef277725bd88c99969359b9e2&manifestfilter=video_bitrate:1-5767168&uid=226653457
 
 #EXTINF:-4 tvg-id="VTC4" tvg-logo="https://i.imgur.com/5cwYPTt.png" group-title="VTC", VTC4
 https://1011337676.vnns.net/-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MTQ0NDIwNzAsInVyaSI6IlwvQ0ROLUZQVDAyXC9WVEM0LVNELUFCUiIsImlwIjoiIn0.RHw9q8XhvG0OMp_aSZUkxpkW0bYEJ0gDh6cGeagbutY-/CDN-FPT02/VTC4-SD-ABR/HTV-ABR/VTC4-SD-720p/chunks.m3u8
@@ -89,3 +89,46 @@ https://fo-hlc.tv360.vn/bpk-tv/20/output/index.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGc
 
 #EXTINF:-5 tvg-id="Nhân Dân TV - Truyền hình Nhân Dân" tvg-logo="https://i.imgur.com/7zgsFIK.png" group-title="Thiết yếu", Nhân Dân TV - Truyền hình Nhân Dân
 https://lsm-g11.tv360.vn:18443/190.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5T3KgTgP3Vt14+bsjxO1YOToFLqnJVBVx6iUr2s/x0JMx7eCSsGjmHcakVoVzjbTk5Ip7TREuM1ND2PD+nQ2SfWqzxi7nuR8Ldjsk01U9zblWsZuHSjo+1O9CuUwi26DYqJty1brMJvqxapOnjMcZzKHneKpmipodsug9wQuYuMsw==&uid=226653457
+
+#EXTINF:-1 tvg-id="HTV1" tvg-logo="https://i.imgur.com/KEMSBD3.png" group-title="HTV", HTV1
+https://lsm-g12.tv360.vn:18443/53.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5SGb56QokkHN9aIcT1HMwGD+uYmwyB89/iFXpRJZcxvYkEc6eE+TC3CqLTcB5/ZwP12CI18mKd7WUMIPQURWTc4Wr4YdwErRsYItlAEAcYGYez4/OpoH/Yi8PZiFiEtQO2jrCuUS1l6IBqpkg256CO4S0c0zAGoow3dgvjqSHFddw==&uid=226653457
+
+#EXTINF:-2 tvg-id="HTV2" tvg-logo="https://i.imgur.com/Yc3cmAi.png" group-title="HTV", HTV2
+https://lsm-hlc.tv360.vn:18443/217.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5QqjQWFoH1VJcyAgpPX/xB6+Z1x+D+3FsfDIy6mgt1c/9UPxLd02THDTMMO/dfm65hScou9S4uAt5WgYnXcZB0OJJlPT7giMnGBI3jBaRWH6LJ0B4vtiH0cRTIhTr6aseiQgrjhKIRvnqmjhGaQJZQz97ce+jRROW7J0cKFom4JVg==&uid=226653457
+
+#EXTINF:-3 tvg-id="HTV3" tvg-logo="https://i.imgur.com/2iE01Ca.png" group-title="HTV", HTV3
+https://lsm-g11.tv360.vn:18443/71.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5Ryo83QgsosgnETSvG/ZKweNvehyYyIcSe2oiFTDl1rgk6V4YU8J/jcetMe5cftdKln+YXK5HUdBYiohNqcLZejk5SRLGFWq09idJ8NBifWyDSNfxhh3cGeSe1r2819OMhhhsobgT+l1rT9a9VPyg7aHxDyFiSXt1YM2w/1Mmv4Qw==&uid=226653457
+
+#EXTINF:-4 tvg-id="HTV KEY" tvg-logo="https://i.imgur.com/13jHqoG.png" group-title="HTV", HTV KEY
+https://lsm-g12.tv360.vn:18443/204.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5QVCPBc27ZWmTiK3JTiE1pvS12qBOU0F9rYElWNY42Or/OX8kz1RKwzwlynlJCK4S7Z5uILyAUKonDOnFEojMQCTB1Q8eBytyzOQRKd/j59xBTq+zSiPgPtK97YnXyVnCDgSMLNsciRCR7ZbUS8lum01Ep7Dr7Jvda3xaLtfKNVkw==&uid=226653457
+
+#EXTINF:-5 tvg-id="HTV7" tvg-logo="https://i.imgur.com/PPFu7pv.png" group-title="HTV", HTV7
+https://live-evg4.tv360.vn/YLlp7Mbc2_BSUW2F4OCM0g/1714559706/manifest/HTV7_HD/master.m3u8?manifestfilter=video_bitrate:1-5767168&uid=226653457
+
+#EXTINF:-6 tvg-id="HTV9" tvg-logo="https://i.imgur.com/1SgC1yo.png" group-title="HTV", HTV9
+https://fo-hlc.tv360.vn/bpk-tv/158/output/index.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3MTQ0OTUwNjIsInVyaSI6Ii9icGstdHYvMTU4L291dHB1dC9pbmRleC5tM3U4In0.tnLl1G0TxMYHl8ZOxEAmuqVkZwW_8RpvlfM6cclzfdk&manifestfilter=video_bitrate:1-5767168&uid=226653457
+
+#EXTINF:-7 tvg-id="HTV THỂ THAO" tvg-logo="https://i.imgur.com/z7NOxJ3.png" group-title="HTV", HTV THỂ THAO
+https://fo-hlc.tv360.vn/bpk-tv/304/output/index.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3MTQ0OTUyMTIsInVyaSI6Ii9icGstdHYvMzA0L291dHB1dC9pbmRleC5tM3U4In0.E2aOlDaqHkzVBbB8QX_M9wJ8Wpf8nL-2T1rojHUdw4Y&manifestfilter=video_bitrate:1-5767168&uid=226653457
+
+#EXTINF:-1 tvg-id="HTVC GIA ĐÌNH" tvg-logo="https://i.imgur.com/KxWRNH6.png" group-title="HTVC", HTVC GIA ĐÌNH
+https://lsm-g11.tv360.vn:18443/59.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5SbQ/AsYQZofSY0MCuUH61HwZOBN+fhMETaGIImwm4EOBPQ3rHpa3N9aBB0dr5NeoExoBtotHtawbw6kG8QsalxTunnYzkNYrnk4Rc+ZRHvuzMXF4+8IQ+3Gbu30C0+I9dkRwpHIjXjLyJbsLq3E8hoTHP6dJiWyka0DYLXcVgL3Q==&uid=226653457
+
+#EXTINF:-2 tvg-id="HTVC PHỤ NỮ" tvg-logo="https://i.imgur.com/PLliKL6.png" group-title="HTVC", HTVC PHỤ NỮ
+https://lsm-g11.tv360.vn:18443/56.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5ReYpROc3SRWdhzlrV94qGPRl0fmGhmGvty31oxFOIi5TWxp7ih5P/Bsu6e63rHL9c4/h82uEtyvEL9P266lEbBjfYQ3ZQbP7HgxmxZL/ABkkZW7ZF5J5SRYj6MdxfUPiUPx9lQNrHvvGVE817HBXVI0nlPPHWKVikUbJ72lqZ3Hw==&uid=226653457
+
+#EXTINF:-3 tvg-id="HTVC THUẦN VIỆT" tvg-logo="https://i.imgur.com/xmISDWo.png" group-title="HTVC", HTVC THUẦN VIỆT
+https://lsm-g11.tv360.vn:18443/57.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5S52RQpSwU7pgIgW6C1BX77NU0+qfaCxYcqC6Rx4n2sxvq/0heIzUuNcSGyeh9BWRHhsANg0R0PqXv1U0UU+om5zhB4v6SdGqWiBD0LxpRL2RbMEHa5bKdKCUOncOn40mEdNuHXsQhZklJtYOVG6B9S8UE5qc6n0TVxQqMlgfpO9g==&uid=226653457
+
+#EXTINF:-4 tvg-id="HTVC PHIM TRUYỆN" tvg-logo="https://i.imgur.com/SXV3ya9.png" group-title="HTVC", HTVC PHIM TRUYỆN
+
+
+#EXTINF:-5 tvg-id="HTVC CA NHẠC" tvg-logo="https://i.imgur.com/ZHVkEIC.png" group-title="HTVC", HTVC CA NHẠC
+https://lsm-g12.tv360.vn:18443/58.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5SPTpKjg0fhurZcE+BCPDP6Eghmb8/5rAw8RljPkCQhSb23VmQ7GgQ/q9bTHcHQM3hg3xg997b+ANyMW11vUprpAHhCJLIRjN2Xbgafdx7UaKTDn3cjN/5saZL5HvqqK/1edOs+Mynb/eCARdCySsugQbEKUSTFl1Cme97iEsRO6w==&uid=226653457
+
+#EXTINF:-6 tvg-id="HTVC+" tvg-logo="https://i.imgur.com/SQ9cLJj.png" group-title="HTVC", HTVC+
+https://lsm-g11.tv360.vn:18443/25.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5R5+iSA1i1o9K0D1GR22F9pbxLJWCQ0gQ+h3u29sUqBdtCsEFh2Y2j5/DU3bhzX+8g7LwLdNxKeyPvcr/he3mEz4kA9g8tUQEmAJtaeNFt0Pg0VlbSFt9yOwO1C71/j7TBD2O0iG7+YLEiobDIf1NUuK6nxZ1agbY1yz7+RUdziWw==&uid=226653457
+
+#EXTINF:-7 tvg-id="HTVC DU LỊCH & CUỘC SỐNG" tvg-logo="https://i.imgur.com/XxIO0E0.png" group-title="HTVC", HTVC DU LỊCH & CUỘC SỐNG
+https://lsm-g11.tv360.vn:18443/60.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5RQNnXIAfnlPGJAuBp+ssIrv0E9JENbNLnPoxu3s2O/FTc1vbCPxgAJkF3yHD46NM2egrSMbxj3Bjth183qcTAOPIWEbHxDqAJ33aGae6AEC1Manzdf1A7xFBNvZfaZmbTO9g5tybe6CMSwKukwaGwWTlbS+Scnb/r108kNiXzy0g==&uid=226653457
+

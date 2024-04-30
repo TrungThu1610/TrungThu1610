@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="VTV1" tvg-logo="https://i.imgur.com/nfkmvAY.png" group-title="VTV", VTV1
-https://1011337676.vnns.net/-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MTQ0NDA0NjcsInVyaSI6IlwvaHR2Y1wvdnR2MWhkLjcyMHAubmIuYWRtLnRtcyIsImlwIjoiIn0.pZ2fj9VLK7Kpg6eT1-6DmLZhO7Rweh82IY-bmpaae7g-/htvc/vtv1hd.720p.nb.adm.tms/playlist.m3u8
+https://lsm-g11.tv360.vn:18443/154.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5Q8/qcHqsBeCKOx1n+hLg22q9G9G4vRpYMOVur8tzR49xZskM2RtIJC9ZPgjVTD+k4Kn25Iqrhh0U9O45jNqMyx2hishZX6it2u3ZcAZ4ryaAmitEE/KBNjgWVqywmxmpZb4tMDl9NTzs6u+ZsXb5yBfUa030MgzEeBArYTCsr0JQ==&uid=226653457
 
 #EXTINF:-2 tvg-id="VTV2" tvg-logo="https://i.imgur.com/BVwi3K3.png" group-title="VTV", VTV2
 https://vtvgolive-vtv.vtvdigital.vn/VMyVIuALHN_Tc5TNN9Uatw/1714406091/vtvgo/vtv2-480p.m3u8
@@ -13,10 +13,10 @@ https://lsm-g12.tv360.vn:18443/155.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2
 https://s7-ntl-cdn.sohatv.vn/live/pull/SWFYEZzBG7clIMM9/vtv-live/v07FGuYejo7tTlhN/337a54767a7233703637564336316a6d50ff603ec70db5890d1d3d2cc1bbef0baa34754fcc1b7671ae6692a2326838c32d23762c3b202c2a7ff756a0f17a87bb84e9904f7559300033308917d854764bcaf0fb0ac27ac836574c321407fc08e1d76f9920dc221a024407700106b92dfd28c6ef12974b747072b007bd655e170542340b844b1c618983d26870512cc30a9cbc59c99db6585d1b4b95b8ee0b93f88de0a7a5533e1a11b7d88b8c7754b6c1495d941123d5af76c959b1b982e930670132a445893f901a2587fa51ea62c8451b44e60033308854aec92020cd5f9b17c0a63a9e8f023dd2705ccaf74efac0acb4463833c1ab9ca49fbeb637536e4fb143c9c5f22a518c4a7be20a1f34f8987c3f690c6cfb7ac977701edfc653884d07ebd9985a6dc75b70b08f6bf27028fc1172641ea4b2e1d01a22f2ecc2aab8807e1f22cc9f77b95f2a8c1ce31d4298cb52198b434cf574efdd2e994870b89f27f3ddc4e8ca2d3ec03c7379613f1b165e80b29eee4023434345d2f7eb2b524eb254/480.m3u8
 
 #EXTINF:-5 tvg-id="VTV5" tvg-logo="https://i.imgur.com/7qPKNFU.png" group-title="VTV", VTV5
-https://vtvgolive-vtv.vtvdigital.vn/WHwN1G2KLxqhds2jpqO5Bg/1714442924/vtvgo/vtv5-480p.m3u8
+https://fo-hlc.tv360.vn/bpk-tv/194/output/index.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3MTQ0OTIyNjYsInVyaSI6Ii9icGstdHYvMTk0L291dHB1dC9pbmRleC5tM3U4In0.22cLuYhUWgItlbLcDjgPyA1IxOuFwWONwmEDeufB7T4&manifestfilter=video_bitrate:1-5767168&uid=226653457
 
 #EXTINF:-6 tvg-id="VTV CẦN THƠ" tvg-logo="https://i.imgur.com/HCpqatZ.png" group-title="VTV", VTV CẦN THƠ
-https://vtvgolive-vtv.vtvdigital.vn/PZrrjouoXp8cpnzGiKkB3g/1714442995/vtvgo/vtv6-480p.m3u8
+https://fo-hlc.tv360.vn/bpk-tv/156/output/index.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3MTQ0OTIyODcsInVyaSI6Ii9icGstdHYvMTU2L291dHB1dC9pbmRleC5tM3U4In0.EOdVaEgX2-ZO4nzti92GR6oK26JDvDzNreQJ_5vjLcM&manifestfilter=video_bitrate:1-5767168&uid=226653457
 
 #EXTINF:-7 tvg-id="VTV7" tvg-logo="https://i.imgur.com/AgamSNe.png" group-title="VTV", VTV7
 https://vtvgolive-vtv.vtvdigital.vn/Vi6VnlvCUa75G1ekRiwLpw/1714443017/vtvgo/vtv7-480p.m3u8
@@ -34,7 +34,7 @@ https://lsm-g12.tv360.vn:18443/308.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2
 https://lsm-g11.tv360.vn:18443/307.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5R5kKMLm0f9UP66i47sISt9hC9fd7DV8cu8tYoXXCl0/l+zkD+d1yYVNoBslAHjYk1Il+8G+kFAE1SroLoHCbMneYnXNDUtZ+gjSjL6+ltQE5PBiHmNsoAncTpdnl1S1h1pb7vp+rSbnTaoX642bwCCyl1MxAtngg3MUtfHeTUhfw==&uid=226653457
 
 #EXTINF:-1 tvg-id="VTC1" tvg-logo="https://i.imgur.com/7HD60aD.png" group-title="VTC", VTC1
-https://1011337676.vnns.net/-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MTQ0NDA3ODYsInVyaSI6IlwvQ0ROLUZQVDAyXC9WVEMxLVNELUFCUiIsImlwIjoiIn0.JIfomp3WSTC1XDAAmSpXWAfKIwtS2OrBuN02SK42zsQ-/CDN-FPT02/VTC1-SD-ABR/HTV-ABR/VTC1-SD-720p/chunks.m3u8
+https://fo-hlc.tv360.vn/bpk-tv/150/output/index.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3MTQ0OTIxNTUsInVyaSI6Ii9icGstdHYvMTUwL291dHB1dC9pbmRleC5tM3U4In0.NIxHquNtWxh7u8Vw1TY4SEZsqiDZGcup6Mwzws1q-U0&manifestfilter=video_bitrate:1-5767168&uid=226653457
 
 #EXTINF:-2 tvg-id="VTC2" tvg-logo="https://i.imgur.com/WUUXS6T.png" group-title="VTC", VTC2
 https://lsm-hlc.tv360.vn:18443/181.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5TB4ePfezm8SFLpHCkAoiPuWYzbzevFcfrLVKaPjw8vvsM1BCGbx6bvZqVGvwwgvuRVbLkRaTSF7zhqE8p+/yv4NxAt+UmJXA1xXu8Ejh2X34K2cGUvpxwN3q9iJms2QN69p3Qr+qX5u83dYCAUlDodVakefpksndDQaYlss/2XhA==&uid=226653457

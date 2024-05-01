@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="VTV1" tvg-logo="https://i.imgur.com/nfkmvAY.png" group-title="VTV", VTV1
-https://lsm-hlc.tv360.vn:18443/154.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5RLZTU+UUlMbI2eve7hmViqEoEZeoSnsJLkxXe9ouLyAsKnfMr5OOEs8STpxzlNfeO1ff1rg8sfXw4i+s2IXP+jOufDjUb+RifhFFXGYbTkrRVQ9KXn1PR6ZKw7dwYGutgZlmj2OxkYOA7XatVHrqDU/kDbtbZ94SSt5UgpU1irxw==&uid=226653457
+https://lsm-g11.tv360.vn:18443/154.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5S0GsFlfHhc05+7wC821LMtfY2lxKqnoHURRpt6360wyHls39D9kMhVZFJ+kqLNmIz/asGDjkZafc/G7kRPViAbH+3lGgYvbPEy3OFWdh6Y3rPI7u9SAKxznJnrc6uzhIu7msgy2+GHBbyxLpb5aVVVc9FMcCEO7E7fvc6QPw/jBQ==&uid=226653457
 
 #EXTINF:-2 tvg-id="VTV2" tvg-logo="https://i.imgur.com/BVwi3K3.png" group-title="VTV", VTV2
 https://fo-hlc.tv360.vn/bpk-tv/192/output/index.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3MTQ1NzQyMzUsInVyaSI6Ii9icGstdHYvMTkyL291dHB1dC9pbmRleC5tM3U4In0.h4u7HnhKikkj_q7iXn9i5OqByXQwJiRej5elnO8qGj4&manifestfilter=video_bitrate:1-5767168&uid=226653457
@@ -132,5 +132,5 @@ https://lsm-g11.tv360.vn:18443/25.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2g
 #EXTINF:-7 tvg-id="HTVC DU LỊCH & CUỘC SỐNG" tvg-logo="https://i.imgur.com/XxIO0E0.png" group-title="HTVC", HTVC DU LỊCH & CUỘC SỐNG
 https://lsm-g11.tv360.vn:18443/60.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5RQNnXIAfnlPGJAuBp+ssIrv0E9JENbNLnPoxu3s2O/FTc1vbCPxgAJkF3yHD46NM2egrSMbxj3Bjth183qcTAOPIWEbHxDqAJ33aGae6AEC1Manzdf1A7xFBNvZfaZmbTO9g5tybe6CMSwKukwaGwWTlbS+Scnb/r108kNiXzy0g==&uid=226653457
 
-#EXTINF:-1 tvg-id="ON VIE GIẢI TRÍ" tvg-logo="https://i.imgur.com/7GSKm46.png" group-title="HTV", ON VIE GIẢI TRÍ
-https://lsm-g12.tv360.vn:18443/211.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5RZFrnUpr5lPfofYVMZh7aQTKXPoJYmZcR2zjblqmu9c5Ke04/vkHyPmjJQgm3Ijc0H70dWjl2xYhu4XaqVqffGV0h5gPX6hhSsUIz5jr7tqjVcMZ0GiedmWxmLrd95v1fBZbZBJJ/9QooSHdqoSgC0JFFU+ajpxT60daq62UIVLA==&uid=226653457
+#EXTINF:-1 tvg-id="ON VIE GIẢI TRÍ" tvg-logo="https://i.imgur.com/7GSKm46.png" group-title="VTVcab", ON VIE GIẢI TRÍ
+https://lsm-hlc.tv360.vn:18443/211.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5SuPhErzhLBwoAISnSrddcsBRgLR5D05vlx5+QVuUeSoTgEvRPCtRd5OdeAX9+3awrGu4mpV8gtcbUcWetSrCOD9wO9WsyG22YNd6+AWSjZK9wDi8Mjk6Z1JXoDOsGgEJNd2l+BObyoaciqcYp86IctHglZqbL3leinHl6wPda0BQ==&uid=226653457

@@ -13,13 +13,13 @@ https://lsm-g11.tv360.vn:18443/155.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2
 https://s12919.cdn.mytvnet.vn/clrlive_10.m3u8?c=vstv262&q=sd&deviceType=127&userId=36656678&deviceId=36112571&type=tv&p=0&zn=netott&rkey=366566788FD3Rhrg&ctl=9.39&hc=ctl11&sl=2&drmsrv=ctl11.mytvnet.vn&naddr=123.29.129.19&pkg=pkg32.hni&profiles=hd,sd,high&&bhd=7500000&bsd=5500000&bhi=3500000&location=NBH&rbk=17216246114&pnode=172.16.15.105&isp=all
 
 #EXTINF:-5 tvg-id="VTV5" tvg-logo="https://i.imgur.com/7qPKNFU.png" group-title="VTV", VTV5
-https://s12919.cdn.mytvnet.vn/clrlive_10.m3u8?c=vstv453&q=auto&deviceType=127&userId=36656678&deviceId=36112571&type=tv&p=0&zn=netott&rkey=366566781Ype5dkC&ctl=9.39&hc=ctl11&sl=2&drmsrv=ctl11.mytvnet.vn&naddr=123.29.129.19&pkg=pkg32.hni&profiles=sd,high,medium&&bsd=5500000&bhi=3500000&bme=1500000&location=NBH&rbk=17216241142&pnode=172.16.15.105&isp=all
+https://fo-hlc.tv360.vn/bpk-tv/194/output/index.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3MTQ1NzQ0NzgsInVyaSI6Ii9icGstdHYvMTk0L291dHB1dC9pbmRleC5tM3U4In0.d6WfL2kMU4LCw8FtIWujnZZcFsCBxbQwfKgVhpHiAk4&manifestfilter=video_bitrate:1-5767168&uid=226653457
 
 #EXTINF:-6 tvg-id="VTV CẦN THƠ" tvg-logo="https://i.imgur.com/HCpqatZ.png" group-title="VTV", VTV CẦN THƠ
-https://fo-hlc.tv360.vn/bpk-tv/156/output/index.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3MTQ0OTIyODcsInVyaSI6Ii9icGstdHYvMTU2L291dHB1dC9pbmRleC5tM3U4In0.EOdVaEgX2-ZO4nzti92GR6oK26JDvDzNreQJ_5vjLcM&manifestfilter=video_bitrate:1-5767168&uid=226653457
+https://fo-hlc.tv360.vn/bpk-tv/156/output/index.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3MTQ1NzQ1MjMsInVyaSI6Ii9icGstdHYvMTU2L291dHB1dC9pbmRleC5tM3U4In0.x4g3cXzaVM3QrXV3kzYVVeQIWhEIPtty68ZBr5Vl_Os&manifestfilter=video_bitrate:1-5767168&uid=226653457
 
 #EXTINF:-7 tvg-id="VTV7" tvg-logo="https://i.imgur.com/AgamSNe.png" group-title="VTV", VTV7
-https://vtvgolive-vtv.vtvdigital.vn/Vi6VnlvCUa75G1ekRiwLpw/1714443017/vtvgo/vtv7-480p.m3u8
+
 
 #EXTINF:-8 tvg-id="VTV8" tvg-logo="https://i.imgur.com/lpcltL9.png" group-title="VTV", VTV8
 https://vtvgolive-vtv.vtvdigital.vn/B9418p3NZ5JnkhlRZuXWoQ/1714443032/vtvgo/vtv8-480p.m3u8
@@ -28,10 +28,10 @@ https://vtvgolive-vtv.vtvdigital.vn/B9418p3NZ5JnkhlRZuXWoQ/1714443032/vtvgo/vtv8
 https://vtvgolive-vtv.vtvdigital.vn/cddctrbd6-yvVMduEICVhQ/1714443051/vtvgo/vtv9-480p.m3u8
 
 #EXTINF:-10 tvg-id="VTV5 TÂY NGUYÊN" tvg-logo="https://i.imgur.com/R8c2swd.png" group-title="VTV", VTV5 TÂY NGUYÊN
-https://lsm-hlc.tv360.vn:18443/308.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5QCOMpNKejqyJFT4kbpMK5GsXirTBntnx/dlFw344My362JVSwoN8OdoVRnd7UXe5won83rrC7JnZEO+xE+tOD6bELQjcvr/uz4eW3raI9INiEjvfghf7UQ37QL9Xz50H3dC6hAZgVqgEdQAI8xSpwUSwRJUX3yISwIXpLN8Xjp4w==&uid=226653457
+https://lsm-g12.tv360.vn:18443/308.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5RThkEu1ROOqtRGF2+ru+J2vAhLck7x/R/yqNbicsd8j5mWoEgfJX+76ZVowd+YjM2AP55vQrql1qTnuAXHMyWlqbbR4c+okOIy2S7VmZXgmAF8e/fIAw6/jnK2lI/O3gwQRUjNBakj0+zW6msreHmsgVs+oClu0K9wDlzMmLjTMQ==&uid=226653457
 
 #EXTINF:-11 tvg-id="VTV5 TÂY NAM BỘ" tvg-logo="https://i.imgur.com/mIUWkDx.png" group-title="VTV", VTV5 TÂY NAM BỘ
-https://lsm-g11.tv360.vn:18443/307.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5ScSZ0GJ/kSvGxc4bpeaupSVk+utkS8WQ++X3ChO2S7HbW6gB+hwZ23+hnf0CIynrlimaX60qSqQhTLAxXIGT/SCZ7500X6wtC49KjpXrLJ2iR2rq6MF/3XyRhT3xQvNv/mQ4G1Uam9+nMN9cSzbZl0kwYi/ldwEW6nivwun/M1LA==&uid=226653457
+https://lsm-g12.tv360.vn:18443/308.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5RThkEu1ROOqtRGF2+ru+J2vAhLck7x/R/yqNbicsd8j5mWoEgfJX+76ZVowd+YjM2AP55vQrql1qTnuAXHMyWlqbbR4c+okOIy2S7VmZXgmAF8e/fIAw6/jnK2lI/O3gwQRUjNBakj0+zW6msreHmsgVs+oClu0K9wDlzMmLjTMQ==&uid=226653457
 
 #EXTINF:-1 tvg-id="VTC1" tvg-logo="https://i.imgur.com/7HD60aD.png" group-title="VTC", VTC1
 https://fo-hlc.tv360.vn/bpk-tv/150/output/index.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3MTQ0OTIxNTUsInVyaSI6Ii9icGstdHYvMTUwL291dHB1dC9pbmRleC5tM3U4In0.NIxHquNtWxh7u8Vw1TY4SEZsqiDZGcup6Mwzws1q-U0&manifestfilter=video_bitrate:1-5767168&uid=226653457

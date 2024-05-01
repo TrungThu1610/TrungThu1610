@@ -43,13 +43,13 @@ https://lsm-g12.tv360.vn:18443/181.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2
 https://live-zlr1.tv360.vn/manifest/VTC3_HD/master.m3u8?timestamp=1714580718&token=931cb2e9e3d96aa79868508b38f96c6c&manifestfilter=video_bitrate:1-5767168&uid=226653457
 
 #EXTINF:-4 tvg-id="VTC4" tvg-logo="https://i.imgur.com/5cwYPTt.png" group-title="VTC", VTC4
-https://1011337676.vnns.net/-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MTQ0NDIwNzAsInVyaSI6IlwvQ0ROLUZQVDAyXC9WVEM0LVNELUFCUiIsImlwIjoiIn0.RHw9q8XhvG0OMp_aSZUkxpkW0bYEJ0gDh6cGeagbutY-/CDN-FPT02/VTC4-SD-ABR/HTV-ABR/VTC4-SD-720p/chunks.m3u8
+https://vcdn2.vtc.gov.vn:8443/encrypt/vtc4_sd.stream_270p/chunklist_w342506851_tkdG9rZW5oYXNoPUxESXRFbTRlRXd0dU92OWxOOWtpbFBzZTRFMENrZ25lT1A4SV9raWZLZHFrOEE0LUJLTFFPMnh3VF9IRnV0ZFFrN2V4QUVfYUZYdmN5MXN5WEcyUXdnPT0mdG9rZW5zdGFydHRpbWU9MTcxNDU3NDAzMiZ0b2tlbmVuZHRpbWU9MTcxNDU5NTYzMg==.m3u8
 
 #EXTINF:-5 tvg-id="VTC5" tvg-logo="https://i.imgur.com/VvfiwPJ.png" group-title="VTC", VTC5
-https://vips-livecdn.fptplay.net/Mzc0MDY2Nzd8dnRjNV9obHMuc21pbHx2bnB0fDE3MTQ0NDE4NTh8MTQuMTgwLjM3LjE1OXwzNzFjNDU5MDY3MDY1MzI5YWU5MzFmNmQ0NjZhZjU1Mg/fnxhd2/vtc5_hls.smil/chunklist_b2500000.m3u8
+https://vcdn2.vtc.gov.vn:8443/encrypt/vtc5_sd.stream_270p/chunklist_w765904268_tkdG9rZW5oYXNoPUJWUE5EelctRUktT0pQc1haQmg0WnRocmxtdkpNWkZQTVl3VVl4a0dfS2dBUURKcktuRVRwTng1OTNfSzFKRUJIZUt3d0xvcWp3MDlGMi1wRmJydTFBPT0mdG9rZW5zdGFydHRpbWU9MTcxNDU3NDA5NCZ0b2tlbmVuZHRpbWU9MTcxNDU5NTY5NA==.m3u8
 
 #EXTINF:-6 tvg-id="VTC6" tvg-logo="https://i.imgur.com/LPdjM0z.png" group-title="VTC", VTC6
-https://vips-livecdn.fptplay.net/Mzc0MDY2Nzd8dnRjNl92aGxzLnNtaWx8dm5wdHwxNzE0NDQxOTQ3fDE0LjE4MC4zNy4xNTl8MGQyMjQ0MmUzMDVhNTk3NjUyMDY4MDg1YjRkYjI3Mzk/fnxhd2/vtc6_vhls.smil/chunklist_b2500000.m3u8
+https://vcdn2.vtc.gov.vn:8443/encrypt/vtc6_sd.stream_270p/chunklist_w755197732_tkdG9rZW5oYXNoPTNKR3dHTEF6dlVTYTFvdkxpOFlBZE1ESUxOTmhTc3NrMFRuTXMzWDRBX1Vhb2t5ZHFTNTN4YjU0c3BxWnhzcVJpWjNiN20zUEtjamlsRjdzZmVpR1BnPT0mdG9rZW5zdGFydHRpbWU9MTcxNDU3NDE0OCZ0b2tlbmVuZHRpbWU9MTcxNDU5NTc0OA==.m3u8
 
 #EXTINF:-7 tvg-id="VTC7" tvg-logo="https://i.imgur.com/Y5FUbsY.png" group-title="VTC", VTC7
 https://vips-livecdn.fptplay.net/Mzc0MDY2Nzd8dG9kYXl0dl9obHMuc21pbHx2bnB0fDE3MTQ0NDIwNzN8MTQuMTgwLjM3LjE1OXxmYTQ3NmQzOWJhY2FkZmFhNDlkNWNhYzg3ODliNGVjZQ/fnxhd2/todaytv_hls.smil/chunklist_b1800000.m3u8
@@ -73,10 +73,10 @@ https://vips-livecdn.fptplay.net/Mzc0MDY2Nzd8dnRjMTRfdmhscy5zbWlsfHZucHR8MTcxNDQ
 https://vips-livecdn.fptplay.net/Mzc0MDY2Nzd8dnRjMTZfaGxzLnNtaWx8dm5wdHwxNzE0NDQyNTQ4fDE0LjE4MC4zNy4xNTl8ZjkzMWI5NzQ1NTM5NmEwZTljNzJmZWM1ZjVmOTMwZDc/fnxhd2/vtc16_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-14 tvg-id="VOV TV" tvg-logo="https://i.imgur.com/lARtNRO.png" group-title="VTC", VOV TV
-https://vips-livecdn.fptplay.net/Mzc0MDY2Nzd8dm92dHZzZF9obHMuc21pbHx2bnB0fDE3MTQ0NDI2MjR8MTQuMTgwLjM3LjE1OXwxNDhlODI0ZTE1ZTM0MWNiYjM1MWQwMmYwNTljZjQ1ZA/fnxsd1/vovtvsd_hls.smil/chunklist_b2500000.m3u8
+https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="KÊNH7 - Truyền hình Quốc Hội Việt Nam" tvg-logo="https://i.imgur.com/YtZGuSy.png" group-title="Thiết yếu", KÊNH7 - Truyền hình Quốc Hội Việt Nam
-https://lsm-hlc.tv360.vn:18443/272.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5RjibUXrHWxbYB3aPATqIUB+2gGIjXsf9NxnL6vHk3lf7ysOh/mtLc32aZNUmy9owtH+/RqY03mYbCFQ4Ssn9AHB+AQAb3R3WtY0VDofPHorVzvpO9jHLR1W3fxpMs5pvlKBksbPGFntAprGQnOvw5tbGddnwKXhsgv64U9HTqyOA==&uid=226653457
+https://lsm-g11.tv360.vn:18443/272.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5Qoso5k5GcwbRg9jOOZeeIz6PT+5h+uDgrGnyBOCCeiXKuvf+IbCKBtD/xG5CmwTz8v/gqZs/0UXZcB+LVJFOnpD3+1B0EM2NLf6qR/zXUKU8GukNjcRmxgXOQ4cQt1yauMcuMGbn/7MSc/xS5NQLt8ApxzWmVqQ9xkFI1YdXenLg==&uid=226653457
 
 #EXTINF:-2 tvg-id="ANTV - Truyền hình Công An Nhân Dân" tvg-logo="https://i.imgur.com/QztqOe0.png" group-title="Thiết yếu", ANTV - Truyền hình Công An Nhân Dân
 https://lsm-hlc.tv360.vn:18443/18.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5RZ4DwRFFy6we5XutO1oqYtF5mr88mdiCJBw5yrMgqjB2d7lh4lbgJEh7Tq8DH7gEata8wznAnADbL0jIvZxawgcmSxZ8hGLbmaUGrQ0qRKBJK1lE7kae3qY6beVBP0yJkv8VIEYVrcQ+setRHQRlmKP74MywSM7FBM6xbIRsxnkA==&uid=226653457

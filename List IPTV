@@ -4,10 +4,10 @@
 https://lsm-hlc.tv360.vn:18443/154.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5RLZTU+UUlMbI2eve7hmViqEoEZeoSnsJLkxXe9ouLyAsKnfMr5OOEs8STpxzlNfeO1ff1rg8sfXw4i+s2IXP+jOufDjUb+RifhFFXGYbTkrRVQ9KXn1PR6ZKw7dwYGutgZlmj2OxkYOA7XatVHrqDU/kDbtbZ94SSt5UgpU1irxw==&uid=226653457
 
 #EXTINF:-2 tvg-id="VTV2" tvg-logo="https://i.imgur.com/BVwi3K3.png" group-title="VTV", VTV2
-https://s12919.cdn.mytvnet.vn/clrlive_10.m3u8?c=vstv451&q=auto&deviceType=127&userId=36656678&deviceId=36112571&type=tv&p=0&zn=netott&rkey=36656678Lud9NJbW&ctl=9.40&hc=ctl12&sl=2&drmsrv=ctl12.mytvnet.vn&naddr=123.29.129.19&pkg=pkg32.hni&profiles=hd,sd,high,medium&&bhd=7500000&bsd=5500000&bhi=3500000&bme=1500000&location=NBH&rbk=17216246114&pnode=172.16.15.105&isp=all
+https://fo-hlc.tv360.vn/bpk-tv/192/output/index.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3MTQ1NzQyMzUsInVyaSI6Ii9icGstdHYvMTkyL291dHB1dC9pbmRleC5tM3U4In0.h4u7HnhKikkj_q7iXn9i5OqByXQwJiRej5elnO8qGj4&manifestfilter=video_bitrate:1-5767168&uid=226653457
 
 #EXTINF:-3 tvg-id="VTV3" tvg-logo="https://i.imgur.com/7rLCvgS.png" group-title="VTV", VTV3
-https://s12919.cdn.mytvnet.vn/clrlive_10.m3u8?c=vstv262&q=auto&deviceType=127&userId=36656678&deviceId=36112571&type=tv&p=0&zn=netott&rkey=366566788FD3Rhrg&ctl=9.39&hc=ctl11&sl=2&drmsrv=ctl11.mytvnet.vn&naddr=123.29.129.19&pkg=pkg32.hni&profiles=hd,sd,high&&bhd=7500000&bsd=5500000&bhi=3500000&location=NBH&rbk=17216246114&pnode=172.16.15.105&isp=all
+https://lsm-g11.tv360.vn:18443/155.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5SCjSPdW1u0G5tKzWBzTFvQsO500KOjchyd/+XYGUPmZmwgCCm/Ni9CBvKETitEMA/tzbk/K7uoHGMofkI/LTKWDdZ2zXspwjEwnnwmj9Kng+SSUAc6a2g2zCnmaLAicaIHoRXNTdvCVn7l6yE8ugLCOSFiPyXn8xM6tMZVAOA/Yw==&uid=226653457
 
 #EXTINF:-4 tvg-id="VTV4" tvg-logo="https://i.imgur.com/9zVTtsA.png" group-title="VTV", VTV4
 https://s12919.cdn.mytvnet.vn/clrlive_10.m3u8?c=vstv262&q=sd&deviceType=127&userId=36656678&deviceId=36112571&type=tv&p=0&zn=netott&rkey=366566788FD3Rhrg&ctl=9.39&hc=ctl11&sl=2&drmsrv=ctl11.mytvnet.vn&naddr=123.29.129.19&pkg=pkg32.hni&profiles=hd,sd,high&&bhd=7500000&bsd=5500000&bhi=3500000&location=NBH&rbk=17216246114&pnode=172.16.15.105&isp=all

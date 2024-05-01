@@ -91,22 +91,22 @@ https://fo-hlc.tv360.vn/bpk-tv/20/output/index.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGc
 https://lsm-g11.tv360.vn:18443/190.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5T3KgTgP3Vt14+bsjxO1YOToFLqnJVBVx6iUr2s/x0JMx7eCSsGjmHcakVoVzjbTk5Ip7TREuM1ND2PD+nQ2SfWqzxi7nuR8Ldjsk01U9zblWsZuHSjo+1O9CuUwi26DYqJty1brMJvqxapOnjMcZzKHneKpmipodsug9wQuYuMsw==&uid=226653457
 
 #EXTINF:-1 tvg-id="HTV1" tvg-logo="https://i.imgur.com/KEMSBD3.png" group-title="HTV", HTV1
-https://lsm-g12.tv360.vn:18443/53.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5SGb56QokkHN9aIcT1HMwGD+uYmwyB89/iFXpRJZcxvYkEc6eE+TC3CqLTcB5/ZwP12CI18mKd7WUMIPQURWTc4Wr4YdwErRsYItlAEAcYGYez4/OpoH/Yi8PZiFiEtQO2jrCuUS1l6IBqpkg256CO4S0c0zAGoow3dgvjqSHFddw==&uid=226653457
+https://lsm-g12.tv360.vn:18443/53.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5QIh9qkI5e1DVdRXn+vtPFz4/DejvAHIKYYs051ff8mmnAWsXvj0cziu98XKUu/UtSYQTdRAhlUJ8w+wLtzT9+tgAujQZWideJLj1cvHgZKQblXJMNE7NdTGf2HL1/K35de1W5YJmWB3xFoyjpPYelz3/I71ZJfDoON3TNPkf20yQ==&uid=226653457
 
 #EXTINF:-2 tvg-id="HTV2" tvg-logo="https://i.imgur.com/Yc3cmAi.png" group-title="HTV", HTV2
-https://lsm-hlc.tv360.vn:18443/217.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5QqjQWFoH1VJcyAgpPX/xB6+Z1x+D+3FsfDIy6mgt1c/9UPxLd02THDTMMO/dfm65hScou9S4uAt5WgYnXcZB0OJJlPT7giMnGBI3jBaRWH6LJ0B4vtiH0cRTIhTr6aseiQgrjhKIRvnqmjhGaQJZQz97ce+jRROW7J0cKFom4JVg==&uid=226653457
+https://lsm-g11.tv360.vn:18443/217.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5RqLMtDxAI14U49hmPIVd19V+aBmzXVdVrcHgTfdtx14QGTarVvlUsInE3kXU0WAerKTWXDr+iFz3S2LFDkz7Fm2t9JybEm3Zow7aq2PW8lAAsOKFg2uJjN9/qKjR3MoDhEEeNqk9WqJQIgdieGTqS2I9n+85NaA/NPqWQoS/e9Yg==&uid=226653457
 
 #EXTINF:-3 tvg-id="HTV3" tvg-logo="https://i.imgur.com/2iE01Ca.png" group-title="HTV", HTV3
-https://lsm-g11.tv360.vn:18443/71.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5Ryo83QgsosgnETSvG/ZKweNvehyYyIcSe2oiFTDl1rgk6V4YU8J/jcetMe5cftdKln+YXK5HUdBYiohNqcLZejk5SRLGFWq09idJ8NBifWyDSNfxhh3cGeSe1r2819OMhhhsobgT+l1rT9a9VPyg7aHxDyFiSXt1YM2w/1Mmv4Qw==&uid=226653457
+https://lsm-g12.tv360.vn:18443/71.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5QTx9dqAi/I+8LhRYpsbHbatkf3Uz7X0NlbcpXGEo9COrmaxjAGz9lQtzXacsW5PxUctUa9lKH0QaY2F3Dq2JWPec/uimrvD6hgsJaAUYbt0x09GygdlrGkceEHXeB2dmqocvnTpFusH7q2yIwl00YesDe9xOCtJubegaE5+nmnww==&uid=226653457
 
 #EXTINF:-4 tvg-id="HTV KEY" tvg-logo="https://i.imgur.com/13jHqoG.png" group-title="HTV", HTV KEY
-https://lsm-g12.tv360.vn:18443/204.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5QVCPBc27ZWmTiK3JTiE1pvS12qBOU0F9rYElWNY42Or/OX8kz1RKwzwlynlJCK4S7Z5uILyAUKonDOnFEojMQCTB1Q8eBytyzOQRKd/j59xBTq+zSiPgPtK97YnXyVnCDgSMLNsciRCR7ZbUS8lum01Ep7Dr7Jvda3xaLtfKNVkw==&uid=226653457
+https://lsm-g11.tv360.vn:18443/204.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5SLvPYbGeJIBfKJ9btpwt4dQr7qMbCd/2SGK69UVEgrGgZ50d7/gey5vmZgBcfSkBS0pCSunsUb/zmFnTzq2wnjCpytf4iSnRyCx/6WXCrF0YImyUNbvsid96Z1M0wvsZRLQZxFM4Sg/VqhijfddP9fNgJjnEKDOS51HpGiSlh3GQ==&uid=226653457
 
 #EXTINF:-5 tvg-id="HTV7" tvg-logo="https://i.imgur.com/PPFu7pv.png" group-title="HTV", HTV7
-https://live-evg4.tv360.vn/YLlp7Mbc2_BSUW2F4OCM0g/1714559706/manifest/HTV7_HD/master.m3u8?manifestfilter=video_bitrate:1-5767168&uid=226653457
+https://live-bd2.tv360.vn/kbJ-ouCgLEA0R4vteLOokA/1714646346/manifest/HTV7_HD/master.m3u8?manifestfilter=video_bitrate:1-5767168&uid=226653457
 
 #EXTINF:-6 tvg-id="HTV9" tvg-logo="https://i.imgur.com/1SgC1yo.png" group-title="HTV", HTV9
-https://fo-hlc.tv360.vn/bpk-tv/158/output/index.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3MTQ0OTUwNjIsInVyaSI6Ii9icGstdHYvMTU4L291dHB1dC9pbmRleC5tM3U4In0.tnLl1G0TxMYHl8ZOxEAmuqVkZwW_8RpvlfM6cclzfdk&manifestfilter=video_bitrate:1-5767168&uid=226653457
+https://fo-hlc.tv360.vn/bpk-tv/158/output/index.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3MTQ1ODE1ODgsInVyaSI6Ii9icGstdHYvMTU4L291dHB1dC9pbmRleC5tM3U4In0.rx_9XgGE5C27QOjCTFj5eQRUBpnbK2r6CQp2oAxuv70&manifestfilter=video_bitrate:1-5767168&uid=226653457
 
 #EXTINF:-7 tvg-id="HTV THỂ THAO" tvg-logo="https://i.imgur.com/z7NOxJ3.png" group-title="HTV", HTV THỂ THAO
 https://fo-hlc.tv360.vn/bpk-tv/304/output/index.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3MTQ0OTUyMTIsInVyaSI6Ii9icGstdHYvMzA0L291dHB1dC9pbmRleC5tM3U4In0.E2aOlDaqHkzVBbB8QX_M9wJ8Wpf8nL-2T1rojHUdw4Y&manifestfilter=video_bitrate:1-5767168&uid=226653457

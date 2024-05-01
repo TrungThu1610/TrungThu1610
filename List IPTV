@@ -79,16 +79,16 @@ https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/chunklist.m3u
 https://lsm-g11.tv360.vn:18443/272.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5Qoso5k5GcwbRg9jOOZeeIz6PT+5h+uDgrGnyBOCCeiXKuvf+IbCKBtD/xG5CmwTz8v/gqZs/0UXZcB+LVJFOnpD3+1B0EM2NLf6qR/zXUKU8GukNjcRmxgXOQ4cQt1yauMcuMGbn/7MSc/xS5NQLt8ApxzWmVqQ9xkFI1YdXenLg==&uid=226653457
 
 #EXTINF:-2 tvg-id="ANTV - Truyền hình Công An Nhân Dân" tvg-logo="https://i.imgur.com/QztqOe0.png" group-title="Thiết yếu", ANTV - Truyền hình Công An Nhân Dân
-https://lsm-hlc.tv360.vn:18443/18.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5RZ4DwRFFy6we5XutO1oqYtF5mr88mdiCJBw5yrMgqjB2d7lh4lbgJEh7Tq8DH7gEata8wznAnADbL0jIvZxawgcmSxZ8hGLbmaUGrQ0qRKBJK1lE7kae3qY6beVBP0yJkv8VIEYVrcQ+setRHQRlmKP74MywSM7FBM6xbIRsxnkA==&uid=226653457
+https://lsm-g12.tv360.vn:18443/18.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5TcvpXNY3JDMIpjmV2KtILdTt1BAmXxWVOBEFQ+qEi/3lhO5jGD4vPhPCc02YSS2Qts7uhvJQ6K/g21EwgYtHukg/ujdQl+2erhYXYz/xfc3G2Lj4/hHiDDFSwkDmi2cNdlwJ6BqMa0D8U83m6k/fW/rW0nDSDzO7bB8w8yGVk9bg==&uid=226653457
 
 #EXTINF:-3 tvg-id="QPVN - Truyền hình Quốc Phòng Việt Nam" tvg-logo="https://i.imgur.com/UIGZw0y.png" group-title="Thiết yếu", QPVN - Truyền hình Quốc Phòng Việt Nam
-https://lsm-g11.tv360.vn:18443/141.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5T57uae9aCleu0Mj27W0rA5XFAnNOLbGRHGdRu3G4npu2n9P96p3I7jb/3WTnH9rHbpM7HXczxSi11rJPGntJOyzjCL9Hvn8XXzU+kokBle25fEntPlCrBmt3+vfuzZwbeJclo9N+1iAuktT2nIneFfOAZtxJ+aYP1WhUxFJphJ6A==&uid=226653457
+https://lsm-hlc.tv360.vn:18443/141.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5RJIcvZ6L+GXGYIzPWmzOnMlTBNMCJNkQx/PlZwPlVfiu9gjEVHXhEkZ+q/BJLgptzq/hW4aJ/KvB2+VLBXCRKfJmIuTwhAfESQJ+pjl9IgyWHUYhRN3jyYB8ByAqIMJbxs6AEcj3qDNX3X0osBxKf7cZFWvJUtXyG/NGHsMurfug==&uid=226653457
 
 #EXTINF:-4 tvg-id="VNews - Truyền hình Thông Tấn Xã Việt Nam" tvg-logo="https://i.imgur.com/AAWIPHz.png" group-title="Thiết yếu", VNews - Truyền hình Thông Tấn Xã Việt Nam
-https://fo-hlc.tv360.vn/bpk-tv/20/output/index.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3MTQ0OTI1OTksInVyaSI6Ii9icGstdHYvMjAvb3V0cHV0L2luZGV4Lm0zdTgifQ.RdQVZpXsEqofBgzsQ7Rh2SgrebaFZzSGNt1GYr91JXg&manifestfilter=video_bitrate:1-5767168&uid=226653457
+https://fo-hlc.tv360.vn/bpk-tv/20/output/index.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3MTQ1OTc2MTEsInVyaSI6Ii9icGstdHYvMjAvb3V0cHV0L2luZGV4Lm0zdTgifQ.WlWNcOR7w-qZ2uwH52ul-qvsb4PQmWh1F3NHGj49DYY&manifestfilter=video_bitrate:1-5767168&uid=226653457
 
 #EXTINF:-5 tvg-id="Nhân Dân TV - Truyền hình Nhân Dân" tvg-logo="https://i.imgur.com/7zgsFIK.png" group-title="Thiết yếu", Nhân Dân TV - Truyền hình Nhân Dân
-https://lsm-g11.tv360.vn:18443/190.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5T3KgTgP3Vt14+bsjxO1YOToFLqnJVBVx6iUr2s/x0JMx7eCSsGjmHcakVoVzjbTk5Ip7TREuM1ND2PD+nQ2SfWqzxi7nuR8Ldjsk01U9zblWsZuHSjo+1O9CuUwi26DYqJty1brMJvqxapOnjMcZzKHneKpmipodsug9wQuYuMsw==&uid=226653457
+https://lsm-g11.tv360.vn:18443/190.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5R5VoApiZVZQncn3fE85MbvrW5VXdHBLXsehL2VMsUFeURovSnSl9EOlOYamx8FgtTmwEBLbTTCRDHXbPKYYzioupmQQ6+vZ431g0ZPfRDWpW/QKR3zuBIsVGX7+F76huKgsmmvpITvSqqPEfOSlgI6IbY83qEX3EWZ6yMJTeTbuw==&uid=226653457
 
 #EXTINF:-1 tvg-id="HTV1" tvg-logo="https://i.imgur.com/KEMSBD3.png" group-title="HTV", HTV1
 https://lsm-g12.tv360.vn:18443/53.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5QIh9qkI5e1DVdRXn+vtPFz4/DejvAHIKYYs051ff8mmnAWsXvj0cziu98XKUu/UtSYQTdRAhlUJ8w+wLtzT9+tgAujQZWideJLj1cvHgZKQblXJMNE7NdTGf2HL1/K35de1W5YJmWB3xFoyjpPYelz3/I71ZJfDoON3TNPkf20yQ==&uid=226653457

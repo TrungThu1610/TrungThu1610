@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="VTV1" tvg-logo="https://i.imgur.com/nfkmvAY.png" group-title="VTV", VTV1
-https://lsm-g11.tv360.vn:18443/154.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5S0GsFlfHhc05+7wC821LMtfY2lxKqnoHURRpt6360wyHls39D9kMhVZFJ+kqLNmIz/asGDjkZafc/G7kRPViAbH+3lGgYvbPEy3OFWdh6Y3rPI7u9SAKxznJnrc6uzhIu7msgy2+GHBbyxLpb5aVVVc9FMcCEO7E7fvc6QPw/jBQ==&uid=226653457
+https://lsm-g11.tv360.vn:18443/154.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5S9bHeSs/r8m/6vbv69wB/GR8wWenxeb+hUfsdNXQ8TiE2J6SArlZIImCSZQgusDK7bMg8c2wWFxg1Hddr1Ot0IXtw4kKRxrlpQdOjm5ieaSHyjtUkWTrE9bSdAtzKYW/63mHYUg1T4tyuXSJqlG3WmTakCCE92LNry2CZ24KRUpg==&uid=226653457
 
 #EXTINF:-2 tvg-id="VTV2" tvg-logo="https://i.imgur.com/BVwi3K3.png" group-title="VTV", VTV2
-https://fo-hlc.tv360.vn/bpk-tv/192/output/index.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3MTQ1OTc4NDIsInVyaSI6Ii9icGstdHYvMTkyL291dHB1dC9pbmRleC5tM3U4In0.XmD6AUeuDEL8oitVUskGs7qh7BOLD4lCLFYNdqFODVQ&manifestfilter=video_bitrate:1-5767168&uid=226653457
+https://fo-hlc.tv360.vn/bpk-tv/192/output/index.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3MTQ2ODU2NDYsInVyaSI6Ii9icGstdHYvMTkyL291dHB1dC9pbmRleC5tM3U4In0.KV5ePQGLDgWlS0UcMLdXoQiMUWSG58IxTPQahO-nhVc&manifestfilter=video_bitrate:1-5767168&uid=226653457
 
 #EXTINF:-3 tvg-id="VTV3" tvg-logo="https://i.imgur.com/7rLCvgS.png" group-title="VTV", VTV3
-https://lsm-g11.tv360.vn:18443/155.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5QYtJuD7+VNTVo1GfN9xjJ3pK6jP6fML6zHU+4hCXdDuHIPvo9O0m4QC/VXduslfWSShCFKBHWZbRT35BceAe3qrlo2dTSoieDHshru5FL3rKXb+y+0D+7Fgg3gzg9+PlpGpw7ZWuSc/WJ4ywfcloL8kwDdlFJ2synD0WVpsUXI3g==&uid=226653457
+https://lsm-g11.tv360.vn:18443/155.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5TaqNTTt2HP+xnksmZLlwypmBUfy1ve7Qp48P7mxRHqzQbMH6l7P2sJLqcBff3WZ3ClFLdHr/mLw8EaqcQmRzi7G6/0YYLhjog8yzkAmDKJ2zqtYSq3ZLIz/gmaqTI4pi+Ozk0YpcNkTY0HEmQk9v73ws5GW1N+cz/tQKaivNo6mw==&uid=226653457
 
 #EXTINF:-4 tvg-id="VTV4" tvg-logo="https://i.imgur.com/9zVTtsA.png" group-title="VTV", VTV4
 https://s12919.cdn.mytvnet.vn/clrlive_10.m3u8?c=vstv262&q=sd&deviceType=127&userId=36656678&deviceId=36112571&type=tv&p=0&zn=netott&rkey=366566788FD3Rhrg&ctl=9.39&hc=ctl11&sl=2&drmsrv=ctl11.mytvnet.vn&naddr=123.29.129.19&pkg=pkg32.hni&profiles=hd,sd,high&&bhd=7500000&bsd=5500000&bhi=3500000&location=NBH&rbk=17216246114&pnode=172.16.15.105&isp=all

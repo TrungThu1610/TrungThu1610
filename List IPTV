@@ -174,5 +174,8 @@ https://stream.brt.vn:8081/live/tv2.stream/playlist.m3u8
 #EXTINF:-11 tvg-id="BGTVHD | ĐÀI PT-TH BẮC GIANG" tvg-logo="https://i.imgur.com/j9lbGel.png" group-title="Kênh Địa Phương", BGTVHD | ĐÀI PT-TH BẮC GIANG
 https://1253668792.e.cdneverest.net/gTP8iq5fYNMxRH7BE6qa-g/1714878470/live/285f5f227e988ab4445a2138091d3d62e8d/playlist.m3u8
 
-#EXTINF:-12 tvg-id="THBTHD | ĐÀI PT-TH BẾN TRE" tvg-logo="https://i.imgur.com/v6BIJKP.png" group-title="Kênh Địa Phương", THBTHD | ĐÀI PT-TH BẾN TRE
+#EXTINF:-12 tvg-id="THBTHD | ĐÀI PT-TH BẾN TRE" tvg-logo="https://i.imgur.com/l8Ae26m.png" group-title="Kênh Địa Phương", THBTHD | ĐÀI PT-TH BẾN TRE
 https://1248728307.pop.vnptcdn.com/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFmMTE3OWMwLTZlZjktNDFlZS04NDQxLTUwNDY4NzM2NDU5NSIsImV4cCI6MTcxNDg1Njk2NywidXJpIjoiL2JlbnRyZS5hZG0uNDgwcC50bXMiLCJpYXQiOjE3MTQ4MzUzNjd9.p2EBp8ENvqX8sI59RJOzhWE9nINBMP9wEsiya28J61o-/bentre.adm.480p.tms/chunks.m3u8
+
+#EXTINF:-11 tvg-id="CTVHD | ĐÀI PT-TH CÀ MAU" tvg-logo="https://i.imgur.com/ZKV1ok2.png" group-title="Kênh Địa Phương", CTVHD | ĐÀI PT-TH CÀ MAU
+https://tv.ctvcamau.vn/live/tv/tv.m3u8

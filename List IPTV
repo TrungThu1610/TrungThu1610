@@ -161,3 +161,18 @@ https://cdn.baobinhphuoc.com.vn/live/28550d6213460634105b0bae21016f68bce/playlis
 
 #EXTINF:-7 tvg-id="BTVHD | ĐÀI PT-TH BÌNH THUẬN" tvg-logo="https://i.imgur.com/4Kk0DFV.png" group-title="Kênh Địa Phương", BTVHD | ĐÀI PT-TH BÌNH THUẬN
 https://64d0d74b76158.streamlock.net/BTVTV/binhthuantv/playlist.m3u8
+
+#EXTINF:-8 tvg-id="TBKHD | ĐÀI PT-TH BẮC KẠN" tvg-logo="https://i.imgur.com/6HQeLRw.png" group-title="Kênh Địa Phương", TBKHD | ĐÀI PT-TH BẮC KẠN
+http://123.31.36.68/live.m3u8?c=vstv360&q=high&type=tv&token=LX-ibJYRUq9pflRtYAxfYQ&time=1586395820&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1586309420781&pkg=pkg11.hni
+
+#EXTINF:-9 tvg-id="BLTVHD | ĐÀI PT-TH BẠC LIÊU" tvg-logo="https://i.imgur.com/v6BIJKP.png" group-title="Kênh Địa Phương", BLTVHD | ĐÀI PT-TH BẠC LIÊU
+https://tv.thbl.vn/live/tv/tv.m3u8
+
+#EXTINF:-10 tvg-id="BRTHD | ĐÀI PT-TH BÀ RỊA VŨNG TÀU" tvg-logo="https://i.imgur.com/WEMfHas.png" group-title="Kênh Địa Phương", BRTHD | ĐÀI PT-TH BÀ RỊA VŨNG TÀU
+https://stream.brt.vn:8081/live/tv2.stream/playlist.m3u8
+
+#EXTINF:-11 tvg-id="BGTVHD | ĐÀI PT-TH BẮC GIANG" tvg-logo="https://i.imgur.com/j9lbGel.png" group-title="Kênh Địa Phương", BGTVHD | ĐÀI PT-TH BẮC GIANG
+https://1253668792.e.cdneverest.net/gTP8iq5fYNMxRH7BE6qa-g/1714878470/live/285f5f227e988ab4445a2138091d3d62e8d/playlist.m3u8
+
+#EXTINF:-12 tvg-id="THBTHD | ĐÀI PT-TH BẾN TRE" tvg-logo="https://i.imgur.com/v6BIJKP.png" group-title="Kênh Địa Phương", THBTHD | ĐÀI PT-TH BẾN TRE
+https://1248728307.pop.vnptcdn.com/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFmMTE3OWMwLTZlZjktNDFlZS04NDQxLTUwNDY4NzM2NDU5NSIsImV4cCI6MTcxNDg1Njk2NywidXJpIjoiL2JlbnRyZS5hZG0uNDgwcC50bXMiLCJpYXQiOjE3MTQ4MzUzNjd9.p2EBp8ENvqX8sI59RJOzhWE9nINBMP9wEsiya28J61o-/bentre.adm.480p.tms/chunks.m3u8

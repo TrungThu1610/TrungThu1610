@@ -147,5 +147,17 @@ https://1011337676.vnns.net/-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MT
 #EXTINF:-2 tvg-id="BTV | ĐÀI PT-TH BÌNH ĐỊNH" tvg-logo="https://i.imgur.com/0yZnK57.png" group-title="Kênh Địa Phương", BTV | ĐÀI PT-TH BÌNH ĐỊNH
 http://truyenhinhbinhdinhonline.dynns.com:8086/live.m3u8
 
-#EXTINF:-1 tvg-id="BTV | ĐÀI PT-TH BẮC NINH" tvg-logo="https://i.imgur.com/sPyR9t6.png" group-title="Kênh Địa Phương", BTV | ĐÀI PT-TH BẮC NINH
-https://stream.thingnet.vn/live/smil:BTV.smil/playlist.m3u8
+#EXTINF:-3 tvg-id="BTV1HD | ĐÀI PT-TH BÌNH DƯƠNG" tvg-logo="https://i.imgur.com/Soe6MC8.png" group-title="Kênh Địa Phương", BTV1HD | ĐÀI PT-TH BÌNH DƯƠNG
+https://btv1011220.cdn.vnns.io/8c0cd4585ac533f3a0d828f05e43b89f1714843078/btv1.480p.tms/playlist.m3u8
+
+#EXTINF:-4 tvg-id="BTV2HD | ĐÀI PT-TH BÌNH DƯƠNG" tvg-logo="https://i.imgur.com/pEaPECX.png" group-title="Kênh Địa Phương", BTV2HD | ĐÀI PT-TH BÌNH DƯƠNG
+https://oipf0znpmnliv.vcdn.cloud/hls/btv2/index.m3u8
+
+#EXTINF:-5 tvg-id="BPTV1HD| ĐÀI PT-TH BÁO BÌNH PHƯỚC" tvg-logo="https://i.imgur.com/2zISucM.png" group-title="Kênh Địa Phương", BPTV1HD | ĐÀI PT-TH BÁO BÌNH PHƯỚC
+https://live.baobinhphuoc.com.vn/bptvlive/tv1live.m3u8
+
+#EXTINF:-6 tvg-id="BPTV2HD | ĐÀI PT-TH BÁO BÌNH PHƯỚC" tvg-logo="https://i.imgur.com/LsDFD9J.png" group-title="Kênh Địa Phương", BPTV2HD | ĐÀI PT-TH BÁO BÌNH PHƯỚC
+https://cdn.baobinhphuoc.com.vn/live/28550d6213460634105b0bae21016f68bce/playlist.m3u8
+
+#EXTINF:-7 tvg-id="BTVHD | ĐÀI PT-TH BÌNH THUẬN" tvg-logo="https://i.imgur.com/4Kk0DFV.png" group-title="Kênh Địa Phương", BTVHD | ĐÀI PT-TH BÌNH THUẬN
+https://64d0d74b76158.streamlock.net/BTVTV/binhthuantv/playlist.m3u8

@@ -144,5 +144,8 @@ https://lsm-g12.tv360.vn:18443/234.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2
 #EXTINF:-1 tvg-id="ATV HD | ĐÀI PT-TH AN GIANG" tvg-logo="https://i.imgur.com/0TkI4Ar.png" group-title="Kênh Địa Phương", ATV HD | ĐÀI PT-TH AN GIANG
 https://1011337676.vnns.net/-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MTQ4MzIyNzMsInVyaSI6IlwvQ0ROLUZQVDAyXC9BTkdJQU5HLVNELUFCUiIsImlwIjoiIn0.1KnHRynI3rSCojgoS5LFdLfod9-Wut8ULh02v_qOIDU-/CDN-FPT02/ANGIANG-SD-ABR/playlist.m3u8
 
-#EXTINF:-2 tvg-id="BTV HD | ĐÀI PT-TH BÌNH ĐỊNH" tvg-logo="https://i.imgur.com/0TkI4Ar.png" group-title="Kênh Địa Phương", BTV HD | ĐÀI PT-TH BÌNH ĐỊNH
-https://1011337676.vnns.net/-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MTQ4MzIyNzMsInVyaSI6IlwvQ0ROLUZQVDAyXC9BTkdJQU5HLVNELUFCUiIsImlwIjoiIn0.1KnHRynI3rSCojgoS5LFdLfod9-Wut8ULh02v_qOIDU-/CDN-FPT02/ANGIANG-SD-ABR/playlist.m3u8
+#EXTINF:-2 tvg-id="BTV | ĐÀI PT-TH BÌNH ĐỊNH" tvg-logo="https://i.imgur.com/0yZnK57.png" group-title="Kênh Địa Phương", BTV | ĐÀI PT-TH BÌNH ĐỊNH
+http://truyenhinhbinhdinhonline.dynns.com:8086/live.m3u8
+
+#EXTINF:-1 tvg-id="BTV | ĐÀI PT-TH BẮC NINH" tvg-logo="https://i.imgur.com/sPyR9t6.png" group-title="Kênh Địa Phương", BTV | ĐÀI PT-TH BẮC NINH
+https://stream.thingnet.vn/live/smil:BTV.smil/playlist.m3u8

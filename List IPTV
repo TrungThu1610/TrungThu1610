@@ -194,3 +194,9 @@ https://live.danangtv.vn/livestream/chunklist.m3u8
 
 #EXTINF:-18 tvg-id="DRTHD | ĐÀI PT-TH ĐẮK LẮK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Dai_PT-TH_Dak_Lak.png" group-title="Kênh Địa Phương", DRTHD | ĐÀI PT-TH ĐẮK LẮK
 https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/chunklist.m3u8
+
+#EXTINF:-19 tvg-id="ĐTV | ĐÀI PT-TH ĐIỆN BIÊN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/Logo_%C4%90%C3%A0i_Ph%C3%A1t_thanh_%26_Truy%E1%BB%81n_h%C3%ACnh_%C4%90i%E1%BB%87n_Bi%C3%AAn_-_%C4%90TV_from_2019.svg" group-title="Kênh Địa Phương", ĐTV | ĐÀI PT-TH ĐIỆN BIÊN
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&q=high&type=tv&token=LX-ibJYRUq9pflRtYAxfYQ&time=1586395820&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1586309420781&pkg=pkg11.hni
+
+#EXTINF:-20 tvg-id="DNRTV1HD | ĐÀI PT-TH ĐỒNG NAI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Dai_PT-TH_Dak_Lak.png" group-title="Kênh Địa Phương", DNRTV1HD | ĐÀI PT-TH ĐỒNG NAI
+https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/chunklist.m3u8

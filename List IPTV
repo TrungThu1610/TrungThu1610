@@ -76,19 +76,19 @@ https://vips-livecdn.fptplay.net/Mzc0MDY2Nzd8dnRjMTZfaGxzLnNtaWx8dm5wdHwxNzE0NDQ
 https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="KÊNH7 - Truyền hình Quốc Hội Việt Nam" tvg-logo="https://i.imgur.com/YtZGuSy.png" group-title="Thiết yếu", KÊNH7 - Truyền hình Quốc Hội Việt Nam
-https://lsm-g11.tv360.vn:18443/272.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5Qoso5k5GcwbRg9jOOZeeIz6PT+5h+uDgrGnyBOCCeiXKuvf+IbCKBtD/xG5CmwTz8v/gqZs/0UXZcB+LVJFOnpD3+1B0EM2NLf6qR/zXUKU8GukNjcRmxgXOQ4cQt1yauMcuMGbn/7MSc/xS5NQLt8ApxzWmVqQ9xkFI1YdXenLg==&uid=226653457
+https://cloudvodqh.tek4tv.vn/live/quochoi_abr.m3u8
 
 #EXTINF:-2 tvg-id="ANTV - Truyền hình Công An Nhân Dân" tvg-logo="https://i.imgur.com/QztqOe0.png" group-title="Thiết yếu", ANTV - Truyền hình Công An Nhân Dân
-https://lsm-g12.tv360.vn:18443/18.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5TcvpXNY3JDMIpjmV2KtILdTt1BAmXxWVOBEFQ+qEi/3lhO5jGD4vPhPCc02YSS2Qts7uhvJQ6K/g21EwgYtHukg/ujdQl+2erhYXYz/xfc3G2Lj4/hHiDDFSwkDmi2cNdlwJ6BqMa0D8U83m6k/fW/rW0nDSDzO7bB8w8yGVk9bg==&uid=226653457
+https://lives.antv.gov.vn/channel/antv/channel/antv_1080p/chunks.m3u8
 
 #EXTINF:-3 tvg-id="QPVN - Truyền hình Quốc Phòng Việt Nam" tvg-logo="https://i.imgur.com/UIGZw0y.png" group-title="Thiết yếu", QPVN - Truyền hình Quốc Phòng Việt Nam
-https://lsm-hlc.tv360.vn:18443/141.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5RJIcvZ6L+GXGYIzPWmzOnMlTBNMCJNkQx/PlZwPlVfiu9gjEVHXhEkZ+q/BJLgptzq/hW4aJ/KvB2+VLBXCRKfJmIuTwhAfESQJ+pjl9IgyWHUYhRN3jyYB8ByAqIMJbxs6AEcj3qDNX3X0osBxKf7cZFWvJUtXyG/NGHsMurfug==&uid=226653457
+https://playlive.qpvn.vn/live/qpvn.m3u8
 
 #EXTINF:-4 tvg-id="VNews - Truyền hình Thông Tấn Xã Việt Nam" tvg-logo="https://i.imgur.com/AAWIPHz.png" group-title="Thiết yếu", VNews - Truyền hình Thông Tấn Xã Việt Nam
-https://fo-hlc.tv360.vn/bpk-tv/20/output/index.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3MTQ1OTc2MTEsInVyaSI6Ii9icGstdHYvMjAvb3V0cHV0L2luZGV4Lm0zdTgifQ.WlWNcOR7w-qZ2uwH52ul-qvsb4PQmWh1F3NHGj49DYY&manifestfilter=video_bitrate:1-5767168&uid=226653457
+https://zjizeoupprliv.vcdn.cloud/live/smil:vnews.smil/playlist.m3u8
 
 #EXTINF:-5 tvg-id="Nhân Dân TV - Truyền hình Nhân Dân" tvg-logo="https://i.imgur.com/7zgsFIK.png" group-title="Thiết yếu", Nhân Dân TV - Truyền hình Nhân Dân
-https://lsm-g11.tv360.vn:18443/190.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5R5VoApiZVZQncn3fE85MbvrW5VXdHBLXsehL2VMsUFeURovSnSl9EOlOYamx8FgtTmwEBLbTTCRDHXbPKYYzioupmQQ6+vZ431g0ZPfRDWpW/QKR3zuBIsVGX7+F76huKgsmmvpITvSqqPEfOSlgI6IbY83qEX3EWZ6yMJTeTbuw==&uid=226653457
+https://arpt.tvic.vn/live/nhandan720/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HTV1" tvg-logo="https://i.imgur.com/KEMSBD3.png" group-title="HTV", HTV1
 https://lsm-g12.tv360.vn:18443/53.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5QIh9qkI5e1DVdRXn+vtPFz4/DejvAHIKYYs051ff8mmnAWsXvj0cziu98XKUu/UtSYQTdRAhlUJ8w+wLtzT9+tgAujQZWideJLj1cvHgZKQblXJMNE7NdTGf2HL1/K35de1W5YJmWB3xFoyjpPYelz3/I71ZJfDoON3TNPkf20yQ==&uid=226653457
@@ -189,5 +189,8 @@ http://118.107.85.4:1935/live/smil:CRTV.smil/chunklist_w2108665895_b584000.m3u8
 #EXTINF:-16 tvg-id="DA NANG TV1HD | ĐÀI PT-TH ĐÀ NẴNG" tvg-logo="https://www.danangtv.vn/images/drt1.png" group-title="Kênh Địa Phương", DA NANG TV1HD | ĐÀI PT-TH ĐÀ NẴNG
 https://live.danangtv.vn/livedrt1/playlist.m3u8
 
-#EXTINF:-16 tvg-id="DA NANG TV2HD | ĐÀI PT-TH ĐÀ NẴNG" tvg-logo="https://www.danangtv.vn/images/drt2.png" group-title="Kênh Địa Phương", DA NANG TV2HD | ĐÀI PT-TH ĐÀ NẴNG
+#EXTINF:-17 tvg-id="DA NANG TV2HD | ĐÀI PT-TH ĐÀ NẴNG" tvg-logo="https://www.danangtv.vn/images/drt2.png" group-title="Kênh Địa Phương", DA NANG TV2HD | ĐÀI PT-TH ĐÀ NẴNG
 https://live.danangtv.vn/livestream/chunklist.m3u8
+
+#EXTINF:-18 tvg-id="DRTHD | ĐÀI PT-TH ĐẮK LẮK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Dai_PT-TH_Dak_Lak.png" group-title="Kênh Địa Phương", DRTHD | ĐÀI PT-TH ĐẮK LẮK
+https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/chunklist.m3u8

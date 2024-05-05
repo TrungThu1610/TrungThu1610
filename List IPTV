@@ -224,3 +224,27 @@ https://cloudstreamhntv.tek4tv.vn/capture/HN1_720p/playlist.m3u8
 
 #EXTINF:-28 tvg-id="H2HD | ĐÀI PT-TH HÀ NỘI" tvg-logo="https://logos.fandom.com/vi/wiki/T%E1%BA%ADp_tin:HanoiTV2_HD_logo_2023.png" group-title="Kênh Địa Phương", H2HD | ĐÀI PT-TH HÀ NỘI
 https://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/chunklist_w915005968_b1064000_slen.m3u8
+
+#EXTINF:-29 tvg-id="HTTVHD | ĐÀI PT-TH HÀ TĨNH" tvg-logo="https://hatinhtv.vn/Media/FileManager/httvgo.svg" group-title="Kênh Địa Phương", HTTVHD | ĐÀI PT-TH HÀ TĨNH
+https://wse.hatinhtv.net/live/httv1/playlist.m3u8
+
+#EXTINF:-30 tvg-id="THD | ĐÀI PT-TH HẢI DƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/bb/THD_2023.png/revision/latest/scale-to-width-down/200?cb=20230925025249&path-prefix=vi" group-title="Kênh Địa Phương", THD | ĐÀI PT-TH HẢI DƯƠNG
+http://truyenhinh.vnptvas.vn/live.m3u8?c=vstv369&q=medium&type=tv&token=gSTbcZR03r352niGuuUCig&time=1591151021&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1591064621734&pkg=pkg11.hni
+
+#EXTINF:-31 tvg-id="THPHD | ĐÀI PT-TH HẢI PHÒNG" tvg-logo="https://vi.m.wikipedia.org/wiki/T%E1%BA%ADp_tin:THP_logo.svg#/media/File%3ALogo_THP_chuan_2017.jpg" group-title="Kênh Địa Phương", THPHD | ĐÀI PT-TH HẢI PHÒNG
+https://1253562137.e.cdneverest.net/zFCzD6WyytOvEsjdnbS76w/1714963820/live/285a4c99665fdf84e94956c66bc7dc7eb5d/playlist.m3u8
+
+#EXTINF:-32 tvg-id="THP+HD | ĐÀI PT-TH HẢI PHÒNG" tvg-logo="https://hatinhtv.vn/Media/FileManager/httvgo.svg" group-title="Kênh Địa Phương", THP+HD | ĐÀI PT-TH HẢI PHÒNG
+https://1253562137.e.cdneverest.net/LLXnzyj5d5UK4fq4456tkQ/1714964063/live/28548ca35823d41426d8b3da7ed82bdab13/playlist.m3u8
+
+#EXTINF:-33 tvg-id="HGTV | ĐÀI PT-TH HÀ GIANG" tvg-logo="http://hagiangtv.vn/file/8a10a0d36ee998fd016f17e4ed0d65f3/f13eaeaa63442578016345c47b8a01f5/122020/logotop_20201222165716.png" group-title="Kênh Địa Phương", HGTV | ĐÀI PT-TH HÀ GIANG
+http://123.31.36.68/live.m3u8?c=vstv365&q=high&type=tv&token=LX-ibJYRUq9pflRtYAxfYQ&time=1586395820&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1586309420781&pkg=pkg11.hni
+
+#EXTINF:-34 tvg-id="HYHD | ĐÀI PT-TH HƯNG YÊN" tvg-logo="https://hungyentv.vn/templates/frontend/hytv/Assets/img/hyv2/bgleft.png" group-title="Kênh Địa Phương", HYHD | ĐÀI PT-TH HƯNG YÊN
+https://1253218859.e.cdneverest.net/4wt1ckRocohL-zTkn3KP1Q/1714964611/live/285f5449d7d7d2946e0bd2d54b7e60f25a4/playlist.m3u8
+
+#EXTINF:-35 tvg-id="KG | ĐÀI PT-TH KIÊN GIANG" tvg-logo="https://play-lh.googleusercontent.com/vRCZusz6GEAnsONZIzv_p_3uj4V80dMXATWWH8JVIGcKO0xjdilZs1NmCXCxiUTmIvo" group-title="Kênh Địa Phương", KGHD | ĐÀI PT-TH KIÊN GIANG
+https://tv.kgtv.vn/live/kgtv/kgtv.m3u8
+
+#EXTINF:-35 tvg-id="KG1 | ĐÀI PT-TH KIÊN GIANG" tvg-logo="https://kgtv.vn/wp-content/uploads/2021/11/kg1.png" group-title="Kênh Địa Phương", KG1HD | ĐÀI PT-TH KIÊN GIANG
+https://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8

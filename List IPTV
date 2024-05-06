@@ -257,3 +257,24 @@ http://123.31.36.68/live.m3u8?c=vstv361&q=high&type=tv&token=1111&time=158639582
 
 #EXTINF:-39 tvg-id="LSTVHD | ĐÀI PT-TH LẠNG SƠN" tvg-logo="https://langsontv.vn/templates/frontend/lstv/Assets/img/logo_lstv.png" group-title="Kênh Địa Phương", LSTVHD | ĐÀI PT-TH LẠNG SƠN
 https://stream.langsontv.vn/live/285c78da0c246524c90917842f8de03bd21/playlist.m3u8
+
+#EXTINF:-40 tvg-id="THLC | ĐÀI PT-TH LÀO CAI" tvg-logo="http://laocaitv.vn/lib/images/logo1.png" group-title="Kênh Địa Phương", THLC | ĐÀI PT-TH LÀO CAI
+https://cdn.3ssoft.vn/livetv/laocaitv/laocaitv/index.m3u8
+
+#EXTINF:-41 tvg-id="LTVHD | ĐÀI PT-TH LÂM ĐỒNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3a/LTV_Lam_Dong_logo_YouTube.png/revision/latest/scale-to-width-down/200?cb=20220529234205&path-prefix=vi" group-title="Kênh Địa Phương", LTVHD | ĐÀI PT-TH LÂM ĐỒNG
+http://118.107.85.5:1935/live/smil:LTV.smil/playlist.m3u8
+
+#EXTINF:-42 tvg-id="LA34 | ĐÀI PT-TH LONG AN" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f5/LA34_Long_An_TV_logo_2022.png/revision/latest/scale-to-width-down/200?cb=20230924005341&path-prefix=vi" group-title="Kênh Địa Phương", LA34 | ĐÀI PT-TH LONG AN
+https://cdn.la34.com.vn/live/2851dc2c9af68834814a89e61db0faee561/playlist.m3u8
+
+#EXTINF:-43 tvg-id="NTVHD | ĐÀI PT-TH NAM ĐỊNH" tvg-logo="http://namdinhtv.vn/sites/all/modules/custom/customer_tv/images/radioonline.jpg" group-title="Kênh Địa Phương", NTVHD | ĐÀI PT-TH NAM ĐỊNH
+
+
+#EXTINF:-44 tvg-id="NTVHD | ĐÀI PT-TH NGHỆ AN" tvg-logo="https://truyenhinhnghean.vn/file/4028eaa46735a26101673a4df345003c/4028eaa467639b470167787ae85a0a2d/logo.png" group-title="Kênh Địa Phương", NTVHD | ĐÀI PT-TH NGHỆ AN
+https://cdn.mediatech.vn/natvlive/tv1live.m3u8
+
+#EXTINF:-45 tvg-id="NBTVHD | ĐÀI PT-TH NINH BÌNH" tvg-logo="https://nbtv.vn/templates/frontend/nbtv/Assets/img/logo.png" group-title="Kênh Địa Phương", NBTVHD | ĐÀI PT-TH NINH BÌNH
+https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/playlist.m3u8
+
+#EXTINF:-45 tvg-id="PTVHD | ĐÀI PT-TH PHÚ THỌ" tvg-logo="https://phuthotv.vn/sites/default/files/styles/quang_cao/public/file_anhquangcao/logo_0_1.png?itok=pj_phEWU" group-title="Kênh Địa Phương", PTVHD | ĐÀI PT-TH PHÚ THỌ
+https://cdn.3ssoft.vn/live/phuthotv/phuthotv/index.m3u8?t=QAAAulyzRLpBETcF7C5m4g&e=1715020353

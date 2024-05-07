@@ -151,7 +151,7 @@ http://truyenhinhbinhdinhonline.dynns.com:8086/live.m3u8
 https://btv1011220.cdn.vnns.io/8c0cd4585ac533f3a0d828f05e43b89f1714843078/btv1.480p.tms/playlist.m3u8
 
 #EXTINF:-4 tvg-id="BTV2HD | ĐÀI PT-TH BÌNH DƯƠNG" tvg-logo="https://i.imgur.com/pEaPECX.png" group-title="Kênh Địa Phương", BTV2HD | ĐÀI PT-TH BÌNH DƯƠNG
-https://oipf0znpmnliv.vcdn.cloud/hls/btv2/index.m3u8
+https://btv2011220.cdn.vnns.io/ff3a19d8f2693a43a5f4e69f9a4055911715063296/btv2.480p.tms/playlist.m3u8
 
 #EXTINF:-5 tvg-id="BPTV1HD| ĐÀI PT-TH BÁO BÌNH PHƯỚC" tvg-logo="https://i.imgur.com/2zISucM.png" group-title="Kênh Địa Phương", BPTV1HD | ĐÀI PT-TH BÁO BÌNH PHƯỚC
 https://live.baobinhphuoc.com.vn/bptvlive/tv1live.m3u8
@@ -310,3 +310,9 @@ https://pa.thst.vn/hls-live/livepkgr/_definst_/liveevent/livestreamstv2.m3u8
 
 #EXTINF:-51 tvg-id="STVHD | ĐÀI PT-TH SƠN LA" tvg-logo="https://media.sonlatv.vn/upload/files/logo/Dai_Son_La-op3-icon-03.png" group-title="Kênh Địa Phương", STVHD | ĐÀI PT-TH SƠN LA
 https://cdn.sonlatv.vn/live/28595222e707a364251b8724717894baa46/playlist.m3u8
+
+#EXTINF:-51 tvg-id="TTV11 | ĐÀI PT-TH TÂY NINH" tvg-logo="http://tayninhtv.vn/public/Home/images/logotayninh.png" group-title="Kênh Địa Phương", TTV11 | ĐÀI PT-TH TÂY NINH
+http://202.43.109.142:1935/ttv11/tntv/playlist.m3u8
+
+#EXTINF:-51 tvg-id="TTV | ĐÀI PT-TH THANH HOÁ" tvg-logo="https://static.mediacdn.vn/truyenhinhthanhhoa.vn/image/Logo-fix2.png" group-title="Kênh Địa Phương", STV | ĐÀI PT-TH THANH HOÁ
+https://cdn-traffic.sohatv.vn/live/pull/Y5Kan2X7I7GHo4VN/thth-live/eVc6tyHuFZLQYgmX/337a54767a7233703637564336316a6dd44c03bef7a31ac95a84bb4bdc549ef2e9a89952ea3b76ad8f1169c3ac49e52cc63e8a46fc1be2b380404f840de123fc9ef19f5923bdf3ac1c5a765b3ccf50a06e6f20c335b183087d64003ff88fd2926801dd843597d587b691e0ce33a912b6179774e600dee60d5ab8d45b69cef484317ce8cbc392032c14221f13c789dddf51a608654b68340ffe842242251335ddb54cbc398e644041587a4c145114de81/master.m3u8

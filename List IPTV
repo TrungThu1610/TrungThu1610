@@ -316,3 +316,12 @@ http://202.43.109.142:1935/ttv11/tntv/playlist.m3u8
 
 #EXTINF:-51 tvg-id="TTV | ĐÀI PT-TH THANH HOÁ" tvg-logo="https://static.mediacdn.vn/truyenhinhthanhhoa.vn/image/Logo-fix2.png" group-title="Kênh Địa Phương", STV | ĐÀI PT-TH THANH HOÁ
 https://cdn-traffic.sohatv.vn/live/pull/Y5Kan2X7I7GHo4VN/thth-live/eVc6tyHuFZLQYgmX/337a54767a7233703637564336316a6dd44c03bef7a31ac95a84bb4bdc549ef2e9a89952ea3b76ad8f1169c3ac49e52cc63e8a46fc1be2b380404f840de123fc9ef19f5923bdf3ac1c5a765b3ccf50a06e6f20c335b183087d64003ff88fd2926801dd843597d587b691e0ce33a912b6179774e600dee60d5ab8d45b69cef484317ce8cbc392032c14221f13c789dddf51a608654b68340ffe842242251335ddb54cbc398e644041587a4c145114de81/master.m3u8
+
+#EXTINF:-51 tvg-id="TTV | ĐÀI PT-TH TUYÊN QUANG" tvg-logo="https://tuyenquangtv.vn/file/fb9e3a036ab59c2c016ac3618a0d3aec/402881ee65c6a7030165c6d1406e0052/logo.png" group-title="Kênh Địa Phương", TTV | ĐÀI PT-TH TUYÊN QUANG
+https://live.tuyenquangtv.vn/hls/ttv.m3u8
+
+#EXTINF:-51 tvg-id="TBTVHD | ĐÀI PT-TH THÁI BÌNH" tvg-logo="https://thaibinhtv.vn/templates/frontend/tbtv/Assets/img/logo.png" group-title="Kênh Địa Phương", TBTVHD | ĐÀI PT-TH THÁI BÌNH
+https://1253668792.e.cdneverest.net/tJiFkJ3dtrjegZaEQ10Y-Q/1715129937/live/285fe61ba73072f428d8a626d764222e744/playlist.m3u8
+
+#EXTINF:-51 tvg-id="TN1HD | ĐÀI PT-TH THÁI NGUYÊN" tvg-logo="https://thainguyentv.vn/modules/frontend/themes/ptthtn/images/logo.png?v=2.620240326105855" group-title="Kênh Địa Phương", TN1HD | ĐÀI PT-TH THÁI NGUYÊN
+https://streaming.thainguyentv.vn/hls/livestream.m3u8

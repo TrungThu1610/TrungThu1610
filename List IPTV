@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="VTV1" tvg-logo="https://i.imgur.com/nfkmvAY.png" group-title="VTV", VTV1
-https://vtvgolive-vtv.vtvdigital.vn/PEQAHLXm-tZBIh1nDZaCjw/1715158170/vtvgo/vtv1-manifest.m3u8
+https://live-on-v1-akm.akamaized.net/manifest/vtv1-premium/master.m3u8?manifestfilter=video_height%3A1-720
 
 #EXTINF:-2 tvg-id="VTV2" tvg-logo="https://i.imgur.com/BVwi3K3.png" group-title="VTV", VTV2
 https://vtvgolive-vtv.vtvdigital.vn/Qhie_XRjrsvMKGO5iJxcHA/1715158208/vtvgo/vtv2-manifest.m3u8

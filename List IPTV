@@ -325,3 +325,27 @@ https://1253668792.e.cdneverest.net/tJiFkJ3dtrjegZaEQ10Y-Q/1715129937/live/285fe
 
 #EXTINF:-51 tvg-id="TN1HD | ĐÀI PT-TH THÁI NGUYÊN" tvg-logo="https://thainguyentv.vn/modules/frontend/themes/ptthtn/images/logo.png?v=2.620240326105855" group-title="Kênh Địa Phương", TN1HD | ĐÀI PT-TH THÁI NGUYÊN
 https://streaming.thainguyentv.vn/hls/livestream.m3u8
+
+#EXTINF:-51 tvg-id="TRT | ĐÀI PT-TH THỪA THIÊN HUẾ" tvg-logo="https://www.trt.com.vn/uploads/static/Banner/LogoTRTOnline.png" group-title="Kênh Địa Phương", TRT | ĐÀI PT-TH THỪA THIÊN HUẾ
+
+
+#EXTINF:-51 tvg-id="THTGHD | ĐÀI PT-TH TIỀN GIANG" tvg-logo="http://www.thtg.vn/wp-content/uploads/2019/12/banner-trangchu.jpg" group-title="Kênh Địa Phương", THTGHD | ĐÀI PT-TH TIỀN GIANG
+http://123.25.238.45:1935/live/thtg/playlist.m3u8
+
+#EXTINF:-51 tvg-id="THTVHD | ĐÀI PT-TH TRÀ VINH" tvg-logo="https://travinhtv.vn/images/TH/Logo.svg" group-title="Kênh Địa Phương", THTVHD | ĐÀI PT-TH TRÀ VINH
+https://60acee235f4d5.streamlock.net/THTV/travinhtv/chunklist_w1660567273.m3u8
+
+#EXTINF:-51 tvg-id="THTV2 | ĐÀI PT-TH TRÀ VINH" tvg-logo="https://static.wikia.nocookie.net/34135b1a-fe9e-4cff-8bea-e0cec1da9759/scale-to-width/755" group-title="Kênh Địa Phương", THTV2 | ĐÀI PT-TH TRÀ VINH
+https://618b88f69e53b.streamlock.net/THTV2/travinhtv2/chunklist_w2003261673.m3u8
+
+#EXTINF:-51 tvg-id="THVL1HD | ĐÀI PT-TH VĨNH LONG" tvg-logo="https://static3.thvli.vn/assets/thumbnail/2022/03/03/t8y7f7qx_1Logo-THVL1-n.jpg" group-title="Kênh Địa Phương", THVL1HD | ĐÀI PT-TH VĨNH LONG
+https://live4.thvli.vn/CD2SlonFFcgHKMfwhZQeBQ/1715176837/thvli/thvl1-abr/playlist.m3u8
+
+#EXTINF:-51 tvg-id="THVL2HD | ĐÀI PT-TH VĨNH LONG" tvg-logo="https://static3.thvli.vn/assets/thumbnail/2022/03/03/yfo6q02b_2Logo-THVL2-n.jpg" group-title="Kênh Địa Phương", THVL2HD | ĐÀI PT-TH VĨNH LONG
+https://live3.thvli.vn/YWGLYNAGaQbLLFdBP0ZoxA/1715176650/thvli/thvl2-abr/playlist.m3u8
+
+#EXTINF:-51 tvg-id="THVL3HD | ĐÀI PT-TH VĨNH LONG" tvg-logo="https://static3.thvli.vn/assets/thumbnail/2022/03/03/6mwxzkye_3Logo-THVL3-n.jpg" group-title="Kênh Địa Phương", THVL3HD | ĐÀI PT-TH VĨNH LONG
+https://live3.thvli.vn/HilYS2vNa3ke6leYL7s5Mg/1715176606/thvli/thvl3-abr/playlist.m3u8
+
+#EXTINF:-51 tvg-id="THVL4HD | ĐÀI PT-TH VĨNH LONG" tvg-logo="https://static3.thvli.vn/assets/thumbnail/2022/03/03/6fj0pzuh_4Logo-THVL4-n.jpg" group-title="Kênh Địa Phương", THVL4HD | ĐÀI PT-TH VĨNH LONG
+https://live3.thvli.vn/ZETdqEZ9qQi7kX7yP0V5cw/1715176944/thvli/thvl4-abr/playlist.m3u8

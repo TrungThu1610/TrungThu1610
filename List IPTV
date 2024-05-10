@@ -219,7 +219,7 @@ https://60acee235f4d5.streamlock.net/HGTV/d1/playlist.m3u8
 #EXTINF:-26 tvg-id="THHNHD | ĐÀI PT-TH HÀ NAM" tvg-logo="https://media.hanamtv.vn/upload/files/logo/logo_400.png" group-title="Kênh Địa Phương", THHNHD | ĐÀI PT-TH HÀ NAM
 https://cdn.hanamtv.vn/live/285361fcafcd0ec47bba2fa3f5870f8dc72/playlist.m3u8
 
-#EXTINF:-27 tvg-id="H1HD | ĐÀI PT-TH HÀ NỘI" tvg-logo="https://logos.fandom.com/vi/wiki/T%E1%BA%ADp_tin:HanoiTV1_HD_logo.png" group-title="Kênh Địa Phương", H1HD | ĐÀI PT-TH HÀ NỘI
+#EXTINF:-27 tvg-id="H1HD | ĐÀI PT-TH HÀ NỘI" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/01/HanoiTV1_HD_logo.png/revision/latest?cb=20240411131824&path-prefix=vi" group-title="Kênh Địa Phương", H1HD | ĐÀI PT-TH HÀ NỘI
 https://cloudstreamhntv.tek4tv.vn/capture/HN1_720p/playlist.m3u8
 
 #EXTINF:-28 tvg-id="H2HD | ĐÀI PT-TH HÀ NỘI" tvg-logo="https://logos.fandom.com/vi/wiki/T%E1%BA%ADp_tin:HanoiTV2_HD_logo_2023.png" group-title="Kênh Địa Phương", H2HD | ĐÀI PT-TH HÀ NỘI

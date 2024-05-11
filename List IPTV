@@ -276,7 +276,7 @@ https://cdn.mediatech.vn/natvlive/tv1live.m3u8
 #EXTINF:-45 tvg-id="NBTVHD | ĐÀI PT-TH NINH BÌNH" tvg-logo="https://nbtv.vn/templates/frontend/nbtv/Assets/img/logo.png" group-title="Kênh Địa Phương", NBTVHD | ĐÀI PT-TH NINH BÌNH
 https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/playlist.m3u8
 
-#EXTINF:-44 tvg-id="NTVHD | ĐÀI PT-TH NINH THUẬN" tvg-logo="https://truyenhinhnghean.vn/file/4028eaa46735a26101673a4df345003c/4028eaa467639b470167787ae85a0a2d/logo.png" group-title="Kênh Địa Phương", NTVHD | ĐÀI PT-TH NINH THUẬN
+#EXTINF:-44 tvg-id="NTVHD | ĐÀI PT-TH NINH THUẬN" tvg-logo="https://quantri.ninhthuantv.vn/wp-content/uploads/2023/01/top-header-logo-full-name.png" group-title="Kênh Địa Phương", NTVHD | ĐÀI PT-TH NINH THUẬN
 https://60acee235f4d5.streamlock.net/live/mystream/playlist.m3u8
 
 #EXTINF:-46 tvg-id="PTVHD | ĐÀI PT-TH PHÚ THỌ" tvg-logo="https://phuthotv.vn/sites/default/files/styles/quang_cao/public/file_anhquangcao/logo_0_1.png?itok=pj_phEWU" group-title="Kênh Địa Phương", PTVHD | ĐÀI PT-TH PHÚ THỌ

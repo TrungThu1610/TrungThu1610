@@ -34,43 +34,43 @@ https://vtvgolive-vtv.vtvdigital.vn/CXqNuSJSdtFaG3zscGg9Jg/1715158297/vtvgo/vtv5
 https://vtvgolive-vtv.vtvdigital.vn/GPXru-BqC4iAct4cb3_Fsw/1715158311/vtvgo/vtv5tnb-manifest.m3u8
 
 #EXTINF:-1 tvg-id="VTC1" tvg-logo="https://i.imgur.com/7HD60aD.png" group-title="VTC", VTC1
-https://fo-hlc.tv360.vn/bpk-tv/150/output/index.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3MTQ1NzQ5MTMsInVyaSI6Ii9icGstdHYvMTUwL291dHB1dC9pbmRleC5tM3U4In0._Xsq8kKUC3PGudvCT-J-_2X5ZKd9Qn13N0Z-TrhcQfw&manifestfilter=video_bitrate:1-5767168&uid=226653457
+https://vcdn2.vtc.gov.vn:8443/encrypt/vtc1_sd.smil/chunklist_w1237557091_b1296000_sleng_tkdG9rZW5oYXNoPTQ3bEY3YTVvS0hpaHBoMG9vMlpYbE1JYU1uVVVqcEFYS1QtbERIVFBHWnlnWGFLZ2JpTDBiVDk0cHlORUlfUGtPbWFmLVMyYUVjc3hsd1hnVWFqUlhRPT0mdG9rZW5zdGFydHRpbWU9MTcxNTQ0MDczMiZ0b2tlbmVuZHRpbWU9MTcxNTQ2MjMzMg==.m3u8
 
 #EXTINF:-2 tvg-id="VTC2" tvg-logo="https://i.imgur.com/WUUXS6T.png" group-title="VTC", VTC2
-https://lsm-g12.tv360.vn:18443/181.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5TFNjqrTrKpT99GaK02zopgyQkC69fv3bEi1xS7F+TTb5rowWDwr9OPCifcmLhGDTVKbBWfgQSWRGvhXdkzv6vFiwcjvK2DT2k6bZsNpKEEn1SpIW+Y31iLl+2K+i/1s6Erc7GQ0yqoZnTTlx3o/9ivI0TYJ7bMzJLDWqHtK+ZAKQ==&uid=226653457
+https://vcdn2.vtc.gov.vn:8443/encrypt/vtc2_sd.stream_270p/chunklist_w1423980288_tkdG9rZW5oYXNoPTVhYkx5MXdZLW0yZm1GRzQ5WVpidW91R1VoWEk3b19fMzlRZmFWTnBxamxEZXBCWjN3MUVUVzZ0VlhMOGx4MGRacjB6UVFGQ3U3dlQ4Z3VzVzhPRTR3PT0mdG9rZW5zdGFydHRpbWU9MTcxNTQ0MDgzOSZ0b2tlbmVuZHRpbWU9MTcxNTQ2MjQzOQ==.m3u8
 
 #EXTINF:-3 tvg-id="VTC3" tvg-logo="https://i.imgur.com/hS4bgHe.png" group-title="VTC", VTC3
-https://live-zlr1.tv360.vn/manifest/VTC3_HD/master.m3u8?timestamp=1714580718&token=931cb2e9e3d96aa79868508b38f96c6c&manifestfilter=video_bitrate:1-5767168&uid=226653457
+https://vcdn2.vtc.gov.vn:8443/GeoIP/vtc3_sd.stream_720p/chunklist_w1771263021_tkdG9rZW5oYXNoPXBVeUVVQnJ2TFFrZ2ZWVUFraFk2OXR1MXNsT3FHR2FnTVZWekFIVl8wd04wdkJEUzBjV1lGWHFURmxDOGd6dHpXbmNETF9jZUdpTzNhYlpTMW05VXRnPT0mdG9rZW5zdGFydHRpbWU9MTcxNTQ0MDg4MCZ0b2tlbmVuZHRpbWU9MTcxNTQ2MjQ4MA==.m3u8
 
 #EXTINF:-4 tvg-id="VTC4" tvg-logo="https://i.imgur.com/5cwYPTt.png" group-title="VTC", VTC4
-https://vcdn2.vtc.gov.vn:8443/encrypt/vtc4_sd.stream_270p/chunklist_w342506851_tkdG9rZW5oYXNoPUxESXRFbTRlRXd0dU92OWxOOWtpbFBzZTRFMENrZ25lT1A4SV9raWZLZHFrOEE0LUJLTFFPMnh3VF9IRnV0ZFFrN2V4QUVfYUZYdmN5MXN5WEcyUXdnPT0mdG9rZW5zdGFydHRpbWU9MTcxNDU3NDAzMiZ0b2tlbmVuZHRpbWU9MTcxNDU5NTYzMg==.m3u8
+https://vcdn2.vtc.gov.vn:8443/encrypt/vtc4_sd.stream_270p/chunklist_w1646532958_tkdG9rZW5oYXNoPVZ2X1dfdE84Y20xX1JHNFBCWHc0TmxJVDd5c0FTOG05ZTl1ZjlYS3F4VExCM0lpblVERGV3NGRUMmdKVUdGMEx2Tm9YRzdQWHBtN0FNUEo5TVcyUzRRPT0mdG9rZW5zdGFydHRpbWU9MTcxNTQ0MDkxMiZ0b2tlbmVuZHRpbWU9MTcxNTQ2MjUxMg==.m3u8
 
 #EXTINF:-5 tvg-id="VTC5" tvg-logo="https://i.imgur.com/VvfiwPJ.png" group-title="VTC", VTC5
-https://vcdn2.vtc.gov.vn:8443/encrypt/vtc5_sd.stream_270p/chunklist_w765904268_tkdG9rZW5oYXNoPUJWUE5EelctRUktT0pQc1haQmg0WnRocmxtdkpNWkZQTVl3VVl4a0dfS2dBUURKcktuRVRwTng1OTNfSzFKRUJIZUt3d0xvcWp3MDlGMi1wRmJydTFBPT0mdG9rZW5zdGFydHRpbWU9MTcxNDU3NDA5NCZ0b2tlbmVuZHRpbWU9MTcxNDU5NTY5NA==.m3u8
+https://vcdn2.vtc.gov.vn:8443/encrypt/vtc5_sd.stream_270p/chunklist_w695182777_tkdG9rZW5oYXNoPUoxR0kybTc5eHZwcG5MRjlzWHowdTJrWDFDSXVyVnZkTXNmaXNhNlNGbU1oTVFTQ2VBS1Q4Nk1zd2IxdXNJUW5JTm9TSEEwbEpKSjJPZ3hQSXM3ZUp3PT0mdG9rZW5zdGFydHRpbWU9MTcxNTQ0MDkzNiZ0b2tlbmVuZHRpbWU9MTcxNTQ2MjUzNg==.m3u8
 
 #EXTINF:-6 tvg-id="VTC6" tvg-logo="https://i.imgur.com/LPdjM0z.png" group-title="VTC", VTC6
-https://vcdn2.vtc.gov.vn:8443/encrypt/vtc6_sd.stream_270p/chunklist_w755197732_tkdG9rZW5oYXNoPTNKR3dHTEF6dlVTYTFvdkxpOFlBZE1ESUxOTmhTc3NrMFRuTXMzWDRBX1Vhb2t5ZHFTNTN4YjU0c3BxWnhzcVJpWjNiN20zUEtjamlsRjdzZmVpR1BnPT0mdG9rZW5zdGFydHRpbWU9MTcxNDU3NDE0OCZ0b2tlbmVuZHRpbWU9MTcxNDU5NTc0OA==.m3u8
+https://vcdn2.vtc.gov.vn:8443/encrypt/vtc6_sd.stream_270p/chunklist_w516225334_tkdG9rZW5oYXNoPTF6WWh4clFiSWEwYVROWjJJd0hjZmlyLTFKYmRFbUtjbHJVYnRlcFpjZnlDSXFfTk43Mlc3Qk1ldDZhQTZVeWo2LVZmWFU2Q2hyVFBQZ2VPLTIyUUdnPT0mdG9rZW5zdGFydHRpbWU9MTcxNTQ0MDk1NSZ0b2tlbmVuZHRpbWU9MTcxNTQ2MjU1NQ==.m3u8
 
 #EXTINF:-7 tvg-id="VTC7" tvg-logo="https://i.imgur.com/Y5FUbsY.png" group-title="VTC", VTC7
-https://vips-livecdn.fptplay.net/Mzc0MDY2Nzd8dG9kYXl0dl9obHMuc21pbHx2bnB0fDE3MTQ0NDIwNzN8MTQuMTgwLjM3LjE1OXxmYTQ3NmQzOWJhY2FkZmFhNDlkNWNhYzg3ODliNGVjZQ/fnxhd2/todaytv_hls.smil/chunklist_b1800000.m3u8
+https://vcdn2.vtc.gov.vn:8443/encrypt/vtc7_sd.stream_270p/chunklist_w1065960435_tkdG9rZW5oYXNoPUhkYXRMQ3NsQTdHazQxLXdXUXBNUm9ta2xSTkJiNFpEZTUyRGNsemV6c1NSc25jUVk5RnhzN2poaXVTREFrTHJfMV94RFRQcE5qR3NKaE5YYWE0aVp3PT0mdG9rZW5zdGFydHRpbWU9MTcxNTQ0MDk4MiZ0b2tlbmVuZHRpbWU9MTcxNTQ2MjU4Mg==.m3u8
 
 #EXTINF:-8 tvg-id="VTC8" tvg-logo="https://i.imgur.com/4k57giG.png" group-title="VTC", VTC8
-https://vips-livecdn.fptplay.net/Mzc0MDY2Nzd8dnRjOF9obHMuc21pbHx2bnB0fDE3MTQ0NDIxNzd8MTQuMTgwLjM3LjE1OXw1OGJjOGZiNDZlMGMyODM3N2ViOTY5YjA4OGRjOTlkNg/fnxhd2/vtc8_hls.smil/chunklist_b2500000.m3u8
+https://vcdn2.vtc.gov.vn:8443/encrypt/vtc8_sd.smil/chunklist_w592884477_b1296000_sleng_tkdG9rZW5oYXNoPS1wVE1zX2hERzRQYkJvdTJRRE5LR1RzUjg1ZEdZdWIwT1F3UFFpSmFMRHZ1UWlralVsQWlhMHB2QzJybHZET0ViRXJkSnlOS05wVVZ5a0gyQmVFNm5BPT0mdG9rZW5zdGFydHRpbWU9MTcxNTQ0MTAzMiZ0b2tlbmVuZHRpbWU9MTcxNTQ2MjYzMg==.m3u8
 
 #EXTINF:-9 tvg-id="VTC9" tvg-logo="https://i.imgur.com/cnAht7i.png" group-title="VTC", VTC9
-https://vips-livecdn.fptplay.net/Mzc0MDY2Nzd8dnRjOV9obHMuc21pbHx2bnB0fDE3MTQ0NDIyNDh8MTQuMTgwLjM3LjE1OXwyYzhjMWY5NGY2NTlhOTlkOWE5NjU5ZTZhZGI3MTYzNw/fnxhd2/vtc9_hls.smil/chunklist_b2500000.m3u8
+https://vcdn2.vtc.gov.vn:8443/encrypt/vtc9_sd.stream_270p/chunklist_w1055807839_tkdG9rZW5oYXNoPVpqdTVBeGk3NXlBUXkwQnVaRWZoTmxCSHpDQ1VMTXBHS3kwTXJ3TU1Tam5zNGI4dm5GVVpTVFdrdzhoX0k3TDFNUUh6WHRIMlVfSTRGWXpXQVN4MHNnPT0mdG9rZW5zdGFydHRpbWU9MTcxNTQ0MTA0NyZ0b2tlbmVuZHRpbWU9MTcxNTQ2MjY0Nw==.m3u8
 
 #EXTINF:-10 tvg-id="VTC10" tvg-logo="https://i.imgur.com/PaVbyxg.png" group-title="VTC", VTC10
-https://vips-livecdn.fptplay.net/Mzc0MDY2Nzd8dnRjMTBoZF92aGxzLnNtaWx8dm5wdHwxNzE0NDQyMzMwfDE0LjE4MC4zNy4xNTl8ODMwOWU2YmM4YjYyODAxZWRiYzJkMzRiOWIyZGQ1Mjg/fnxhd2/vtc10hd_vhls.smil/chunklist_b1800000.m3u8
+https://vcdn2.vtc.gov.vn:8443/encrypt/vtc10_sd.smil/chunklist_w1109878958_b2228000_sleng_tkdG9rZW5oYXNoPUVIQnhEdmFaeVd3dmhWS3B1YW82aVhjWmlpVW5sei1EVWhuTmVYQ2NQQWU3UlFQeUNVdEltOXExa29YdVpUNUY2MF9PcWExaTl1QktGclJCODRLeTh3PT0mdG9rZW5zdGFydHRpbWU9MTcxNTQ0MTA2MSZ0b2tlbmVuZHRpbWU9MTcxNTQ2MjY2MQ==.m3u8
 
 #EXTINF:-11 tvg-id="VTC11" tvg-logo="https://i.imgur.com/0ovZkYb.png" group-title="VTC", VTC11
-https://vips-livecdn.fptplay.net/Mzc0MDY2Nzd8dnRjMTFfaGxzLnNtaWx8dm5wdHwxNzE0NDQyNDE1fDE0LjE4MC4zNy4xNTl8ZDk3MDc2ZmQ0YmIzNmZlNjFhMzY5MGEyZDRmOGM3NDY/fnxhd2/vtc11_hls.smil/chunklist_b1800000.m3u8
+https://vcdn2.vtc.gov.vn:8443/encrypt/vtc11_sd.stream_270p/chunklist_w1538039050_tkdG9rZW5oYXNoPUI2X1VMTjJ6Z013Y3ZSMzVJdEdXSHVjV3BsWU0yTklhMVE3TzlOMXgwZFVMbFRSbDNzeThXOUZfWkdISndoTS11RGt2LW9tUDZWclRKaDdHVmVmeXZ3PT0mdG9rZW5zdGFydHRpbWU9MTcxNTQ0MTA4OCZ0b2tlbmVuZHRpbWU9MTcxNTQ2MjY4OA==.m3u8
 
 #EXTINF:-12 tvg-id="VTC14" tvg-logo="https://i.imgur.com/phXvB0t.png" group-title="VTC", VTC14
-https://vips-livecdn.fptplay.net/Mzc0MDY2Nzd8dnRjMTRfdmhscy5zbWlsfHZucHR8MTcxNDQ0MjQ3NnwxNC4xODAuMzcuMTU5fDM4ZjFkOTBiNTQzYzllYWQ0ZTFjZTM2NjhkMGI2ZmI3/fnxhd2/vtc14_vhls.smil/chunklist_b5000000.m3u8
+https://vcdn2.vtc.gov.vn:8443/encrypt/vtc14_sd.stream_270p/chunklist_w1160179265_tkdG9rZW5oYXNoPUNRRUtnRGFTQzhMX0ZqZXozc1dmUnFmTzNBU1NNTENmMW0zY2U4VExVVmxWaTlPYl9ZZ01yT3NKdHpjUzF6dkVfSmhuLWh4cW1aMFA3S0JQdEo3WVRBPT0mdG9rZW5zdGFydHRpbWU9MTcxNTQ0MTEwNyZ0b2tlbmVuZHRpbWU9MTcxNTQ2MjcwNw==.m3u8
 
 #EXTINF:-13 tvg-id="VTC16" tvg-logo="https://i.imgur.com/rltq2Dy.png" group-title="VTC", VTC16
-https://vips-livecdn.fptplay.net/Mzc0MDY2Nzd8dnRjMTZfaGxzLnNtaWx8dm5wdHwxNzE0NDQyNTQ4fDE0LjE4MC4zNy4xNTl8ZjkzMWI5NzQ1NTM5NmEwZTljNzJmZWM1ZjVmOTMwZDc/fnxhd2/vtc16_hls.smil/chunklist_b2500000.m3u8
+https://vcdn2.vtc.gov.vn:8443/encrypt/vtc16_sd.stream_270p/playlist.m3u8?tokenhash=0r9ARpUYPNpQmOLKsbotgktkrtYX7Sa8voin6zEF9K9FKRr0WUss56PdTZMkrdCnwIsaNRNBVT72kwDFp8L-pQ==&tokenstarttime=1715441139&tokenendtime=1715462739
 
 #EXTINF:-14 tvg-id="VOV TV" tvg-logo="https://i.imgur.com/lARtNRO.png" group-title="VTC", VOV TV
 https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/chunklist.m3u8

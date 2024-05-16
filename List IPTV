@@ -358,3 +358,18 @@ http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8
 
 #EXTINF:-51 tvg-id="YTVHD | ĐÀI PT-TH YÊN BÁI" tvg-logo="https://yenbaitv.org.vn/modules/frontend/themes/ptthyb/images/logo.png?v=2.620240408085552" group-title="Kênh Địa Phương", YTVHD | ĐÀI PT-TH YÊN BÁI
 https://live.yenbaitv.org.vn/hls/livestream.m3u8
+
+#EXTINF:-51 tvg-id="VOV1 | ĐÀI TIẾNG NÓI VIỆT NAM" tvg-logo="https://adminvov1.vov.gov.vn/UploadImages/Config/vov1.png" group-title="VOV RADIO", VOV1 | ĐÀI TIẾNG NÓI VIỆT NAM
+https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8
+
+#EXTINF:-51 tvg-id="VOV2 | ĐÀI TIẾNG NÓI VIỆT NAM" tvg-logo="https://vov2-media.solidtech.vn/themes/custom/vov_news/logo.png" group-title="VOV RADIO, VOV2 | ĐÀI TIẾNG NÓI VIỆT NAM
+https://stream.vov.vn/f14803b482a7c3c0d62f0a4583357f0d1715858247/vov2-audio/playlist.m3u8
+
+#EXTINF:-51 tvg-id="VOV3 | ĐÀI TIẾNG NÓI VIỆT NAM" tvg-logo="https://vov3-media.solidtech.vn/sites/default/files/styles/front_large/public/2022-09/logo%20vov3_0.jpg" group-title="VOV RADIO, VOV3 | ĐÀI TIẾNG NÓI VIỆT NAM
+https://stream.vov.vn/a3842fb9dfc882cbbd91bbf77b6e7b001715868724/vov3-audio/playlist.m3u8
+
+#EXTINF:-51 tvg-id="VOV4 | ĐÀI TIẾNG NÓI VIỆT NAM" tvg-logo="https://vov4.vov.vn/themes/custom/vov_4/images/logo/vov4_logo.png" group-title="VOV RADIO, VOV4 | ĐÀI TIẾNG NÓI VIỆT NAM
+https://stream.vov.vn/69b58502924ecb8ef9720a71e738c8131715868968/audio/vovvn1_vovTTHCM.stream_aac/playlist.m3u8
+
+#EXTINF:-51 tvg-id="VOV5 | ĐÀI TIẾNG NÓI VIỆT NAM" tvg-logo="https://vov4.vov.vn/themes/custom/vov_4/images/logo/vov4_logo.png" group-title="VOV RADIO, VOV5 | ĐÀI TIẾNG NÓI VIỆT NAM
+https://stream.vov.vn/69b58502924ecb8ef9720a71e738c8131715868968/audio/vovvn1_vovTTHCM.stream_aac/playlist.m3u8

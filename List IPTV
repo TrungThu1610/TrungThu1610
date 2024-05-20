@@ -169,13 +169,13 @@ http://123.31.36.68/live.m3u8?c=vstv360&q=high&type=tv&token=LX-ibJYRUq9pflRtYAx
 https://tv.thbl.vn/live/tv/tv.m3u8
 
 #EXTINF:-10 tvg-id="BRTHD | ĐÀI PT-TH BÀ RỊA VŨNG TÀU" tvg-logo="https://i.imgur.com/WEMfHas.png" group-title="Kênh Địa Phương", BRTHD | ĐÀI PT-TH BÀ RỊA VŨNG TÀU
-https://1254240447.pop.vnptcdn.com/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImE4ZjBkNTU0LTZlYWEtNDU5ZC1iYzMwLTExNjc4ODE0MDYzOCIsImV4cCI6MTcxNTQ1OTc5MCwidXJpIjoiL0JSVCIsImlhdCI6MTcxNTQzODE5MH0.ufh9_5j903R-2l178_Q0i9Gry6xc9D0G2OvA24nT5_g-/BRT/playlist.m3u8
+https://1254240447.pop.vnptcdn.com/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjNiNTdjNTg0LTZkYzMtNDU0ZS1hNmQ2LWIwZDhhZGJkYjdhZSIsImV4cCI6MTcxNjI2ODgzNSwidXJpIjoiL0JSVCIsImlhdCI6MTcxNjI0NzIzNX0.awd_kUn1p1ogTcD_0o_5EtS1YcSNsoB35gfqtfIflUE-/BRT/chunks.m3u8
 
 #EXTINF:-11 tvg-id="BGTVHD | ĐÀI PT-TH BẮC GIANG" tvg-logo="https://i.imgur.com/j9lbGel.png" group-title="Kênh Địa Phương", BGTVHD | ĐÀI PT-TH BẮC GIANG
 https://1253668792.e.cdneverest.net/0J820hnQjABoQxXbdyO4vw/1714925411/live/285f5f227e988ab4445a2138091d3d62e8d/playlist.m3u8
 
 #EXTINF:-12 tvg-id="THBTHD | ĐÀI PT-TH BẾN TRE" tvg-logo="https://i.imgur.com/l8Ae26m.png" group-title="Kênh Địa Phương", THBTHD | ĐÀI PT-TH BẾN TRE
-https://1248728307.pop.vnptcdn.com/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjJkZWE3MmYyLTgyMDAtNDdmYy05MTFjLWMyMWIzODYzY2IwMSIsImV4cCI6MTcxNTQ1OTk0MCwidXJpIjoiL2JlbnRyZS5hZG0uNDgwcC50bXMiLCJpYXQiOjE3MTU0MzgzNDB9.tuG7TWb5XZFRnngncgJ2A4v3FxUJgBmOf3zT071LtmA-/bentre.adm.480p.tms/playlist.m3u8
+https://1248728307.pop.vnptcdn.com/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjhiYzVkM2JlLTg2M2YtNDg5YS05YWUxLWIxYjJhZWYyNGJhYiIsImV4cCI6MTcxNjI2ODU4OSwidXJpIjoiL2JlbnRyZS5hZG0uNDgwcC50bXMiLCJpYXQiOjE3MTYyNDY5ODl9.OLCnfY0w0VO7eY6sbAtA3CtJ5N9VC2dJJnpkrUK9ddQ-/bentre.adm.480p.tms/chunks.m3u8
 
 #EXTINF:-13 tvg-id="CTVHD | ĐÀI PT-TH CÀ MAU" tvg-logo="https://i.imgur.com/ZKV1ok2.png" group-title="Kênh Địa Phương", CTVHD | ĐÀI PT-TH CÀ MAU
 https://tv.ctvcamau.vn/live/tv/tv.m3u8
@@ -232,16 +232,16 @@ https://wse.hatinhtv.net/live/httv1/playlist.m3u8
 http://truyenhinh.vnptvas.vn/live.m3u8?c=vstv369&q=medium&type=tv&token=gSTbcZR03r352niGuuUCig&time=1591151021&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1591064621734&pkg=pkg11.hni
 
 #EXTINF:-31 tvg-id="THPHD | ĐÀI PT-TH HẢI PHÒNG" tvg-logo="https://media.thhp.vn/upload/files/avatar/NewFolder/Logo_THP.png" group-title="Kênh Địa Phương", THPHD | ĐÀI PT-TH HẢI PHÒNG
-https://1253562137.e.cdneverest.net/fuejVZtJQi_fS1dLPhsmDA/1715481324/live/285a4c99665fdf84e94956c66bc7dc7eb5d/playlist.m3u8
+https://1253562137.e.cdneverest.net/5eALa15vlWbrQTGrAmpASg/1716276689/live/285a4c99665fdf84e94956c66bc7dc7eb5d/playlist.m3u8
 
 #EXTINF:-32 tvg-id="THP+HD | ĐÀI PT-TH HẢI PHÒNG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/THP%2B_HD.png/revision/latest?cb=20200902112432" group-title="Kênh Địa Phương", THP+HD | ĐÀI PT-TH HẢI PHÒNG
-https://1253562137.e.cdneverest.net/rNgm0UYChuTANuRVqwXFRw/1715481283/live/28548ca35823d41426d8b3da7ed82bdab13/chunklist.m3u8
+https://1253562137.e.cdneverest.net/Z_Bcci0Q_bpFzRLY8N9_uw/1716290222/live/28548ca35823d41426d8b3da7ed82bdab13/playlist.m3u8
 
 #EXTINF:-33 tvg-id="HGTV | ĐÀI PT-TH HÀ GIANG" tvg-logo="http://hagiangtv.vn/file/8a10a0d36ee998fd016f17e4ed0d65f3/f13eaeaa63442578016345c47b8a01f5/122020/logotop_20201222165716.png" group-title="Kênh Địa Phương", HGTV | ĐÀI PT-TH HÀ GIANG
 http://123.31.36.68/live.m3u8?c=vstv365&q=high&type=tv&token=LX-ibJYRUq9pflRtYAxfYQ&time=1586395820&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1586309420781&pkg=pkg11.hni
 
 #EXTINF:-34 tvg-id="HYHD | ĐÀI PT-TH HƯNG YÊN" tvg-logo="https://hungyentv.vn/templates/frontend/hytv/Assets/img/hyv2/bgleft.png" group-title="Kênh Địa Phương", HYHD | ĐÀI PT-TH HƯNG YÊN
-https://1253218859.e.cdneverest.net/4wt1ckRocohL-zTkn3KP1Q/1714964611/live/285f5449d7d7d2946e0bd2d54b7e60f25a4/playlist.m3u8
+https://1253218859.e.cdneverest.net/qFkMsjHgld69rmyTal1HAw/1716290084/live/285f5449d7d7d2946e0bd2d54b7e60f25a4/playlist.m3u8
 
 #EXTINF:-35 tvg-id="KG | ĐÀI PT-TH KIÊN GIANG" tvg-logo="https://play-lh.googleusercontent.com/vRCZusz6GEAnsONZIzv_p_3uj4V80dMXATWWH8JVIGcKO0xjdilZs1NmCXCxiUTmIvo" group-title="Kênh Địa Phương", KGHD | ĐÀI PT-TH KIÊN GIANG
 https://tv.kgtv.vn/live/kgtv/kgtv.m3u8
@@ -283,11 +283,9 @@ https://60acee235f4d5.streamlock.net/live/mystream/playlist.m3u8
 https://cdn.3ssoft.vn/live/phuthotv/phuthotv/index.m3u8?t=QAAAulyzRLpBETcF7C5m4g&e=1715020353
 
 #EXTINF:-47 tvg-id="PTP | ĐÀI PT-TH PHÚ YÊN" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/47/Logo_PTP_c%C3%B3_website_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/200?cb=20230715004200&path-prefix=vi" group-title="Kênh Địa Phương", PTP | ĐÀI PT-TH PHÚ YÊN
-
-
+http://113.161.4.48:8080/phuyen/tv/index.m3u8
 
 #EXTINF:-48 tvg-id="QBTVHD | ĐÀI PT-TH QUẢNG BÌNH" tvg-logo="https://qbtv.vn/App_Themes/common/BANNER_WEB_CHUAN/QBTV.png" group-title="Kênh Địa Phương", QBTVHD | ĐÀI PT-TH QUẢNG BÌNH
-
 
 
 #EXTINF:-49 tvg-id="QRTHD | ĐÀI PT-TH QUẢNG NAM" tvg-logo="https://qrt.vn/wp-content/uploads/2022/09/QRT_logo_2019.png.webp" group-title="Kênh Địa Phương", QRTHD | ĐÀI PT-TH QUẢNG NAM
@@ -330,7 +328,7 @@ https://1253668792.e.cdneverest.net/tJiFkJ3dtrjegZaEQ10Y-Q/1715129937/live/285fe
 https://streaming.thainguyentv.vn/hls/livestream.m3u8
 
 #EXTINF:-51 tvg-id="TRT | ĐÀI PT-TH THỪA THIÊN HUẾ" tvg-logo="https://www.trt.com.vn/uploads/static/Banner/LogoTRTOnline.png" group-title="Kênh Địa Phương", TRT | ĐÀI PT-TH THỪA THIÊN HUẾ
-
+https://live.trt.com.vn/TRT-Online/playlist.m3u8
 
 #EXTINF:-51 tvg-id="THTGHD | ĐÀI PT-TH TIỀN GIANG" tvg-logo="http://www.thtg.vn/wp-content/uploads/2019/12/banner-trangchu.jpg" group-title="Kênh Địa Phương", THTGHD | ĐÀI PT-TH TIỀN GIANG
 http://123.25.238.45:1935/live/thtg/playlist.m3u8

@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="VTV1" tvg-logo="https://i.imgur.com/nfkmvAY.png" group-title="VTV", VTV1
-https://live-on-v1-akm.akamaized.net/manifest/vtv1-premium/master.m3u8?manifestfilter=video_height%3A1-720
+https://vod01-g11.tv360.vn:18443//154_2.m3u8?AdaptiveType=HLS&SessionID=0d62af66-cec0-4a02-ade1-97328ded074e&MinBw=0&MaxBw=20000000
 
 #EXTINF:-2 tvg-id="VTV2" tvg-logo="https://i.imgur.com/BVwi3K3.png" group-title="VTV", VTV2
-https://live-on-v2-akm.akamaized.net/manifest/vtv2/master.m3u8?drmv2=1&manifestfilter=video_height%3A1-720
+https://vod20-g11.tv360.vn:18443//192_1.m3u8?AdaptiveType=HLS&SessionID=bc0d664d-da19-4eed-9377-687daec2dac3&MinBw=0&MaxBw=20000000
 
 #EXTINF:-3 tvg-id="VTV3" tvg-logo="https://i.imgur.com/7rLCvgS.png" group-title="VTV", VTV3
 https://live-on-v1-akm.akamaized.net/manifest/vtv3-premium/master.m3u8?manifestfilter=video_height%3A1-720

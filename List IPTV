@@ -1,22 +1,22 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="VTV1" tvg-logo="https://i.imgur.com/nfkmvAY.png" group-title="VTV", VTV1
-https://vod01-g11.tv360.vn:18443//154_2.m3u8?AdaptiveType=HLS&SessionID=0d62af66-cec0-4a02-ade1-97328ded074e&MinBw=0&MaxBw=20000000
+https://fo-hlc.tv360.vn/bpk-tv/154/output/index.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3MTk3MzMzNDQsInVyaSI6Ii9icGstdHYvMTU0L291dHB1dC9pbmRleC5tM3U4In0.SAS_JjfN0JV8kxyXSWiOTZhLeqd8q1h_gU3EWY4GzyY&minrate=0&maxrate=6000000&uid=226653457
 
 #EXTINF:-2 tvg-id="VTV2" tvg-logo="https://i.imgur.com/BVwi3K3.png" group-title="VTV", VTV2
-https://vod20-g11.tv360.vn:18443//192_1.m3u8?AdaptiveType=HLS&SessionID=bc0d664d-da19-4eed-9377-687daec2dac3&MinBw=0&MaxBw=20000000
+https://live-evg4.tv360.vn/82dPxQWE8Mok2ulh0965hA/1719798696/manifest/vtv2/master.m3u8?manifestfilter=video_bitrate:1-5767168&uid=226653457
 
 #EXTINF:-3 tvg-id="VTV3" tvg-logo="https://i.imgur.com/7rLCvgS.png" group-title="VTV", VTV3
-https://live-on-v1-akm.akamaized.net/manifest/vtv3-premium/master.m3u8?manifestfilter=video_height%3A1-720
+https://live-bd2.tv360.vn/Ix2n3OXkN2PTqwGwpRQ1FA/1719798837/manifest/VTV3/master.m3u8?manifestfilter=video_bitrate:1-5767168&uid=226653457
 
 #EXTINF:-4 tvg-id="VTV4" tvg-logo="https://i.imgur.com/9zVTtsA.png" group-title="VTV", VTV4
-https://live-on-v2-akm.akamaized.net/manifest/vtv4/master.m3u8?drmv2=1&manifestfilter=video_height%3A1-720
+https://vod-h08-hlc.tv360.vn:18443//193_2.m3u8?AdaptiveType=HLS&SessionID=1284f2da-3180-4129-85e2-7a982a73f9f1&MinBw=0&MaxBw=20000000
 
 #EXTINF:-5 tvg-id="VTV5" tvg-logo="https://i.imgur.com/7qPKNFU.png" group-title="VTV", VTV5
-https://live-on-v2-akm.akamaized.net/manifest/vtv5/master.m3u8?drmv2=1&manifestfilter=video_height%3A1-720
+https://ec04-pop1-hlc.tv360.vn/bpk-token/7fptyzcjrqngjll3kfvpqxz4mt4v6pde/bpk-tv/194/output/194-audio_133600_eng=131600-video=3621600.m3u8
 
 #EXTINF:-6 tvg-id="VTV CẦN THƠ" tvg-logo="https://i.imgur.com/HCpqatZ.png" group-title="VTV", VTV CẦN THƠ
-https://live-on-v2-akm.akamaized.net/manifest/vtv6/master.m3u8?drmv2=1&manifestfilter=video_height%3A1-720
+https://fo-hlc.tv360.vn/bpk-tv/156/output/index.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3MTk3MzQzMjIsInVyaSI6Ii9icGstdHYvMTU2L291dHB1dC9pbmRleC5tM3U4In0.oBa14IXJZo_MCpNL2wKcUu4RCcpJbTDjzPWaJogYkTI&minrate=0&maxrate=6000000&uid=226653457
 
 #EXTINF:-7 tvg-id="VTV7" tvg-logo="https://i.imgur.com/AgamSNe.png" group-title="VTV", VTV7
 https://live-on-v2-akm.akamaized.net/manifest/vtv7/master.m3u8?drmv2=1&manifestfilter=video_height%3A1-720
@@ -28,10 +28,10 @@ https://live-on-v2-akm.akamaized.net/manifest/vtv8/master.m3u8?drmv2=1&manifestf
 https://live-on-v2-akm.akamaized.net/manifest/vtv9/master.m3u8?drmv2=1&manifestfilter=video_height%3A1-720
 
 #EXTINF:-10 tvg-id="VTV5 TÂY NGUYÊN" tvg-logo="https://i.imgur.com/R8c2swd.png" group-title="VTV", VTV5 TÂY NGUYÊN
-https://vtvgolive-vtv.vtvdigital.vn/CXqNuSJSdtFaG3zscGg9Jg/1715158297/vtvgo/vtv5tn-manifest.m3u8
+https://lsm-hlc.tv360.vn:18443/308.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5TpHSJ1Iluv9JrwAYXI9i0AvqDpwyREazwsahEe5Ho+FV/99Q3ipv09+RW3xG3TpXPf0azZn0v/Fi7hP2G15g2nA1TusD8SnjaeKvQCC0RHlh6a2Zl+7KUE4bFPc33BJHO1nblLs8WMuka5iejELeYrVt/2S5NVvFMAa0DSAgfg0A==&uid=226653457
 
 #EXTINF:-11 tvg-id="VTV5 TÂY NAM BỘ" tvg-logo="https://i.imgur.com/mIUWkDx.png" group-title="VTV", VTV5 TÂY NAM BỘ
-https://vtvgolive-vtv.vtvdigital.vn/GPXru-BqC4iAct4cb3_Fsw/1715158311/vtvgo/vtv5tnb-manifest.m3u8
+https://lsm-g11.tv360.vn:18443/307.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5R5cQ+O9d0xU8SCj9RSh+460POrfmdapqmxZ6ZzAyj+nbjg2t4+VBa7Oe+jhUyzo0cWV7zQrjSsonKNuiJMydFuYnTC8dd9bo+GXs6XQEaCJJTp5MwUmKgVlxpqqhCsIik1M/+s9MQB/yPLvQwDgxyuzgwnDy/B4UmABASHhSq7aA==&uid=226653457
 
 #EXTINF:-1 tvg-id="VTC1" tvg-logo="https://i.imgur.com/7HD60aD.png" group-title="VTC", VTC1
 https://vcdn2.vtc.gov.vn:8443/encrypt/vtc1_sd.smil/media_w1581937078_b1296000_sleng_tkdG9rZW5oYXNoPXRNZkd2c0FtT1FMOXFrRWhiX2w1SGZxakJxYWxRa1hDWndoUG9xSzdDc1FNVU5tY1kyT0RubmtkQlZRamhxeTBSdGNMX0FMNkVUaUZ0dDZldVRWVHRnPT0mdG9rZW5zdGFydHRpbWU9MTcxNjE3ODkxNyZ0b2tlbmVuZHRpbWU9MTcxNjIwMDUxNw==_23288.ts

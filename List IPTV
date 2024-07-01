@@ -246,13 +246,13 @@ https://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
 #EXTINF:-37 tvg-id="KRT | ĐÀI PT-TH KON TUM" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/15/KRT_Kon_Tum_c%C3%B3_website.png/revision/latest/scale-to-width-down/1200?cb=20211022134338&path-prefix=vi" group-title="Kênh Địa Phương", KRT | ĐÀI PT-TH KON TUM
 https://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8
 
-#EXTINF:-38 tvg-id="LTV | ĐÀI PT-TH LAI CHÂU" tvg-logo="http://laichautv.vn/dataimages/201512/original/images1225848_logo1.png" group-title="Kênh Địa Phương", LTV | ĐÀI PT-TH LAI CHÂU
+#EXTINF:-38 tvg-id="LTV | ĐÀI PT-TH LAI CHÂU" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/5a/LTV_Lai_Ch%C3%A2u_2023_%28c%C3%B3_website%29.png/revision/latest?cb=20230715005441&path-prefix=vi"group-title="Kênh Địa Phương", LTV | ĐÀI PT-TH LAI CHÂU
 http://123.31.36.68/live.m3u8?c=vstv361&q=high&type=tv&token=1111&time=1586395820&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1586309420781&pkg=pkg11.hni
 
 #EXTINF:-39 tvg-id="LSTVHD | ĐÀI PT-TH LẠNG SƠN" tvg-logo="https://langsontv.vn/templates/frontend/lstv/Assets/img/logo_lstv.png" group-title="Kênh Địa Phương", LSTVHD | ĐÀI PT-TH LẠNG SƠN
 https://stream.langsontv.vn/live/285c78da0c246524c90917842f8de03bd21/playlist.m3u8
 
-#EXTINF:-40 tvg-id="THLC | ĐÀI PT-TH LÀO CAI" tvg-logo="http://laocaitv.vn/lib/images/logo1.png" group-title="Kênh Địa Phương", THLC | ĐÀI PT-TH LÀO CAI
+#EXTINF:-40 tvg-id="THLC | ĐÀI PT-TH LÀO CAI" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/55/THLC_logo_c%C3%B3_website.png/revision/latest/scale-to-width-down/190?cb=20211224040635&path-prefix=vi"group-title="Kênh Địa Phương", THLC | ĐÀI PT-TH LÀO CAI
 https://cdn.3ssoft.vn/livetv/laocaitv/laocaitv/index.m3u8
 
 #EXTINF:-41 tvg-id="LTVHD | ĐÀI PT-TH LÂM ĐỒNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3a/LTV_Lam_Dong_logo_YouTube.png/revision/latest/scale-to-width-down/200?cb=20220529234205&path-prefix=vi" group-title="Kênh Địa Phương", LTVHD | ĐÀI PT-TH LÂM ĐỒNG
@@ -264,7 +264,7 @@ https://cdn.la34.com.vn/live/2851dc2c9af68834814a89e61db0faee561/playlist.m3u8
 #EXTINF:-43 tvg-id="NTV | ĐÀI PT-TH NAM ĐỊNH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSy_tkRBTFp9RRMqWDvmnxEEW4VrYMCysVE--iadHZ9A&s" group-title="Kênh Địa Phương", NTV | ĐÀI PT-TH NAM ĐỊNH
 
 
-#EXTINF:-44 tvg-id="NTVHD | ĐÀI PT-TH NGHỆ AN" tvg-logo="https://truyenhinhnghean.vn/file/4028eaa46735a26101673a4df345003c/4028eaa467639b470167787ae85a0a2d/logo.png" group-title="Kênh Địa Phương", NTVHD | ĐÀI PT-TH NGHỆ AN
+#EXTINF:-44 tvg-id="NTVHD | ĐÀI PT-TH NGHỆ AN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Logo_NTV_Ngh%E1%BB%87_An_HD_2018.png"group-title="Kênh Địa Phương", NTVHD | ĐÀI PT-TH NGHỆ AN
 https://cdn.mediatech.vn/natvlive/tv1live.m3u8
 
 #EXTINF:-45 tvg-id="NBTVHD | ĐÀI PT-TH NINH BÌNH" tvg-logo="https://nbtv.vn/templates/frontend/nbtv/Assets/img/logo.png" group-title="Kênh Địa Phương", NBTVHD | ĐÀI PT-TH NINH BÌNH

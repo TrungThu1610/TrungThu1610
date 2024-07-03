@@ -219,7 +219,7 @@ https://cloudstreamhntv.tek4tv.vn/capture/HN1_720p/playlist.m3u8
 #EXTINF:-28 tvg-id="H2HD | ĐÀI PT-TH HÀ NỘI" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ef/HanoiTV2_HD_2024.png/revision/latest/scale-to-width-down/200?cb=20240410163436&path-prefix=vi" group-title="Kênh Địa Phương", H2HD | ĐÀI PT-TH HÀ NỘI
 https://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/chunklist_w915005968_b1064000_slen.m3u8
 
-#EXTINF:-29 tvg-id="HTTVHD | ĐÀI PT-TH HÀ TĨNH" tvg-logo="https://hatinhtv.vn/Media/FileManager/httvgo.svg" group-title="Kênh Địa Phương", HTTVHD | ĐÀI PT-TH HÀ TĨNH
+#EXTINF:-29 tvg-id="HTTVHD | ĐÀI PT-TH HÀ TĨNH" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6c/HTTV_HD_logo_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/200?cb=20240622001112&path-prefix=vi"group-title="Kênh Địa Phương", HTTVHD | ĐÀI PT-TH HÀ TĨNH
 https://wse.hatinhtv.net/live/httv1/playlist.m3u8
 
 #EXTINF:-30 tvg-id="THD | ĐÀI PT-TH HẢI DƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/bb/THD_2023.png/revision/latest/scale-to-width-down/200?cb=20230925025249&path-prefix=vi" group-title="Kênh Địa Phương", THD | ĐÀI PT-TH HẢI DƯƠNG
@@ -339,16 +339,16 @@ https://live4.thvli.vn/CD2SlonFFcgHKMfwhZQeBQ/1715176837/thvli/thvl1-abr/playlis
 #EXTINF:-51 tvg-id="THVL2HD | ĐÀI PT-TH VĨNH LONG" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e0/THVL2_HD_16-01-2023.png/revision/latest?cb=20240519113740&path-prefix=vi"group-title="Kênh Địa Phương", THVL2HD | ĐÀI PT-TH VĨNH LONG
 https://live3.thvli.vn/YWGLYNAGaQbLLFdBP0ZoxA/1715176650/thvli/thvl2-abr/playlist.m3u8
 
-#EXTINF:-51 tvg-id="THVL3HD | ĐÀI PT-TH VĨNH LONG" tvg-logo="https://static3.thvli.vn/assets/thumbnail/2022/03/03/6mwxzkye_3Logo-THVL3-n.jpg" group-title="Kênh Địa Phương", THVL3HD | ĐÀI PT-TH VĨNH LONG
+#EXTINF:-51 tvg-id="THVL3HD | ĐÀI PT-TH VĨNH LONG" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/96/THVL3_HD_logo_10.02.2019-nay.png/revision/latest/scale-to-width-down/220?cb=20220411074300&path-prefix=vi"group-title="Kênh Địa Phương", THVL3HD | ĐÀI PT-TH VĨNH LONG
 https://live3.thvli.vn/HilYS2vNa3ke6leYL7s5Mg/1715176606/thvli/thvl3-abr/playlist.m3u8
 
-#EXTINF:-51 tvg-id="THVL4HD | ĐÀI PT-TH VĨNH LONG" tvg-logo="https://static3.thvli.vn/assets/thumbnail/2022/03/03/6fj0pzuh_4Logo-THVL4-n.jpg" group-title="Kênh Địa Phương", THVL4HD | ĐÀI PT-TH VĨNH LONG
+#EXTINF:-51 tvg-id="THVL4HD | ĐÀI PT-TH VĨNH LONG" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f8/THVL4_HD_logo_04-02-2024.png/revision/latest/scale-to-width-down/220?cb=20240207081811&path-prefix=vi"group-title="Kênh Địa Phương", THVL4HD | ĐÀI PT-TH VĨNH LONG
 https://live3.thvli.vn/ZETdqEZ9qQi7kX7yP0V5cw/1715176944/thvli/thvl4-abr/playlist.m3u8
 
 #EXTINF:-51 tvg-id="VPHD | ĐÀI PT-TH VĨNH PHÚC" tvg-logo="http://vinhphuctv.vn/Portals/4/images/logo-vp.png" group-title="Kênh Địa Phương", VPHD | ĐÀI PT-TH VĨNH PHÚC
 http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8
 
-#EXTINF:-51 tvg-id="YTVHD | ĐÀI PT-TH YÊN BÁI" tvg-logo="https://yenbaitv.org.vn/modules/frontend/themes/ptthyb/images/logo.png?v=2.620240408085552" group-title="Kênh Địa Phương", YTVHD | ĐÀI PT-TH YÊN BÁI
+#EXTINF:-51 tvg-id="YTVHD | ĐÀI PT-TH YÊN BÁI" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0b/YTV_HD_Y%C3%AAn_B%C3%A1i.png/revision/latest/scale-to-width-down/200?cb=20220827022913&path-prefix=vi"group-title="Kênh Địa Phương", YTVHD | ĐÀI PT-TH YÊN BÁI
 https://live.yenbaitv.org.vn/hls/livestream.m3u8
 
 #EXTINF:-51 tvg-id="VOV1 | ĐÀI TIẾNG NÓI VIỆT NAM" tvg-logo="https://adminvov1.vov.gov.vn/UploadImages/Config/vov1.png" group-title="VOV RADIO", VOV1 | ĐÀI TIẾNG NÓI VIỆT NAM

@@ -118,7 +118,7 @@ https://lsm-g11.tv360.vn:18443/59.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2g
 https://lsm-g11.tv360.vn:18443/56.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5QCvQjQhEkbGqoxlLqqiK4SciFMx6lfiz9vck7z844FPRESPkhUalVEhkyflmJyRgw+PPUutQeMCH4GXNcgON3gtpxlstrUrfs4zgKWWu3RzjX4FXEpLhJ3c/g6agvCq0hwVSJ0QkTgIOgD0uN1Z+UDHahAUoGOB7CPaJ3VgeSZeQ==&uid=226653457
 
 #EXTINF:-3 tvg-id="HTVC THUẦN VIỆT" tvg-logo="https://i.imgur.com/xmISDWo.png" group-title="HTVC", HTVC THUẦN VIỆT
-https://lsm-g11.tv360.vn:18443/57.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5SA+S6wFlFpvk+XqDx6WaPF56MczTtSowEX3vyx0uWwMuzxW+KyzQM2hxVc/aZVph/EXiUz8mw/5jd8KwgXC+m5dobLR+yWB6K3zPqb7GlS1RL6hs9jLfRNIFfce9ui27jA5aB7EEzXakG6VucrfX4LCcHUzuRb1ABoK0WH74cd1Q==&uid=226653457
+https://htvc271120.cdn.vnns.io/87967589cb409d7aa1f4a01cc15274b61720973830/thuanviet.cat.720p.adm/playlist.m3u8
 
 #EXTINF:-4 tvg-id="HTVC PHIM TRUYỆN" tvg-logo="https://i.imgur.com/SXV3ya9.png" group-title="HTVC", HTVC PHIM TRUYỆN
 
@@ -244,7 +244,7 @@ https://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
 https://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8
 
 #EXTINF:-37 tvg-id="KTV | ĐÀI PT-TH KHÁNH HOÀ" tvg-logo="https://sdtv.vn/wp-content/uploads/2022/12/logo.png" group-title="Kênh Địa Phương", KTV | ĐÀI PT-TH KHÁNH HOÀ
-https://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8
+https://1011337676.vnns.net/-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjAzNjkwODcsInVyaSI6IlwvaHR2Y1wva2hhbmhob2EuNDgwcC5uYi5hZG0udG1zIiwiaXAiOiIifQ.X5CzdqsCiEuKuGPTBwz3aWmQtmwc22hyX14sghf62vY-/htvc/khanhhoa.480p.nb.adm.tms/playlist.m3u8
 
 #EXTINF:-38 tvg-id="LTV | ĐÀI PT-TH LAI CHÂU" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/5a/LTV_Lai_Ch%C3%A2u_2023_%28c%C3%B3_website%29.png/revision/latest?cb=20230715005441&path-prefix=vi"group-title="Kênh Địa Phương", LTV | ĐÀI PT-TH LAI CHÂU
 http://123.31.36.68/live.m3u8?c=vstv361&q=high&type=tv&token=1111&time=1586395820&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1586309420781&pkg=pkg11.hni

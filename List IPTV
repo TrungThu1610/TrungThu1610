@@ -142,7 +142,7 @@ http://truyenhinhbinhdinhonline.dynns.com:8086/live.m3u8
 https://stream.thingnet.vn/live/smil:BTV.smil/playlist.m3u8
 
 #EXTINF:-3 tvg-id="BTV1HD | ĐÀI PT-TH BÌNH DƯƠNG" tvg-logo="https://i.imgur.com/Soe6MC8.png" group-title="Kênh Địa Phương", BTV1HD | ĐÀI PT-TH BÌNH DƯƠNG
-https://btv1011220.cdn.vnns.io/df7bc22a1317094aa9b567f1944a689e1715447391/btv1.480p.tms/playlist.m3u8
+https://1011337676.vnns.net/-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjAzNjgxMTEsInVyaSI6IlwvQ0ROLUZQVDAyXC9CSU5IRFVPTkcxLVNELUFCUiIsImlwIjoiIn0.o1TlmDYPduORJmTgc8odFrrgaGKDyY0T5wqCLoQSRSA-/CDN-FPT02/BINHDUONG1-SD-ABR/playlist.m3u8
 
 #EXTINF:-4 tvg-id="BTV2HD | ĐÀI PT-TH BÌNH DƯƠNG" tvg-logo="https://i.imgur.com/pEaPECX.png" group-title="Kênh Địa Phương", BTV2HD | ĐÀI PT-TH BÌNH DƯƠNG
 https://btv2011220.cdn.vnns.io/c481e9fe3e52a2e7c236c29a3cc8a4581715447465/btv2.480p.tms/playlist.m3u8
@@ -186,17 +186,14 @@ https://live.danangtv.vn/livedrt1/playlist.m3u8
 #EXTINF:-17 tvg-id="DA NANG TV2HD | ĐÀI PT-TH ĐÀ NẴNG" tvg-logo="https://www.danangtv.vn/images/drt2.png" group-title="Kênh Địa Phương", DA NANG TV2HD | ĐÀI PT-TH ĐÀ NẴNG
 https://live.danangtv.vn/livestream/chunklist.m3u8
 
+#EXTINF:-17 tvg-id="ĐNRTV1HD | ĐÀI PT-TH ĐỒNG NAI" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d8/%C4%90N1-RTV_HD_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/1000?cb=20230710081226&path-prefix=vi" group-title="Kênh Địa Phương", ĐNRTV1HD | ĐÀI PT-TH ĐỒNG NAI
+https://htvc271120.cdn.vnns.io/a58f6007dbcd28945fe21ffb832a57d41720971756/dongnai1.adm.720p.tms/playlist.m3u8
+
 #EXTINF:-18 tvg-id="DRTHD | ĐÀI PT-TH ĐẮK LẮK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Dai_PT-TH_Dak_Lak.png" group-title="Kênh Địa Phương", DRTHD | ĐÀI PT-TH ĐẮK LẮK
 https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/chunklist.m3u8
 
 #EXTINF:-19 tvg-id="ĐTV | ĐÀI PT-TH ĐIỆN BIÊN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Logo_%C4%90TV_Dien_Bien_New.png" group-title="Kênh Địa Phương", ĐTV | ĐÀI PT-TH ĐIỆN BIÊN
 https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&q=high&type=tv&token=LX-ibJYRUq9pflRtYAxfYQ&time=1586395820&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1586309420781&pkg=pkg11.hni
-
-#EXTINF:-20 tvg-id="DNRTV1HD | ĐÀI PT-TH ĐỒNG NAI" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d6/%C4%90N1-RTV.png/revision/latest/scale-to-width-down/1000?cb=20211204125459&path-prefix=vi" group-title="Kênh Địa Phương", DNRTV1HD | ĐÀI PT-TH ĐỒNG NAI
-
-
-#EXTINF:-21 tvg-id="DNRTV2HD | ĐÀI PT-TH ĐỒNG NAI" tvg-logo="https://logos.fandom.com/vi/wiki/T%E1%BA%ADp_tin:%C4%90N2-RTV_logo_2011-2018.png" group-title="Kênh Địa Phương", DNRTV2HD | ĐÀI PT-TH ĐỒNG NAI
-
 
 #EXTINF:-22 tvg-id="THĐT1 | ĐÀI PT-TH ĐỒNG THÁP" tvg-logo="https://thdt.vn/images/img_dt1.png" group-title="Kênh Địa Phương", THĐT1HD | ĐÀI PT-TH ĐỒNG THÁP
 https://618b88f69e53b.streamlock.net/THDT/thdttv/playlist.m3u8
@@ -244,6 +241,9 @@ https://tv.kgtv.vn/live/kgtv/kgtv.m3u8
 https://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
 
 #EXTINF:-37 tvg-id="KRT | ĐÀI PT-TH KON TUM" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/15/KRT_Kon_Tum_c%C3%B3_website.png/revision/latest/scale-to-width-down/1200?cb=20211022134338&path-prefix=vi" group-title="Kênh Địa Phương", KRT | ĐÀI PT-TH KON TUM
+https://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8
+
+#EXTINF:-37 tvg-id="KTV | ĐÀI PT-TH KHÁNH HOÀ" tvg-logo="https://sdtv.vn/wp-content/uploads/2022/12/logo.png" group-title="Kênh Địa Phương", KTV | ĐÀI PT-TH KHÁNH HOÀ
 https://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8
 
 #EXTINF:-38 tvg-id="LTV | ĐÀI PT-TH LAI CHÂU" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/5a/LTV_Lai_Ch%C3%A2u_2023_%28c%C3%B3_website%29.png/revision/latest?cb=20230715005441&path-prefix=vi"group-title="Kênh Địa Phương", LTV | ĐÀI PT-TH LAI CHÂU

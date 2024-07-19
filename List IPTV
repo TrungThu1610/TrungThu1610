@@ -189,16 +189,16 @@ https://live.danangtv.vn/livestream/chunklist.m3u8
 #EXTINF:-17 tvg-id="ĐNRTV1HD | ĐÀI PT-TH ĐỒNG NAI" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d8/%C4%90N1-RTV_HD_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/1000?cb=20230710081226&path-prefix=vi" group-title="Kênh Địa Phương", ĐNRTV1HD | ĐÀI PT-TH ĐỒNG NAI
 https://htvc271120.cdn.vnns.io/a58f6007dbcd28945fe21ffb832a57d41720971756/dongnai1.adm.720p.tms/playlist.m3u8
 
-#EXTINF:-18 tvg-id="DRTHD | ĐÀI PT-TH ĐẮK LẮK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Dai_PT-TH_Dak_Lak.png" group-title="Kênh Địa Phương", DRTHD | ĐÀI PT-TH ĐẮK LẮK
+#EXTINF:-18 tvg-id="DRTHD | ĐÀI PT-TH ĐẮK LẮK" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f9/DRT_%C4%90%E1%BA%AFk_L%E1%BA%AFk_2021.png/revision/latest?cb=20230108145830&path-prefix=vi"group-title="Kênh Địa Phương", DRTHD | ĐÀI PT-TH ĐẮK LẮK
 https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/chunklist.m3u8
 
 #EXTINF:-19 tvg-id="ĐTV | ĐÀI PT-TH ĐIỆN BIÊN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Logo_%C4%90TV_Dien_Bien_New.png" group-title="Kênh Địa Phương", ĐTV | ĐÀI PT-TH ĐIỆN BIÊN
 https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&q=high&type=tv&token=LX-ibJYRUq9pflRtYAxfYQ&time=1586395820&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1586309420781&pkg=pkg11.hni
 
-#EXTINF:-22 tvg-id="THĐT1 | ĐÀI PT-TH ĐỒNG THÁP" tvg-logo="https://thdt.vn/images/img_dt1.png" group-title="Kênh Địa Phương", THĐT1HD | ĐÀI PT-TH ĐỒNG THÁP
+#EXTINF:-22 tvg-id="THĐT1 | ĐÀI PT-TH ĐỒNG THÁP" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/27/TH%C4%90T1_logo_ch%C3%ADnh_31-07-2023.png/revision/latest/scale-to-width-down/200?cb=20231107123817&path-prefix=vi"group-title="Kênh Địa Phương", THĐT1HD | ĐÀI PT-TH ĐỒNG THÁP
 https://618b88f69e53b.streamlock.net/THDT/thdttv/playlist.m3u8
 
-#EXTINF:-23 tvg-id="MIỀN TÂY/THĐT2 | ĐÀI PT-TH ĐỒNG THÁP" tvg-logo="https://thdt.vn/images/img_dt2.png" group-title="Kênh Địa Phương", MIỀN TÂY/THĐT2| ĐÀI PT-TH ĐỒNG THÁP
+#EXTINF:-23 tvg-id="MIỀN TÂY/THĐT2 | ĐÀI PT-TH ĐỒNG THÁP" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6f/Mi%E1%BB%81n_T%C3%A2y_TH%C4%90T2_logo_2019-nay.png/revision/latest/scale-to-width-down/200?cb=20230801084318&path-prefix=vi"group-title="Kênh Địa Phương", MIỀN TÂY/THĐT2| ĐÀI PT-TH ĐỒNG THÁP
 https://64d0d74b76158.streamlock.net/THDT2/thdttv2/chunklist_w225823044.m3u8
 
 #EXTINF:-24 tvg-id="THGLHD | ĐÀI PT-TH GIA LAI" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f9/THGL_Gia_Lai-0.png/revision/latest/scale-to-width-down/1200?cb=20211020031618&path-prefix=vi" group-title="Kênh Địa Phương", THGLHD | ĐÀI PT-TH GIA LAI

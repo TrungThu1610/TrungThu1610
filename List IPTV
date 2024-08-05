@@ -1,22 +1,22 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="VTV1" tvg-logo="https://i.imgur.com/nfkmvAY.png" group-title="VTV", VTV1
-https://fo-hlc.tv360.vn/bpk-tv/154/output/index.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3MjI4NDg0NDIsInVyaSI6Ii9icGstdHYvMTU0L291dHB1dC9pbmRleC5tM3U4In0.qgxTfDlwm1xHC1fXGT9Z5F_QUZrZnqgEW3sQgI-2MyE&minrate=0&maxrate=6000000&uid=226653457
+https://ec01-pop4-hlc.tv360.vn/bpk-token/uc6tafr4dmkbmpp4bm7kdpjqc2ql2maw/bpk-tv/154/output/154-audio_214400_eng=212400-video=1752000.m3u8
 
 #EXTINF:-2 tvg-id="VTV2" tvg-logo="https://i.imgur.com/BVwi3K3.png" group-title="VTV", VTV2
-https://ec01-pop4-hlc.tv360.vn/bpk-token/eemrkn4t2qvdpbrtcipsagivg4qrsfjx/bpk-tv/192/output/192-audio_133600_eng=131600-video=1752000.m3u8
+https://ec03-pop4-hlc.tv360.vn/bpk-token/yqlg662zwbfxxa2okrj4kftpppcbm333/bpk-tv/192/output/192-audio_133600_eng=131600-video=1752000.m3u8
 
 #EXTINF:-3 tvg-id="VTV3" tvg-logo="https://i.imgur.com/7rLCvgS.png" group-title="VTV", VTV3
-https://ec03-pop4-hlc.tv360.vn/bpk-token/hk3dgyebpmggbug7gredxnrtma5lmm3a/bpk-tv/155/output/155-audio_133600_eng=131600-video=1752000.m3u8
+https://ec03-pop4-hlc.tv360.vn/bpk-token/xm7ts6yltioxx3kvajj3upzzpo5t6ol3/bpk-tv/155/output/155-audio_133600_eng=131600-video=1752000.m3u8
 
 #EXTINF:-4 tvg-id="VTV4" tvg-logo="https://i.imgur.com/9zVTtsA.png" group-title="VTV", VTV4
-https://lsm-g12.tv360.vn:18443/193.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5S3/FYfbbh7ihtZGG2M426EU+eGZ9NawJ370dL4yWKWfc9jAvaSaGFQT3wVaG+YAKvg2mpTncn4w4xZNdhWL3lK27VHytsET+fwZNMMN7LyclD+kP32WKNTreXD5bQiL0LyjxKM8qYEU9HTrtjxfuyl/ri0GgYVB47d+7fmwLB+1w==&uid=226653457
+https://lsm-g11.tv360.vn:18443/193.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5Qq9lx0TSB+5HnDcMcT9B7Wmk4iLIbPFfTSwcSwKdQ2z4IYE18CqtbBAEEb5USSfQ+R2AlEdzINSeiwkFWmEHFnXnBaKReBkvf7FEJWJFpBbqilZoI6NXB5MMymua4TS+kdoPWMZqqNbdlUBHOttVqnL6EQpecDmN5wp78SpLU57A==&uid=226653457
 
 #EXTINF:-5 tvg-id="VTV5" tvg-logo="https://i.imgur.com/7qPKNFU.png" group-title="VTV", VTV5
-https://ec02-pop4-hlc.tv360.vn/bpk-token/asf4c7e2i37hzbjlyzkalc6bpqcixql4/bpk-tv/194/output/194-audio_133600_eng=131600-video=1752000.m3u8
+https://ec04-pop4-hlc.tv360.vn/bpk-token/kuux6z7drrnwo7mcirhvikl7m5kss73h/bpk-tv/194/output/194-audio_133600_eng=131600-video=1752000.m3u8
 
 #EXTINF:-6 tvg-id="VTV CẦN THƠ" tvg-logo="https://i.imgur.com/HCpqatZ.png" group-title="VTV", VTV CẦN THƠ
-https://ec04-pop4-hlc.tv360.vn/bpk-token/otpzwogicksdrp3rtqihlx43hb2n7gzy/bpk-tv/156/output/156-audio_133600_eng=131600-video=1752000.m3u8
+https://ec02-pop4-hlc.tv360.vn/bpk-token/z5even2s553dopmqnep44sksg7husurx/bpk-tv/156/output/156-audio_133600_eng=131600-video=1752000.m3u8
 
 #EXTINF:-7 tvg-id="VTV7" tvg-logo="https://i.imgur.com/AgamSNe.png" group-title="VTV", VTV7
 https://live-on-v2-akm.akamaized.net/manifest/vtv7/master.m3u8?drmv2=1&manifestfilter=video_height%3A1-720
@@ -28,10 +28,10 @@ https://live-on-v2-akm.akamaized.net/manifest/vtv8/master.m3u8?drmv2=1&manifestf
 https://live-on-v2-akm.akamaized.net/manifest/vtv9/master.m3u8?drmv2=1&manifestfilter=video_height%3A1-720
 
 #EXTINF:-10 tvg-id="VTV5 TÂY NGUYÊN" tvg-logo="https://i.imgur.com/R8c2swd.png" group-title="VTV", VTV5 TÂY NGUYÊN
-https://ec04-pop4-hlc.tv360.vn/bpk-token/zemwevip2rovk7o3mv64qglckxersysv/bpk-tv/308/output/308-audio_214400_eng=212400-video=1752000.m3u8
+https://ec04-pop4-hlc.tv360.vn/bpk-token/77saafkoiesbli2xhm675zaacx76iaav/bpk-tv/308/output/308-audio_214400_eng=212400-video=1752000.m3u8
 
 #EXTINF:-11 tvg-id="VTV5 TÂY NAM BỘ" tvg-logo="https://i.imgur.com/mIUWkDx.png" group-title="VTV", VTV5 TÂY NAM BỘ
-https://ec05-pop4-hlc.tv360.vn/bpk-token/hcmmgkpzkx6csrkjyqattggdfe4jrqzj/bpk-tv/307/output/307-audio_133600_eng=131600-video=1752000.m3u8
+https://ec05-pop4-hlc.tv360.vn/bpk-token/jhuj6qmnjw5ucfjauruur2e7ife6rh2b/bpk-tv/307/output/307-audio_133600_eng=131600-video=1752000.m3u8
 
 #EXTINF:-1 tvg-id="VTC1" tvg-logo="https://i.imgur.com/7HD60aD.png" group-title="VTC", VTC1
 https://vcdn2.vtc.gov.vn:8443/encrypt/vtc1_sd.smil/media_w1581937078_b1296000_sleng_tkdG9rZW5oYXNoPXRNZkd2c0FtT1FMOXFrRWhiX2w1SGZxakJxYWxRa1hDWndoUG9xSzdDc1FNVU5tY1kyT0RubmtkQlZRamhxeTBSdGNMX0FMNkVUaUZ0dDZldVRWVHRnPT0mdG9rZW5zdGFydHRpbWU9MTcxNjE3ODkxNyZ0b2tlbmVuZHRpbWU9MTcxNjIwMDUxNw==_23288.ts

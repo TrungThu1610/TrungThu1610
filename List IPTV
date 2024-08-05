@@ -7,16 +7,16 @@ https://fo-hlc.tv360.vn/bpk-tv/154/output/index.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbG
 https://ec01-pop4-hlc.tv360.vn/bpk-token/eemrkn4t2qvdpbrtcipsagivg4qrsfjx/bpk-tv/192/output/192-audio_133600_eng=131600-video=1752000.m3u8
 
 #EXTINF:-3 tvg-id="VTV3" tvg-logo="https://i.imgur.com/7rLCvgS.png" group-title="VTV", VTV3
-https://s12919.cdn.mytvnet.vn/clrlive_10.m3u8?c=vstv262&q=hd&deviceType=127&userId=36656678&deviceId=36112571&type=tv&p=0&zn=netott&rkey=36656678sTi9um07&ctl=9.39&hc=ctl11&sl=2&drmsrv=ctl11.mytvnet.vn&naddr=123.29.129.19&pkg=pkg32.hni&profiles=hd,sd,high&&bhd=7500000&bsd=5500000&bhi=3500000&location=NBH&rbk=17216241141&pnode=172.16.15.105&isp=all
+https://ec03-pop4-hlc.tv360.vn/bpk-token/hk3dgyebpmggbug7gredxnrtma5lmm3a/bpk-tv/155/output/155-audio_133600_eng=131600-video=1752000.m3u8
 
 #EXTINF:-4 tvg-id="VTV4" tvg-logo="https://i.imgur.com/9zVTtsA.png" group-title="VTV", VTV4
-https://s12920.cdn.mytvnet.vn/clrlive_10.m3u8?c=vstv452&q=hd&deviceType=127&userId=36656678&deviceId=36112571&type=tv&p=0&zn=netott&rkey=36656678XFCtM0w1&ctl=9.41&hc=ctl13&sl=6&drmsrv=ctl13.mytvnet.vn&naddr=123.29.129.20&pkg=pkg32.hni&profiles=hd,sd,high,medium&&bhd=7500000&bsd=5500000&bhi=3500000&bme=1500000&location=NBH&rbk=17216241141&pnode=172.16.15.106&isp=all
+https://lsm-g12.tv360.vn:18443/193.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5S3/FYfbbh7ihtZGG2M426EU+eGZ9NawJ370dL4yWKWfc9jAvaSaGFQT3wVaG+YAKvg2mpTncn4w4xZNdhWL3lK27VHytsET+fwZNMMN7LyclD+kP32WKNTreXD5bQiL0LyjxKM8qYEU9HTrtjxfuyl/ri0GgYVB47d+7fmwLB+1w==&uid=226653457
 
 #EXTINF:-5 tvg-id="VTV5" tvg-logo="https://i.imgur.com/7qPKNFU.png" group-title="VTV", VTV5
-https://ec04-pop1-hlc.tv360.vn/bpk-token/7fptyzcjrqngjll3kfvpqxz4mt4v6pde/bpk-tv/194/output/194-audio_133600_eng=131600-video=3621600.m3u8
+https://ec02-pop4-hlc.tv360.vn/bpk-token/asf4c7e2i37hzbjlyzkalc6bpqcixql4/bpk-tv/194/output/194-audio_133600_eng=131600-video=1752000.m3u8
 
 #EXTINF:-6 tvg-id="VTV CẦN THƠ" tvg-logo="https://i.imgur.com/HCpqatZ.png" group-title="VTV", VTV CẦN THƠ
-https://fo-hlc.tv360.vn/bpk-tv/156/output/index.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3MTk3MzQzMjIsInVyaSI6Ii9icGstdHYvMTU2L291dHB1dC9pbmRleC5tM3U4In0.oBa14IXJZo_MCpNL2wKcUu4RCcpJbTDjzPWaJogYkTI&minrate=0&maxrate=6000000&uid=226653457
+https://ec04-pop4-hlc.tv360.vn/bpk-token/otpzwogicksdrp3rtqihlx43hb2n7gzy/bpk-tv/156/output/156-audio_133600_eng=131600-video=1752000.m3u8
 
 #EXTINF:-7 tvg-id="VTV7" tvg-logo="https://i.imgur.com/AgamSNe.png" group-title="VTV", VTV7
 https://live-on-v2-akm.akamaized.net/manifest/vtv7/master.m3u8?drmv2=1&manifestfilter=video_height%3A1-720
@@ -28,10 +28,10 @@ https://live-on-v2-akm.akamaized.net/manifest/vtv8/master.m3u8?drmv2=1&manifestf
 https://live-on-v2-akm.akamaized.net/manifest/vtv9/master.m3u8?drmv2=1&manifestfilter=video_height%3A1-720
 
 #EXTINF:-10 tvg-id="VTV5 TÂY NGUYÊN" tvg-logo="https://i.imgur.com/R8c2swd.png" group-title="VTV", VTV5 TÂY NGUYÊN
-https://lsm-hlc.tv360.vn:18443/308.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5TpHSJ1Iluv9JrwAYXI9i0AvqDpwyREazwsahEe5Ho+FV/99Q3ipv09+RW3xG3TpXPf0azZn0v/Fi7hP2G15g2nA1TusD8SnjaeKvQCC0RHlh6a2Zl+7KUE4bFPc33BJHO1nblLs8WMuka5iejELeYrVt/2S5NVvFMAa0DSAgfg0A==&uid=226653457
+https://ec04-pop4-hlc.tv360.vn/bpk-token/zemwevip2rovk7o3mv64qglckxersysv/bpk-tv/308/output/308-audio_214400_eng=212400-video=1752000.m3u8
 
 #EXTINF:-11 tvg-id="VTV5 TÂY NAM BỘ" tvg-logo="https://i.imgur.com/mIUWkDx.png" group-title="VTV", VTV5 TÂY NAM BỘ
-https://lsm-g11.tv360.vn:18443/307.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5R5cQ+O9d0xU8SCj9RSh+460POrfmdapqmxZ6ZzAyj+nbjg2t4+VBa7Oe+jhUyzo0cWV7zQrjSsonKNuiJMydFuYnTC8dd9bo+GXs6XQEaCJJTp5MwUmKgVlxpqqhCsIik1M/+s9MQB/yPLvQwDgxyuzgwnDy/B4UmABASHhSq7aA==&uid=226653457
+https://ec05-pop4-hlc.tv360.vn/bpk-token/hcmmgkpzkx6csrkjyqattggdfe4jrqzj/bpk-tv/307/output/307-audio_133600_eng=131600-video=1752000.m3u8
 
 #EXTINF:-1 tvg-id="VTC1" tvg-logo="https://i.imgur.com/7HD60aD.png" group-title="VTC", VTC1
 https://vcdn2.vtc.gov.vn:8443/encrypt/vtc1_sd.smil/media_w1581937078_b1296000_sleng_tkdG9rZW5oYXNoPXRNZkd2c0FtT1FMOXFrRWhiX2w1SGZxakJxYWxRa1hDWndoUG9xSzdDc1FNVU5tY1kyT0RubmtkQlZRamhxeTBSdGNMX0FMNkVUaUZ0dDZldVRWVHRnPT0mdG9rZW5zdGFydHRpbWU9MTcxNjE3ODkxNyZ0b2tlbmVuZHRpbWU9MTcxNjIwMDUxNw==_23288.ts

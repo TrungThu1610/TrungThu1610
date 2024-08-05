@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="VTV1" tvg-logo="https://i.imgur.com/nfkmvAY.png" group-title="VTV", VTV1
-https://ec01-pop4-hlc.tv360.vn/bpk-token/uc6tafr4dmkbmpp4bm7kdpjqc2ql2maw/bpk-tv/154/output/154-audio_214400_eng=212400-video=1752000.m3u8
+https://ec05-pop4-hlc.tv360.vn/bpk-token/y72puq2yklpehfhxyzv4n5h2ipd7j6sd/bpk-tv/154/output/154-audio_214400_eng=212400-video=1752000.m3u8
 
 #EXTINF:-2 tvg-id="VTV2" tvg-logo="https://i.imgur.com/BVwi3K3.png" group-title="VTV", VTV2
 https://ec03-pop4-hlc.tv360.vn/bpk-token/yqlg662zwbfxxa2okrj4kftpppcbm333/bpk-tv/192/output/192-audio_133600_eng=131600-video=1752000.m3u8

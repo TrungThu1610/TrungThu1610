@@ -223,16 +223,16 @@ https://wse.hatinhtv.net/live/httv1/playlist.m3u8
 http://truyenhinh.vnptvas.vn/live.m3u8?c=vstv369&q=medium&type=tv&token=gSTbcZR03r352niGuuUCig&time=1591151021&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1591064621734&pkg=pkg11.hni
 
 #EXTINF:-31 tvg-id="THPHD | ĐÀI PT-TH HẢI PHÒNG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/THP_logo.svg/2560px-THP_logo.svg.png" group-title="Kênh Địa Phương", THPHD | ĐÀI PT-TH HẢI PHÒNG
-https://1253562137.e.cdneverest.net/5eALa15vlWbrQTGrAmpASg/1716276689/live/285a4c99665fdf84e94956c66bc7dc7eb5d/playlist.m3u8
+https://1253562137.e.cdneverest.net/a6QozR3BW0h31Uddbbpfzg/1722953691/live/285a4c99665fdf84e94956c66bc7dc7eb5d/playlist.m3u8
 
 #EXTINF:-32 tvg-id="THP+HD | ĐÀI PT-TH HẢI PHÒNG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/THP%2B_HD.png/revision/latest?cb=20200902112432" group-title="Kênh Địa Phương", THP+HD | ĐÀI PT-TH HẢI PHÒNG
-https://1253562137.e.cdneverest.net/Z_Bcci0Q_bpFzRLY8N9_uw/1716290222/live/28548ca35823d41426d8b3da7ed82bdab13/playlist.m3u8
+https://1253562137.e.cdneverest.net/xCXGBu6mZsazbvZNY7iNmA/1722953691/live/28548ca35823d41426d8b3da7ed82bdab13/chunklist.m3u8
 
 #EXTINF:-33 tvg-id="HGTV | ĐÀI PT-TH HÀ GIANG" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/85/Logo_HGTV_H%C3%A0_Giang_%282023%2C_b%E1%BA%A3n_2%29.png/revision/latest/scale-to-width-down/1200?cb=20231203105850&path-prefix=vi" group-title="Kênh Địa Phương", HGTV | ĐÀI PT-TH HÀ GIANG
 http://123.31.36.68/live.m3u8?c=vstv365&q=high&type=tv&token=LX-ibJYRUq9pflRtYAxfYQ&time=1586395820&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1586309420781&pkg=pkg11.hni
 
 #EXTINF:-34 tvg-id="HYHD | ĐÀI PT-TH HƯNG YÊN" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fb/HY_HD_logo_2020_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/180?cb=20230306095610&path-prefix=vi" group-title="Kênh Địa Phương", HYHD | ĐÀI PT-TH HƯNG YÊN
-https://1253218859.e.cdneverest.net/qFkMsjHgld69rmyTal1HAw/1716290084/live/285f5449d7d7d2946e0bd2d54b7e60f25a4/playlist.m3u8
+https://1253218859.e.cdneverest.net/ZrXFf5ZJaMQBrg8-lSQ3aQ/1722954351/live/285f5449d7d7d2946e0bd2d54b7e60f25a4/playlist.m3u8
 
 #EXTINF:-35 tvg-id="KG | ĐÀI PT-TH KIÊN GIANG" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/55/KG_Kien_Giang_2009.png/revision/latest?cb=20211101032412&path-prefix=vi" group-title="Kênh Địa Phương", KGHD | ĐÀI PT-TH KIÊN GIANG
 https://tv.kgtv.vn/live/kgtv/kgtv.m3u8
@@ -309,14 +309,14 @@ https://cdn.sonlatv.vn/live/28595222e707a364251b8724717894baa46/playlist.m3u8
 #EXTINF:-51 tvg-id="TTV11 | ĐÀI PT-TH TÂY NINH" tvg-logo="http://tayninhtv.vn/public/Home/images/logotayninh.png" group-title="Kênh Địa Phương", TTV11 | ĐÀI PT-TH TÂY NINH
 http://202.43.109.142:1935/ttv11/tntv/playlist.m3u8
 
-#EXTINF:-51 tvg-id="TTV | ĐÀI PT-TH THANH HOÁ" tvg-logo="https://static.mediacdn.vn/truyenhinhthanhhoa.vn/image/Logo-fix2.png" group-title="Kênh Địa Phương", STV | ĐÀI PT-TH THANH HOÁ
-https://cdn-traffic.sohatv.vn/live/pull/Y5Kan2X7I7GHo4VN/thth-live/eVc6tyHuFZLQYgmX/337a54767a7233703637564336316a6dd44c03bef7a31ac95a84bb4bdc549ef2e9a89952ea3b76ad8f1169c3ac49e52cc63e8a46fc1be2b380404f840de123fc9ef19f5923bdf3ac1c5a765b3ccf50a06e6f20c335b183087d64003ff88fd2926801dd843597d587b691e0ce33a912b6179774e600dee60d5ab8d45b69cef484317ce8cbc392032c14221f13c789dddf51a608654b68340ffe842242251335ddb54cbc398e644041587a4c145114de81/master.m3u8
+#EXTINF:-51 tvg-id="TTV | ĐÀI PT-TH THANH HOÁ" tvg-logo="https://static.mediacdn.vn/truyenhinhthanhhoa.vn/image/Logo-fix2.png" group-title="Kênh Địa Phương", TTV | ĐÀI PT-TH THANH HOÁ
+https://cdn-traffic.sohatv.vn/live/Y5Kan2X7I7GHo4VN/thth-live/eVc6tyHuFZLQYgmX/337a54767a7233703637564336316a6d36c1943d06e5d49c2963b94d47ae5e6c471b0c96b77bb830e18ba00b397b633da603d10dfd618b31eac0b64cda26c4d1e78dcf27e6e1e542e082459f70096304fd794eacdd4dc05678102e6c7e83506d28115407278ae5cdd2552a5cce315a30a4c228c162a777331540d13637fecc2b58f1e12b290f40ff3a4812f4f5d6144ddf33a7a42ede0ce6a00f60e26fa1f8238353f3b8582f4c058f5d142974d62f5b/master.m3u8
 
 #EXTINF:-51 tvg-id="TTV | ĐÀI PT-TH TUYÊN QUANG" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/66/TTV_Tuy%C3%AAn_Quang.png/revision/latest/scale-to-width-down/200?cb=20220731123650&path-prefix=vi"group-title="Kênh Địa Phương", TTV | ĐÀI PT-TH TUYÊN QUANG
 https://live.tuyenquangtv.vn/hls/ttv.m3u8
 
 #EXTINF:-51 tvg-id="TBTVHD | ĐÀI PT-TH THÁI BÌNH" tvg-logo="https://thaibinhtv.vn/templates/frontend/tbtv/Assets/img/logo.png" group-title="Kênh Địa Phương", TBTVHD | ĐÀI PT-TH THÁI BÌNH
-https://1253668792.e.cdneverest.net/tJiFkJ3dtrjegZaEQ10Y-Q/1715129937/live/285fe61ba73072f428d8a626d764222e744/playlist.m3u8
+https://1253668792.e.cdneverest.net/vIv7j79R9ajVbkqbKet8qg/1722953260/live/285fe61ba73072f428d8a626d764222e744/playlist.m3u8
 
 #EXTINF:-51 tvg-id="TN1HD | ĐÀI PT-TH THÁI NGUYÊN" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e1/TN1_HD_2022.png/revision/latest/scale-to-width-down/200?cb=20231101071136&path-prefix=vi"group-title="Kênh Địa Phương", TN1HD | ĐÀI PT-TH THÁI NGUYÊN
 https://streaming.thainguyentv.vn/hls/livestream.m3u8

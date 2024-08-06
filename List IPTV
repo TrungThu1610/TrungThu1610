@@ -365,3 +365,24 @@ https://stream.vov.vn/69b58502924ecb8ef9720a71e738c8131715868968/audio/vovvn1_vo
 
 #EXTINF:-51 tvg-id="VOV5 | ĐÀI TIẾNG NÓI VIỆT NAM" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/5d/VOV5_logo_2020.png/revision/latest/scale-to-width-down/200?cb=20210104041834&path-prefix=vi" group-title="VOV RADIO, VOV5 | ĐÀI TIẾNG NÓI VIỆT NAM
 https://stream.vov.vn/69b58502924ecb8ef9720a71e738c8131715868968/audio/vovvn1_vovTTHCM.stream_aac/playlist.m3u8
+
+#EXTINF:-2 tvg-id="CCTV1" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cf/CCTV-1_HD.png/revision/latest/scale-to-width-down/1554?cb=20220508121352&path-prefix=vi" group-title="Kênh Thế Giới", CCTV1
+https://ldncctvwbcdtxy.liveplay.myqcloud.com/ldncctvwbcd/cdrmldcctv1_1/index.m3u8?b=200-2100
+
+#EXTINF:-2 tvg-id="CCTV2" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3c/CCTV-2_HD.png/revision/latest/scale-to-width-down/1000?cb=20220508121311&path-prefix=vi" group-title="Kênh Thế Giới", CCTV2
+https://ldocctvwbcdks.v.kcdnvip.com/ldocctvwbcd/cdrmldcctv2_1/index.m3u8?b=200-2100
+
+#EXTINF:-2 tvg-id="CCTV3" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2f/CCTV3_logo_2015.png/revision/latest/scale-to-width-down/1000?cb=20230829053132&path-prefix=vi" group-title="Kênh Thế Giới", CCTV3
+https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv3_1/index.m3u8?b=200-1200
+
+#EXTINF:-2 tvg-id="CCTV4" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/77/CCTV4_HD.png/revision/latest/scale-to-width-down/1000?cb=20220206011843&path-prefix=vi" group-title="Kênh Thế Giới", CCTV4
+https://ldocctvwbcdks.v.kcdnvip.com/ldocctvwbcd/cdrmldcctv4_1/index.m3u8?b=200-2100
+
+#EXTINF:-2 tvg-id="CCTV5" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3c/CCTV-5_logo_m%C3%A0n_h%C3%ACnh.png/revision/latest/scale-to-width-down/1200?cb=20220319061806&path-prefix=vi" group-title="Kênh Thế Giới", CCTV5
+https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5_1/index.m3u8?b=200-2100
+
+#EXTINF:-2 tvg-id="CCTV5+" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/87/CCTV5%2B_HD.png/revision/latest/scale-to-width-down/1000?cb=20220226104639&path-prefix=vi" group-title="Kênh Thế Giới", CCTV5+
+https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td&region=shanghai
+
+#EXTINF:-2 tvg-id="CCTV6" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3a/CCTV6_logo_2015.png/revision/latest/scale-to-width-down/1000?cb=20220514112708&path-prefix=vi" group-title="Kênh Thế Giới", CCTV6
+https://ldocctvwbcdali.v.myalicdn.com/ldocctvwbcd/cdrmldcctv6_1/index.m3u8?b=200-1200

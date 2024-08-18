@@ -216,7 +216,7 @@ https://cloudstreamhntv.tek4tv.vn/capture/HN1_720p/playlist.m3u8
 #EXTINF:-28 tvg-id="H2HD | ĐÀI PT-TH HÀ NỘI" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cc/HanoiTV2_logo_2024.png/revision/latest/scale-to-width-down/200?cb=20240305142108&path-prefix=vi" group-title="Kênh Địa Phương", H2HD | ĐÀI PT-TH HÀ NỘI
 https://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/chunklist_w915005968_b1064000_slen.m3u8
 
-#EXTINF:-29 tvg-id="HTTVHD | ĐÀI PT-TH HÀ TĨNH" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6c/HTTV_HD_logo_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/200?cb=20240622001112&path-prefix=vi"group-title="Kênh Địa Phương", HTTVHD | ĐÀI PT-TH HÀ TĨNH
+#EXTINF:-29 tvg-id="HTTVHD | ĐÀI PT-TH HÀ TĨNH" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2b/HTTV.png/revision/latest/scale-to-width-down/200?cb=20220129021631&path-prefix=vi" group-title="Kênh Địa Phương", HTTVHD | ĐÀI PT-TH HÀ TĨNH
 https://wse.hatinhtv.net/live/httv1/playlist.m3u8
 
 #EXTINF:-30 tvg-id="THD | ĐÀI PT-TH HẢI DƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/bb/THD_2023.png/revision/latest/scale-to-width-down/200?cb=20230925025249&path-prefix=vi" group-title="Kênh Địa Phương", THD | ĐÀI PT-TH HẢI DƯƠNG
@@ -225,13 +225,13 @@ http://truyenhinh.vnptvas.vn/live.m3u8?c=vstv369&q=medium&type=tv&token=gSTbcZR0
 #EXTINF:-31 tvg-id="THPHD | ĐÀI PT-TH HẢI PHÒNG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/THP_logo.svg/2560px-THP_logo.svg.png" group-title="Kênh Địa Phương", THPHD | ĐÀI PT-TH HẢI PHÒNG
 https://1253562137.e.cdneverest.net/a6QozR3BW0h31Uddbbpfzg/1722953691/live/285a4c99665fdf84e94956c66bc7dc7eb5d/playlist.m3u8
 
-#EXTINF:-32 tvg-id="THP+HD | ĐÀI PT-TH HẢI PHÒNG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/THP%2B_HD.png/revision/latest?cb=20200902112432" group-title="Kênh Địa Phương", THP+HD | ĐÀI PT-TH HẢI PHÒNG
+#EXTINF:-32 tvg-id="THP+HD | ĐÀI PT-TH HẢI PHÒNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/7d/THP_Plus.png/revision/latest?cb=20210822012039&path-prefix=vi" group-title="Kênh Địa Phương", THP+HD | ĐÀI PT-TH HẢI PHÒNG
 https://1253562137.e.cdneverest.net/xCXGBu6mZsazbvZNY7iNmA/1722953691/live/28548ca35823d41426d8b3da7ed82bdab13/chunklist.m3u8
 
 #EXTINF:-33 tvg-id="HGTV | ĐÀI PT-TH HÀ GIANG" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/85/Logo_HGTV_H%C3%A0_Giang_%282023%2C_b%E1%BA%A3n_2%29.png/revision/latest/scale-to-width-down/1200?cb=20231203105850&path-prefix=vi" group-title="Kênh Địa Phương", HGTV | ĐÀI PT-TH HÀ GIANG
 http://123.31.36.68/live.m3u8?c=vstv365&q=high&type=tv&token=LX-ibJYRUq9pflRtYAxfYQ&time=1586395820&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1586309420781&pkg=pkg11.hni
 
-#EXTINF:-34 tvg-id="HYHD | ĐÀI PT-TH HƯNG YÊN" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fb/HY_HD_logo_2020_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/180?cb=20230306095610&path-prefix=vi" group-title="Kênh Địa Phương", HYHD | ĐÀI PT-TH HƯNG YÊN
+#EXTINF:-34 tvg-id="HYHD | ĐÀI PT-TH HƯNG YÊN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLR6w7OuKtj8-LzZnkEBvOJr6yA8TqeLv7cw&s" group-title="Kênh Địa Phương", HYHD | ĐÀI PT-TH HƯNG YÊN
 https://1253218859.e.cdneverest.net/ZrXFf5ZJaMQBrg8-lSQ3aQ/1722954351/live/285f5449d7d7d2946e0bd2d54b7e60f25a4/playlist.m3u8
 
 #EXTINF:-35 tvg-id="KG | ĐÀI PT-TH KIÊN GIANG" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/55/KG_Kien_Giang_2009.png/revision/latest?cb=20211101032412&path-prefix=vi" group-title="Kênh Địa Phương", KGHD | ĐÀI PT-TH KIÊN GIANG

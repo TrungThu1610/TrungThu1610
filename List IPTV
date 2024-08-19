@@ -1,16 +1,16 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml,https://cdn.jsdelivr.net/gh/BurningC4/Chinese-IPTV@master/guide.xml,http://content.stream-link.org/epg/guide.xml,http://epg.51zmt.top:8000/e.xml,https://iptvx.one/EPG_NOARCH,https://akkradet.github.io/IPTV-THAI/guide.xml,https://epg.pw/xmltv/epg_ID.xml,http://epg.ra1n.lol/jp.xml"
 
 #EXTINF:-1 tvg-id="VTV1" tvg-logo="https://i.imgur.com/nfkmvAY.png" group-title="VTV", VTV1
-https://ec04-pop1-hlc.tv360.vn/bpk-token/5rygusza7jbexdp6zf5o24dkjpwha2sl/bpk-tv/154/output/154-audio_214400_eng=212400-video=1752000.m3u8
+https://ec05-pop1-hlc.tv360.vn/bpk-token/7gnl6djtcclq2xyndi6prgv7bx4zvpyn/bpk-tv/154/output/154-audio_214400_eng=212400-video=1752000.m3u8
 
 #EXTINF:-2 tvg-id="VTV2" tvg-logo="https://i.imgur.com/BVwi3K3.png" group-title="VTV", VTV2
-https://ec05-pop1-hlc.tv360.vn/bpk-token/u5oxasmw2zmetgxr2n4kmxlqjgtv24cj/bpk-tv/192/output/192-audio_133600_eng=131600-video=1752000.m3u8
+https://ec02-pop1-hlc.tv360.vn/bpk-token/7jxdcuge4umvanwksrq7w3rrkd5g4mkq/bpk-tv/192/output/192-audio_133600_eng=131600-video=1752000.m3u8
 
 #EXTINF:-3 tvg-id="VTV3" tvg-logo="https://i.imgur.com/7rLCvgS.png" group-title="VTV", VTV3
 https://ec05-pop1-hlc.tv360.vn/bpk-token/7y23ezw2x2ngmgdhc5l76nnsm37dlmtg/bpk-tv/155/output/155-audio_133600_eng=131600-video=1752000.m3u8
 
 #EXTINF:-4 tvg-id="VTV4" tvg-logo="https://i.imgur.com/9zVTtsA.png" group-title="VTV", VTV4
-https://lsm-hlc.tv360.vn:18443/193.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5R43ghAI94sIK4pNbL6xkjIodO4acWt6l/7xDQcr2w/9GoUgPApPdkPEBlfj8A78tc96rlh+vfjtz7d6uZZxsRk+Dua9TujIXreW2unH3rlavcnXVifVPe8oBth1BQVX4DiZ7nntQ/lqLphcHoh2pKjV0MTBnrgVcWMC6z4KquANA==&uid=226653457
+https://lsm-g11.tv360.vn:18443/193.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5RINhUa8bhtf1diy9pGC1iquzqV1gLyV1Rx3MsHSfBL3m+3Ow5Zki+8ZzkOqN/F3vugeVS0L0ywmQersA+OYzJsom8/xcs3kSK+uep7BLkwCY2ENJcn4U8+GGLufdpZ6/JlVyRmQGiNlTjv2plIe9tcgAqV+7WULjO4VTbPnLFw3Q==&uid=226653457
 
 #EXTINF:-5 tvg-id="VTV5" tvg-logo="https://i.imgur.com/7qPKNFU.png" group-title="VTV", VTV5
 https://ec03-pop1-hlc.tv360.vn/bpk-token/rsnrytkrce2e2nddx56i3gy4jwgjwhcn/bpk-tv/194/output/194-audio_133600_eng=131600-video=1752000.m3u8

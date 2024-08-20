@@ -262,7 +262,7 @@ http://118.107.85.5:1935/live/smil:LTV.smil/playlist.m3u8
 https://cdn.la34.com.vn/live/2851dc2c9af68834814a89e61db0faee561/playlist.m3u8
 
 #EXTINF:-43 tvg-id="NTV | ĐÀI PT-TH NAM ĐỊNH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSy_tkRBTFp9RRMqWDvmnxEEW4VrYMCysVE--iadHZ9A&s" group-title="Kênh Địa Phương", NTV | ĐÀI PT-TH NAM ĐỊNH
-
+No M3U8 detected
 
 #EXTINF:-44 tvg-id="NTVHD | ĐÀI PT-TH NGHỆ AN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Logo_NTV_Ngh%E1%BB%87_An_HD_2018.png"group-title="Kênh Địa Phương", NTVHD | ĐÀI PT-TH NGHỆ AN
 https://cdn.mediatech.vn/natvlive/tv1live.m3u8
@@ -280,7 +280,7 @@ https://cdn.3ssoft.vn/live/phuthotv/phuthotv/index.m3u8?t=QAAAulyzRLpBETcF7C5m4g
 http://113.161.4.48:8080/phuyen/tv/index.m3u8
 
 #EXTINF:-48 tvg-id="QBTVHD | ĐÀI PT-TH QUẢNG BÌNH" tvg-logo="https://qbtv.vn/App_Themes/common/BANNER_WEB_CHUAN/QBTV.png" group-title="Kênh Địa Phương", QBTVHD | ĐÀI PT-TH QUẢNG BÌNH
-
+No M3U8 detected
 
 #EXTINF:-49 tvg-id="QRTHD | ĐÀI PT-TH QUẢNG NAM" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/7b/QRT_c%C3%B3_website_01-2020.png/revision/latest/scale-to-width-down/190?cb=20230218150222&path-prefix=vi"group-title="Kênh Địa Phương", QRTHD | ĐÀI PT-TH QUẢNG NAM
 https://beta.qrt.vn/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
@@ -370,19 +370,19 @@ https://stream.vov.vn/69b58502924ecb8ef9720a71e738c8131715868968/audio/vovvn1_vo
 https://lsm-g11.tv360.vn:18443/211.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5SL4MGhoFNI4Bu5RfnE1rks1uije/7Sa9egwGPWdQwtiT1JGNwlEgzG3tQFRUp0AEk3UPqrimHt/qG15YoS3WDicy5QoQeDsi2Rasg4ucH/JQAACQhlqm7gwrd9/KCrTZ2hAfVak6OC61+9klPLjJ9MUJ814s4h9BXehg1sP2VZVw==&uid=202120540
 
 #EXTINF:-1 tvg-id="VTVCab 2 - ON PHIM VIỆT" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3e/ON_Phim_Vi%E1%BB%87t_logo.png/revision/latest?cb=20230922042146&path-prefix=vi" group-title="VTVCab", VTVCab 2 - ON PHIM VIỆT
-
+No M3U8 detected
 
 #EXTINF:-1 tvg-id="VTVCab 3 - ON SPORTS" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d3/ON_Sports_logo_2022.png/revision/latest/scale-to-width-down/1000?cb=20220311023726&path-prefix=vi" group-title="VTVCab", VTVCab 3 - ON SPORTS
-
+No M3U8 detected
 
 #EXTINF:-1 tvg-id="VTVCab 4 - ON MOVIES" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/19/ON_Movies_logo.png/revision/latest/scale-to-width-down/1200?cb=20221211044023&path-prefix=vi" group-title="VTVCab", VTVCab 4 - ON MOVIES
-
+No M3U8 detected
 
 #EXTINF:-1 tvg-id="VTVCab 5 - ON E CHANNEL" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f8/ON_E_Channel_logo.png/revision/latest?cb=20240528034033&path-prefix=vi" group-title="VTVCab", VTVCab 5 - ON E CHANNEL
-
+No M3U8 detected
 
 #EXTINF:-1 tvg-id="VTVCab 6 - ON SPORTS +" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/42/ON_Sports%2B_logo_2023.png/revision/latest/scale-to-width-down/1000?cb=20240611004341&path-prefix=vi" group-title="VTVCab", VTVCab 6 - ON SPORTS +
-
+No M3U8 detected
 
 #EXTINF:-1 tvg-id="VTVCab 7 - ON O2TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/70/ON_O2TV.png/revision/latest?cb=20221211044258&path-prefix=vi" group-title="VTVCab", VTVCab 7 - ON O2TV
 https://ec01-pop1-hlc.tv360.vn/bpk-token/2hgvsbab7zqainm7ay3nbtkzati42wie/bpk-tv/218/output/218-audio_133600_eng=131600-video=1752000.m3u8

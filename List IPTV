@@ -367,7 +367,7 @@ https://stream.vov.vn/69b58502924ecb8ef9720a71e738c8131715868968/audio/vovvn1_vo
 https://stream.vov.vn/69b58502924ecb8ef9720a71e738c8131715868968/audio/vovvn1_vovTTHCM.stream_aac/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VTVCab 1 - ON VIE GIẢI TRÍ" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f4/ON_Vie_Gi%E1%BA%A3i_tr%C3%AD_logo_23-12-2023.png/revision/latest/scale-to-width-down/1000?cb=20240816030855&path-prefix=vi" group-title="VTVCab", VTVCab 1 - ON VIE GIẢI TRÍ
-https://lsm-g12.tv360.vn:18443/211.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5T/0IqyO4Aq5+6qKtp37m4Jzmt2Qfsv4kMq13ftFlI26JPDaaMF/NtpkCVY+aHxdoVuJMVg+omAKLbeBdiA+JjfTkiPXYVu+uNgTgRqWRuvFyYFHvQizYUYwWctzGGolQ+/aAcTtN4+UCOFBDAX2FR2qphn0UPIBY3s8ZG/PDltAg==&uid=226653457
+https://lsm-g11.tv360.vn:18443/211.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5SL4MGhoFNI4Bu5RfnE1rks1uije/7Sa9egwGPWdQwtiT1JGNwlEgzG3tQFRUp0AEk3UPqrimHt/qG15YoS3WDicy5QoQeDsi2Rasg4ucH/JQAACQhlqm7gwrd9/KCrTZ2hAfVak6OC61+9klPLjJ9MUJ814s4h9BXehg1sP2VZVw==&uid=202120540
 
 #EXTINF:-1 tvg-id="VTVCab 2 - ON PHIM VIỆT" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3e/ON_Phim_Vi%E1%BB%87t_logo.png/revision/latest?cb=20230922042146&path-prefix=vi" group-title="VTVCab", VTVCab 2 - ON PHIM VIỆT
 
@@ -377,3 +377,12 @@ https://lsm-g12.tv360.vn:18443/211.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2
 
 #EXTINF:-1 tvg-id="VTVCab 4 - ON MOVIES" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/19/ON_Movies_logo.png/revision/latest/scale-to-width-down/1200?cb=20221211044023&path-prefix=vi" group-title="VTVCab", VTVCab 4 - ON MOVIES
 
+
+#EXTINF:-1 tvg-id="VTVCab 5 - ON E CHANNEL" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f8/ON_E_Channel_logo.png/revision/latest?cb=20240528034033&path-prefix=vi" group-title="VTVCab", VTVCab 5 - ON E CHANNEL
+
+
+#EXTINF:-1 tvg-id="VTVCab 6 - ON SPORTS +" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/42/ON_Sports%2B_logo_2023.png/revision/latest/scale-to-width-down/1000?cb=20240611004341&path-prefix=vi" group-title="VTVCab", VTVCab 6 - ON SPORTS +
+
+
+#EXTINF:-1 tvg-id="VTVCab 7 - ON O2TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/70/ON_O2TV.png/revision/latest?cb=20221211044258&path-prefix=vi" group-title="VTVCab", VTVCab 7 - ON O2TV
+https://ec01-pop1-hlc.tv360.vn/bpk-token/2hgvsbab7zqainm7ay3nbtkzati42wie/bpk-tv/218/output/218-audio_133600_eng=131600-video=1752000.m3u8

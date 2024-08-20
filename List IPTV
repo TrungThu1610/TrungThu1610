@@ -4,7 +4,7 @@
 https://ec05-pop1-hlc.tv360.vn/bpk-token/7gnl6djtcclq2xyndi6prgv7bx4zvpyn/bpk-tv/154/output/154-audio_214400_eng=212400-video=1752000.m3u8
 
 #EXTINF:-2 tvg-id="VTV2" tvg-logo="https://i.imgur.com/BVwi3K3.png" group-title="VTV", VTV2
-https://ec02-pop1-hlc.tv360.vn/bpk-token/7jxdcuge4umvanwksrq7w3rrkd5g4mkq/bpk-tv/192/output/192-audio_133600_eng=131600-video=1752000.m3u8
+https://fo-hlc.tv360.vn/bpk-tv/192/output/index.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3MjQxNzEzNzAsInVyaSI6Ii9icGstdHYvMTkyL291dHB1dC9pbmRleC5tM3U4In0.8gc7uT_o0rbDvtFH-vcAkrXeIHsgjFBc0QMMCUzuxWU&minrate=0&maxrate=6000000&uid=202120540
 
 #EXTINF:-3 tvg-id="VTV3" tvg-logo="https://i.imgur.com/7rLCvgS.png" group-title="VTV", VTV3
 https://ec05-pop1-hlc.tv360.vn/bpk-token/7y23ezw2x2ngmgdhc5l76nnsm37dlmtg/bpk-tv/155/output/155-audio_133600_eng=131600-video=1752000.m3u8
@@ -386,3 +386,43 @@ No M3U8 detected
 
 #EXTINF:-1 tvg-id="VTVCab 7 - ON O2TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/70/ON_O2TV.png/revision/latest?cb=20221211044258&path-prefix=vi" group-title="VTVCab", VTVCab 7 - ON O2TV
 https://ec01-pop1-hlc.tv360.vn/bpk-token/2hgvsbab7zqainm7ay3nbtkzati42wie/bpk-tv/218/output/218-audio_133600_eng=131600-video=1752000.m3u8
+
+#EXTINF:-1 tvg-id="VTVCab 8 - ON BIBI" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a5/ON_BiBi.png/revision/latest/scale-to-width-down/1000?cb=20221211044448&path-prefix=vi" group-title="VTVCab", VTVCab 8 - ON BIBI
+No M3U8 detected
+
+#EXTINF:-1 tvg-id="VTVCab 9 - ON INFOTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cd/ON_Info_TV.png/revision/latest?cb=20230228111228&path-prefix=vi" group-title="VTVCab", VTVCab 9 - ON INFOTV
+No M3U8 detected
+
+#EXTINF:-1 tvg-id="VTVCab 10 - ON CINE" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/18/ON_Cine_logo.png/revision/latest?cb=20210910161929&path-prefix=vi" group-title="VTVCab", VTVCab 10 - ON CINE
+https://lsm-g12.tv360.vn:18443/226.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5RjUy3iX6NW2wM4Qy31+gE2W2lOChH5ooOgsvYx2RLX8CvMkacDvYNlPCZatV7xygqlJ/y2xlojYVC41tMzCAInzrXgDEAo7ouCXCaqzoM59ulyUpFZIc0o2/oPSaji1jfc4U297RYLCe6npcMlq2pg9DB/7x+17y3ptia/6vf1JA==&uid=202120540
+
+#EXTINF:-1 tvg-id="VTVCab 12 - ON STYLETV" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/65/ON_Style_TV_-_Copyright_by_VTVcab.png/revision/latest/scale-to-width-down/1000?cb=20230301061407&path-prefix=vi" group-title="VTVCab", VTVCab 12 - ON STYLETV
+https://lsm-hlc.tv360.vn:18443/219.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5SfRjBRFN++zv9cApMQ/QBiAavDZXPtwo+eo07eTD6KPSi6v53Us3jOs1FIVw/LfuHiI2tD96b5TCHA3NNaTC2ozmaRnN5UZXH+C41dRCu+p6YyMgCXwr9NFPgo6x583KxooipkhCxJs09mrUhpn4QQL8aUtg5iErLstidmYOYN9w==&uid=202120540
+
+#EXTINF:-1 tvg-id="VTVCab 13 - ON HOMESHOPPING" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/ac/ON_Home_Shopping.png/revision/latest?cb=20240806013646&path-prefix=vi" group-title="VTVCab", VTVCab 13 - ON HOMESHOPPING
+No M3U8 detected
+
+#EXTINF:-1 tvg-id="VTVCab 15 - ON MUSIC" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/48/ON_Music_logo.png/revision/latest/scale-to-width-down/1000?cb=20221211044556&path-prefix=vi" group-title="VTVCab", VTVCab 15 - ON MUSIC
+No M3U8 detected
+
+#EXTINF:-1 tvg-id="VTVCab 16 - ON FOOTBALL" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/ac/ON_Football_logo_2022.png/revision/latest/scale-to-width-down/1000?cb=20220311023748&path-prefix=vi" group-title="VTVCab", VTVCab 16 - ON FOOTBALL
+https://ec05-pop4-hlc.tv360.vn/bpk-token/27wtyvqh3ycvn4kdvnsnn3j4k3l62pcw/bpk-tv/222/output/222-audio_133600_eng=131600-video=3621600.m3u8
+
+#EXTINF:-1 tvg-id="VTVCab 17 - ON TRENDINGTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f0/ON_Trending_TV.png/revision/latest/scale-to-width-down/1000?cb=20240816163750&path-prefix=vi" group-title="VTVCab", VTVCab 17 - ON TRENDINGTV
+https://lsm-g11.tv360.vn:18443/350.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5RIEgdAwkOTtdWIbGhMJkn74+m6XuxR+G4KQ2Fi4K2EMeNVSCrK7cQGHeWJ35stlo+E2U2jKg2k7Rq9P0ta+aVNNhU/nc/Mslst3KC12YVybJ1r6pAyOVm/90/lZXlj03/fMD7QGEIBbgt8znNU6FRqih5kwqX+bnPdawKUUDtv2Q==&uid=202120540
+
+#EXTINF:-1 tvg-id="VTVCab 18 - ON SPORTSNEWS" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f0/ON_Trending_TV.png/revision/latest/scale-to-width-down/1000?cb=20240816163750&path-prefix=vi" group-title="VTVCab", VTVCab 18 - ON SPORTSNEWS
+https://fo-hlc.tv360.vn/bpk-tv/223/output/index.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3MjQxNzI2OTAsInVyaSI6Ii9icGstdHYvMjIzL291dHB1dC9pbmRleC5tM3U4In0.ftOHXPVCObIGVACLGI9GKXuqJHO-DPcpct8J-WbBvUs&minrate=0&maxrate=6000000&uid=202120540
+
+#EXTINF:-1 tvg-id="VTVCab 19 - ON VIE DRAMAS" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/30/ON_Vie_Dramas.png/revision/latest/scale-to-width-down/1000?cb=20240816025529&path-prefix=vi" group-title="VTVCab", VTVCab 19 - ON VIE DRAMAS
+No M3U8 detected
+
+#EXTINF:-1 tvg-id="VTVCab 20 - ON VFAMILY" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/55/ON_VFamily_logo_15-05-2023.png/revision/latest?cb=20231224011606&path-prefix=vi" group-title="VTVCab", VTVCab 20 - ON VFAMILY
+No M3U8 detected
+
+#EXTINF:-1 tvg-id="VTVCab 21 - ON KIDS" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/be/ON_Kids_logo.png/revision/latest/scale-to-width-down/1662?cb=20221221112957&path-prefix=vi" group-title="VTVCab", VTVCab 21 - ON KIDS
+https://fo-hlc.tv360.vn/bpk-tv/234/output/index.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3MjQxNzMwMTcsInVyaSI6Ii9icGstdHYvMjM0L291dHB1dC9pbmRleC5tM3U4In0.zUOoqJVraTiMsXyPBMQZFUlrN3CUkej_JbElS6dV9yg&minrate=0&maxrate=6000000&uid=202120540
+
+
+#EXTINF:-1 tvg-id="VTVCab 22 - ON LIFE" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/37/ON_Life.png/revision/latest/scale-to-width-down/1000?cb=20221211044714&path-prefix=vi" group-title="VTVCab", VTVCab 22 - ON LIFE
+No M3U8 detected

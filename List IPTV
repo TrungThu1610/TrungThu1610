@@ -273,7 +273,7 @@ https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/playlist.m3u8
 #EXTINF:-44 tvg-id="NTVHD | ĐÀI PT-TH NINH THUẬN" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/24/NTV_logo_%28Ninh_Thuan%29.png/revision/latest/scale-to-width-down/1200?cb=20210717112230&path-prefix=vi"group-title="Kênh Địa Phương", NTVHD | ĐÀI PT-TH NINH THUẬN
 https://60acee235f4d5.streamlock.net/live/mystream/playlist.m3u8
 
-#EXTINF:-46 tvg-id="PTVHD | ĐÀI PT-TH PHÚ THỌ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Logo_%C4%90%C3%A0i_Ph%C3%A1t_thanh_%26_Truy%E1%BB%81n_h%C3%ACnh_Ph%C3%BA_Th%E1%BB%8D_-_PTV.svg"group-title="Kênh Địa Phương", PTVHD | ĐÀI PT-TH PHÚ THỌ
+#EXTINF:-46 tvg-id="PTVHD | ĐÀI PT-TH PHÚ THỌ" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c2/PTV_logo_2020.png/revision/latest/scale-to-width-down/190?cb=20230303145842&path-prefix=vi"group-title="Kênh Địa Phương", PTVHD | ĐÀI PT-TH PHÚ THỌ
 https://cdn.3ssoft.vn/live/phuthotv/phuthotv/index.m3u8?t=QAAAulyzRLpBETcF7C5m4g&e=1715020353
 
 #EXTINF:-47 tvg-id="PTP | ĐÀI PT-TH PHÚ YÊN" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/11/PTP_2018_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/1200?cb=20230205010739&path-prefix=vi" group-title="Kênh Địa Phương", PTP | ĐÀI PT-TH PHÚ YÊN
@@ -294,7 +294,7 @@ http://mediatech.vncdn.vn/qrtvlive/tv1live.m3u8
 #EXTINF:-51 tvg-id="QTV1HD | TRUNG TÂM TRUYỀN THÔNG TỈNH QUẢNG NINH" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a9/QTV1.png/revision/latest?cb=20230527102010&path-prefix=vi" group-title="Kênh Địa Phương", QTV1HD | TRUNG TÂM TRUYỀN THÔNG TỈNH QUẢNG NINH
 https://live.baoquangninh.vn/qtvlive/tv1live.m3u8
 
-#EXTINF:-51 tvg-id="QTV3HD | TRUNG TÂM TRUYỀN THÔNG TỈNH QUẢNG NINH" tvg-logo="https://media.baoquangninh.vn/upload/files/logo/logotrangchu2.png" group-title="Kênh Địa Phương", QTV3HD | TRUNG TÂM TRUYỀN THÔNG TỈNH QUẢNG NINH
+#EXTINF:-51 tvg-id="QTV3HD | TRUNG TÂM TRUYỀN THÔNG TỈNH QUẢNG NINH" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/7d/QTV3.png/revision/latest?cb=20230527102016&path-prefix=vi" group-title="Kênh Địa Phương", QTV3HD | TRUNG TÂM TRUYỀN THÔNG TỈNH QUẢNG NINH
 https://live.baoquangninh.vn/qtvlive/tv3live.m3u8
 
 #EXTINF:-51 tvg-id="STV1HD | ĐÀI PT-TH SÓC TRĂNG" tvg-logo="https://thst.vn/Content/images/stv1.png" group-title="Kênh Địa Phương", STV1HD | ĐÀI PT-TH SÓC TRĂNG
@@ -303,10 +303,10 @@ https://pa.thst.vn/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 #EXTINF:-51 tvg-id="STV2HD | ĐÀI PT-TH SÓC TRĂNG" tvg-logo="https://thst.vn/Content/images/stv2.png" group-title="Kênh Địa Phương", STV2HD | ĐÀI PT-TH SÓC TRĂNG
 https://pa.thst.vn/hls-live/livepkgr/_definst_/liveevent/livestreamstv2.m3u8
 
-#EXTINF:-51 tvg-id="STVHD | ĐÀI PT-TH SƠN LA" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/93/STV_HD_Son_La_logo_21-07-2020_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/200?cb=20231004045413&path-prefix=vi"group-title="Kênh Địa Phương", STVHD | ĐÀI PT-TH SƠN LA
+#EXTINF:-51 tvg-id="STVHD | ĐÀI PT-TH SƠN LA" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4a/STV_Son_La_logo_2020_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/200?cb=20230207071930&path-prefix=vi"group-title="Kênh Địa Phương", STVHD | ĐÀI PT-TH SƠN LA
 https://cdn.sonlatv.vn/live/28595222e707a364251b8724717894baa46/playlist.m3u8
 
-#EXTINF:-51 tvg-id="TTV11 | ĐÀI PT-TH TÂY NINH" tvg-logo="http://tayninhtv.vn/public/Home/images/logotayninh.png" group-title="Kênh Địa Phương", TTV11 | ĐÀI PT-TH TÂY NINH
+#EXTINF:-51 tvg-id="TTV11 | ĐÀI PT-TH TÂY NINH" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ef/TTV11_2020.png/revision/latest/scale-to-width-down/200?cb=20240207082044&path-prefix=vi" group-title="Kênh Địa Phương", TTV11 | ĐÀI PT-TH TÂY NINH
 http://202.43.109.142:1935/ttv11/tntv/playlist.m3u8
 
 #EXTINF:-51 tvg-id="TTV | ĐÀI PT-TH THANH HOÁ" tvg-logo="https://static.mediacdn.vn/truyenhinhthanhhoa.vn/image/Logo-fix2.png" group-title="Kênh Địa Phương", TTV | ĐÀI PT-TH THANH HOÁ

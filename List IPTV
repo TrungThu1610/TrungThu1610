@@ -318,19 +318,19 @@ https://live.tuyenquangtv.vn/hls/ttv.m3u8
 #EXTINF:-51 tvg-id="TBTVHD | ĐÀI PT-TH THÁI BÌNH" tvg-logo="https://thaibinhtv.vn/templates/frontend/tbtv/Assets/img/logo.png" group-title="Kênh Địa Phương", TBTVHD | ĐÀI PT-TH THÁI BÌNH
 https://1253668792.e.cdneverest.net/vIv7j79R9ajVbkqbKet8qg/1722953260/live/285fe61ba73072f428d8a626d764222e744/playlist.m3u8
 
-#EXTINF:-51 tvg-id="TN1HD | ĐÀI PT-TH THÁI NGUYÊN" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e1/TN1_HD_2022.png/revision/latest/scale-to-width-down/200?cb=20231101071136&path-prefix=vi"group-title="Kênh Địa Phương", TN1HD | ĐÀI PT-TH THÁI NGUYÊN
+#EXTINF:-51 tvg-id="TN1HD | ĐÀI PT-TH THÁI NGUYÊN" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cf/TN1_logo_2017.png/revision/latest/scale-to-width-down/200?cb=20231031073135&path-prefix=vi"group-title="Kênh Địa Phương", TN1HD | ĐÀI PT-TH THÁI NGUYÊN
 https://streaming.thainguyentv.vn/hls/livestream.m3u8
 
 #EXTINF:-51 tvg-id="TRT | ĐÀI PT-TH THỪA THIÊN HUẾ" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e1/TRT_logo_2023.png/revision/latest/scale-to-width-down/200?cb=20231019075920&path-prefix=vi"group-title="Kênh Địa Phương", TRT | ĐÀI PT-TH THỪA THIÊN HUẾ
 https://live.trt.com.vn/TRT-Online/playlist.m3u8
 
-#EXTINF:-51 tvg-id="THTGHD | ĐÀI PT-TH TIỀN GIANG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Logo_THTG_HD.png"group-title="Kênh Địa Phương", THTGHD | ĐÀI PT-TH TIỀN GIANG
+#EXTINF:-51 tvg-id="THTGHD | ĐÀI PT-TH TIỀN GIANG" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/65/THTG_logo_2023.png/revision/latest/scale-to-width-down/200?cb=20230827101416&path-prefix=vi"group-title="Kênh Địa Phương", THTGHD | ĐÀI PT-TH TIỀN GIANG
 http://123.25.238.45:1935/live/thtg/playlist.m3u8
 
 #EXTINF:-51 tvg-id="THTVHD | ĐÀI PT-TH TRÀ VINH" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2e/THTV_HD_logo.png/revision/latest/scale-to-width-down/210?cb=20220403052316&path-prefix=vi"group-title="Kênh Địa Phương", THTVHD | ĐÀI PT-TH TRÀ VINH
 https://60acee235f4d5.streamlock.net/THTV/travinhtv/chunklist_w1660567273.m3u8
 
-#EXTINF:-51 tvg-id="THTV2 | ĐÀI PT-TH TRÀ VINH" tvg-logo="https://static.wikia.nocookie.net/34135b1a-fe9e-4cff-8bea-e0cec1da9759/scale-to-width/755" group-title="Kênh Địa Phương", THTV2 | ĐÀI PT-TH TRÀ VINH
+#EXTINF:-51 tvg-id="THTV2 | ĐÀI PT-TH TRÀ VINH" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2d/THTV_logo_2003-2014.png/revision/latest?cb=20220403041001&path-prefix=vi" group-title="Kênh Địa Phương", THTV2 | ĐÀI PT-TH TRÀ VINH
 https://618b88f69e53b.streamlock.net/THTV2/travinhtv2/chunklist_w2003261673.m3u8
 
 #EXTINF:-51 tvg-id="THVL1HD | ĐÀI PT-TH VĨNH LONG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Logo_THVL1_HD.png"group-title="Kênh Địa Phương", THVL1HD | ĐÀI PT-TH VĨNH LONG

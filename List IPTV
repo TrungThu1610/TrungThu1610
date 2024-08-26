@@ -34,7 +34,7 @@ https://ec04-pop1-hlc.tv360.vn/bpk-token/unbucafv6noqba2sue3keq2bacrugqia/bpk-tv
 https://ec01-pop1-hlc.tv360.vn/bpk-token/au3bsxv5qqxv5lsiyruainqzlyctmgk6/bpk-tv/307/output/307-audio_133600_eng=131600-video=5154400.m3u8
 
 #EXTINF:-1 tvg-id="VTC1" tvg-logo="https://i.imgur.com/7HD60aD.png" group-title="VTC", VTC1
-https://vcdn2.vtc.gov.vn:8443/encrypt/vtc1_sd.smil/media_w1581937078_b1296000_sleng_tkdG9rZW5oYXNoPXRNZkd2c0FtT1FMOXFrRWhiX2w1SGZxakJxYWxRa1hDWndoUG9xSzdDc1FNVU5tY1kyT0RubmtkQlZRamhxeTBSdGNMX0FMNkVUaUZ0dDZldVRWVHRnPT0mdG9rZW5zdGFydHRpbWU9MTcxNjE3ODkxNyZ0b2tlbmVuZHRpbWU9MTcxNjIwMDUxNw==_23288.ts
+https://vcdn2.vtc.gov.vn:8443/encrypt/vtc1_sd.smil/playlist.m3u8?tokenhash=kj5jCaR2DdSoxO7YiUUmKlO5WJyo48OGjJ0ATYhQbIaBec-osVCS_WRqdBpOl869uvFWvJj0T989-ldkmiAi6g==&tokenstarttime=1724679387&tokenendtime=1724700987
 
 #EXTINF:-2 tvg-id="VTC2" tvg-logo="https://i.imgur.com/WUUXS6T.png" group-title="VTC", VTC2
 https://vcdn2.vtc.gov.vn:8443/encrypt/vtc2_sd.stream_270p/chunklist_w1423980288_tkdG9rZW5oYXNoPTVhYkx5MXdZLW0yZm1GRzQ5WVpidW91R1VoWEk3b19fMzlRZmFWTnBxamxEZXBCWjN3MUVUVzZ0VlhMOGx4MGRacjB6UVFGQ3U3dlQ4Z3VzVzhPRTR3PT0mdG9rZW5zdGFydHRpbWU9MTcxNTQ0MDgzOSZ0b2tlbmVuZHRpbWU9MTcxNTQ2MjQzOQ==.m3u8

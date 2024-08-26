@@ -1,22 +1,22 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml,https://cdn.jsdelivr.net/gh/BurningC4/Chinese-IPTV@master/guide.xml,http://content.stream-link.org/epg/guide.xml,http://epg.51zmt.top:8000/e.xml,https://iptvx.one/EPG_NOARCH,https://akkradet.github.io/IPTV-THAI/guide.xml,https://epg.pw/xmltv/epg_ID.xml,http://epg.ra1n.lol/jp.xml"
 
 #EXTINF:-1 tvg-id="VTV1" tvg-logo="https://i.imgur.com/nfkmvAY.png" group-title="VTV", VTV1
-https://ec05-pop1-hlc.tv360.vn/bpk-token/7gnl6djtcclq2xyndi6prgv7bx4zvpyn/bpk-tv/154/output/154-audio_214400_eng=212400-video=1752000.m3u8
+https://ec03-pop1-hlc.tv360.vn/bpk-token/o3piygb2n2ibr75ikmxhpxumdb3n5day/bpk-tv/154/output/154-audio_214400_eng=212400-video=1752000.m3u8
 
 #EXTINF:-2 tvg-id="VTV2" tvg-logo="https://i.imgur.com/BVwi3K3.png" group-title="VTV", VTV2
-https://fo-hlc.tv360.vn/bpk-tv/192/output/index.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3MjQxNzEzNzAsInVyaSI6Ii9icGstdHYvMTkyL291dHB1dC9pbmRleC5tM3U4In0.8gc7uT_o0rbDvtFH-vcAkrXeIHsgjFBc0QMMCUzuxWU&minrate=0&maxrate=6000000&uid=202120540
+https://ec04-pop1-hlc.tv360.vn/bpk-token/sgz5updrahwdzj2jayfjbm62hsi3hwr4/bpk-tv/192/output/192-audio_133600_eng=131600-video=1752000.m3u8
 
 #EXTINF:-3 tvg-id="VTV3" tvg-logo="https://i.imgur.com/7rLCvgS.png" group-title="VTV", VTV3
-https://ec05-pop1-hlc.tv360.vn/bpk-token/7y23ezw2x2ngmgdhc5l76nnsm37dlmtg/bpk-tv/155/output/155-audio_133600_eng=131600-video=1752000.m3u8
+https://ec05-pop1-hlc.tv360.vn/bpk-token/j7mjsoiznccttrqviyhu5wezhfh5rgjz/bpk-tv/155/output/155-audio_133600_eng=131600-video=1752000.m3u8
 
 #EXTINF:-4 tvg-id="VTV4" tvg-logo="https://i.imgur.com/9zVTtsA.png" group-title="VTV", VTV4
-https://lsm-g11.tv360.vn:18443/193.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5RINhUa8bhtf1diy9pGC1iquzqV1gLyV1Rx3MsHSfBL3m+3Ow5Zki+8ZzkOqN/F3vugeVS0L0ywmQersA+OYzJsom8/xcs3kSK+uep7BLkwCY2ENJcn4U8+GGLufdpZ6/JlVyRmQGiNlTjv2plIe9tcgAqV+7WULjO4VTbPnLFw3Q==&uid=226653457
+https://vod-h02-hlc.tv360.vn:18443//193_0.m3u8?AdaptiveType=HLS&SessionID=878df1e5-3493-4200-8c42-7e5387427aae&MinBw=0&MaxBw=20000000
 
 #EXTINF:-5 tvg-id="VTV5" tvg-logo="https://i.imgur.com/7qPKNFU.png" group-title="VTV", VTV5
-https://ec03-pop1-hlc.tv360.vn/bpk-token/rsnrytkrce2e2nddx56i3gy4jwgjwhcn/bpk-tv/194/output/194-audio_133600_eng=131600-video=1752000.m3u8
+https://ec05-pop1-hlc.tv360.vn/bpk-token/ws232gh3awqrqu2fmixllnn5dc2llpiy/bpk-tv/194/output/194-audio_133600_eng=131600-video=1752000.m3u8
 
 #EXTINF:-6 tvg-id="VTV CẦN THƠ" tvg-logo="https://i.imgur.com/HCpqatZ.png" group-title="VTV", VTV CẦN THƠ
-https://ec03-pop1-hlc.tv360.vn/bpk-token/z2g5szpja3ywkn4hpvkm7dozmxhi3wlf/bpk-tv/156/output/156-audio_133600_eng=131600-video=1752000.m3u8
+https://ec03-pop1-hlc.tv360.vn/bpk-token/t3xdewwrlyxfu6i65vwjz3rslkpo4ms2/bpk-tv/156/output/156-audio_133600_eng=131600-video=1752000.m3u8
 
 #EXTINF:-7 tvg-id="VTV7" tvg-logo="https://i.imgur.com/AgamSNe.png" group-title="VTV", VTV7
 https://cdn-traffic.sohatv.vn/live/pull/SWFYEZzBG7clIMM9/vtv-live/tfzVwLwUq2AEBi2c/337a54767a7233703637564336316a6d880e9c9c25c3c9f9efb6d4bd7278e97f890ee0697c64e1f731eeb197aeca1a8171e13164e2d83399618fd5bef7e137445223138845558d3d3aebee11826d162436c591df5e368c9b3f2d851fea37c7d65cb5caec24d30f89de921bccdc9b3a19b0944c810b22090daa8b52acb6765931af53b4c4325510bfc601983e833bd04fbeb564e6beab0771cef9f5682767da8fa3b1de1b3d7d857c73cf68760ba6b12ad5eb12f3cdd3fbab763afd4cf9a6494a7da918828dd28cb4b24a8cee8595ae74876d7cbe91687c70f601b197b3719b6b7459af4262a104c2046d8c7d91e50b0dea521f152d6bde5d2815cb022aa114b20bed61d92c27fed48b87b170b1e94f050c6d756c652275d9d653e5eeee2af3c6dd3704eab94d5f536d3342883010a85744bc984c513fed068cf9351131b78379ca9127b702ae2b79fa6f6a3824e1c5fb35d7210671cb947ced79ddb9ad6c6700abe359aad494fcb0a61074fbbe06ea73424f7b76656287b971e33735db4c6a38/master.m3u8?extSrc=vtv7
@@ -28,10 +28,10 @@ https://s3-fpt-cdn.sohatv.vn/live/pull/SWFYEZzBG7clIMM9/vtv-live/Sed8mPu64ufByBl
 https://live-on-v2-akm.akamaized.net/manifest/vtv9/master.m3u8?drmv2=1&manifestfilter=video_height%3A1-720
 
 #EXTINF:-10 tvg-id="VTV5 TÂY NGUYÊN" tvg-logo="https://i.imgur.com/R8c2swd.png" group-title="VTV", VTV5 TÂY NGUYÊN
-https://ec04-pop4-hlc.tv360.vn/bpk-token/77saafkoiesbli2xhm675zaacx76iaav/bpk-tv/308/output/308-audio_214400_eng=212400-video=1752000.m3u8
+https://ec04-pop1-hlc.tv360.vn/bpk-token/unbucafv6noqba2sue3keq2bacrugqia/bpk-tv/308/output/308-audio_214400_eng=212400-video=1752000.m3u8
 
 #EXTINF:-11 tvg-id="VTV5 TÂY NAM BỘ" tvg-logo="https://i.imgur.com/mIUWkDx.png" group-title="VTV", VTV5 TÂY NAM BỘ
-https://ec05-pop4-hlc.tv360.vn/bpk-token/jhuj6qmnjw5ucfjauruur2e7ife6rh2b/bpk-tv/307/output/307-audio_133600_eng=131600-video=1752000.m3u8
+https://ec01-pop1-hlc.tv360.vn/bpk-token/au3bsxv5qqxv5lsiyruainqzlyctmgk6/bpk-tv/307/output/307-audio_133600_eng=131600-video=5154400.m3u8
 
 #EXTINF:-1 tvg-id="VTC1" tvg-logo="https://i.imgur.com/7HD60aD.png" group-title="VTC", VTC1
 https://vcdn2.vtc.gov.vn:8443/encrypt/vtc1_sd.smil/media_w1581937078_b1296000_sleng_tkdG9rZW5oYXNoPXRNZkd2c0FtT1FMOXFrRWhiX2w1SGZxakJxYWxRa1hDWndoUG9xSzdDc1FNVU5tY1kyT0RubmtkQlZRamhxeTBSdGNMX0FMNkVUaUZ0dDZldVRWVHRnPT0mdG9rZW5zdGFydHRpbWU9MTcxNjE3ODkxNyZ0b2tlbmVuZHRpbWU9MTcxNjIwMDUxNw==_23288.ts
@@ -169,7 +169,7 @@ https://1254240447.pop.vnptcdn.com/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI
 https://1253668792.e.cdneverest.net/0J820hnQjABoQxXbdyO4vw/1714925411/live/285f5f227e988ab4445a2138091d3d62e8d/playlist.m3u8
 
 #EXTINF:-12 tvg-id="THBTHD | ĐÀI PT-TH BẾN TRE" tvg-logo="https://i.imgur.com/l8Ae26m.png" group-title="Kênh Địa Phương", THBTHD | ĐÀI PT-TH BẾN TRE
-https://1248728307.pop.vnptcdn.com/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Ijc3OThkMmE0LWZlOTktNDNjOC04NjRiLTkxMTFhZTYyODA5NCIsImV4cCI6MTcxOTMxNTM5NCwidXJpIjoiL2JlbnRyZS5hZG0uNDgwcC50bXMiLCJpYXQiOjE3MTkyOTM3OTR9.Gg58UE4rpKAFICO4yQuPArGamwpqSPxcIv_h3wZjMhk-/bentre.adm.480p.tms/playlist.m3u8
+https://1288865415.pop.vnptcdn.com/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3ODgzYmJmLWJhYWUtNDc2YS1iMGJhLWNjMjBlMDQwZjlmYSIsImV4cCI6MTcyNDcwMDI3NiwidXJpIjoiL2JlbnRyZS5hZG0uNDgwcC50bXMiLCJpYXQiOjE3MjQ2Nzg2NzZ9.ZS9ktccveuWzLl5EYN0FFQJQiiGc5sfSqUSzu7X2Cr4-/bentre.adm.480p.tms/playlist.m3u8
 
 #EXTINF:-13 tvg-id="CTVHD | ĐÀI PT-TH CÀ MAU" tvg-logo="https://i.imgur.com/ZKV1ok2.png" group-title="Kênh Địa Phương", CTVHD | ĐÀI PT-TH CÀ MAU
 https://tv.ctvcamau.vn/live/tv/tv.m3u8

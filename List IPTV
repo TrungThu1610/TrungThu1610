@@ -142,7 +142,7 @@ http://truyenhinhbinhdinhonline.dynns.com:8086/live.m3u8
 https://stream.thingnet.vn/live/smil:BTV.smil/playlist.m3u8
 
 #EXTINF:-3 tvg-id="BTV1HD | ĐÀI PT-TH BÌNH DƯƠNG" tvg-logo="https://i.imgur.com/Soe6MC8.png" group-title="Kênh Địa Phương", BTV1HD | ĐÀI PT-TH BÌNH DƯƠNG
-https://btv1011220.cdn.vnns.io/0a00b024015b64894cb43258f0af94b61722919317/btv1.480p.tms/playlist.m3u8
+https://htvc271120.cdn.vnns.io/5d564744d8b17d0128f82f0b03fe41d61729146632/btv1.480p.tms/playlist.m3u8
 
 #EXTINF:-4 tvg-id="BTV2HD | ĐÀI PT-TH BÌNH DƯƠNG" tvg-logo="https://i.imgur.com/pEaPECX.png" group-title="Kênh Địa Phương", BTV2HD | ĐÀI PT-TH BÌNH DƯƠNG
 https://btv2011220.cdn.vnns.io/a30d2fee2834f08bd1d37616cf442ab71722919503/btv2.480p.tms/playlist.m3u8
@@ -187,7 +187,7 @@ https://live.danangtv.vn/livedrt1/playlist.m3u8
 https://live.danangtv.vn/livestream/chunklist.m3u8
 
 #EXTINF:-17 tvg-id="ĐNRTV1HD | ĐÀI PT-TH ĐỒNG NAI" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/18/%C4%90N1-RTV_logo_2018.png/revision/latest/scale-to-width-down/200?cb=20211207103154&path-prefix=vi" group-title="Kênh Địa Phương", ĐNRTV1HD | ĐÀI PT-TH ĐỒNG NAI
-https://htvc271120.cdn.vnns.io/a58f6007dbcd28945fe21ffb832a57d41720971756/dongnai1.adm.720p.tms/playlist.m3u8
+https://htvc271120.cdn.vnns.io/12c239bff459370fb9d35b653bd7384f1729146568/dongnai1.adm.720p.tms/playlist.m3u8
 
 #EXTINF:-18 tvg-id="DRTHD | ĐÀI PT-TH ĐẮK LẮK" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f9/DRT_%C4%90%E1%BA%AFk_L%E1%BA%AFk_2021.png/revision/latest?cb=20230108145830&path-prefix=vi"group-title="Kênh Địa Phương", DRTHD | ĐÀI PT-TH ĐẮK LẮK
 https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/chunklist.m3u8

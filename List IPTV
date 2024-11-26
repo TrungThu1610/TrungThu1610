@@ -1,19 +1,26 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml,https://cdn.jsdelivr.net/gh/BurningC4/Chinese-IPTV@master/guide.xml,http://content.stream-link.org/epg/guide.xml,http://epg.51zmt.top:8000/e.xml,https://iptvx.one/EPG_NOARCH,https://akkradet.github.io/IPTV-THAI/guide.xml,https://epg.pw/xmltv/epg_ID.xml,http://epg.ra1n.lol/jp.xml"
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=0
+#EXTM3U url-tvg="https://github.com/LITUATUI/M3UPT/raw/main/epg/epg-vodafone.xml.gz"tvg-shift=0 m3uautoload=0
+#EXTM3U url-tvg="https://iptvx.one/EPG" deinterlace=0
+#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml" cache=500 deinterlace=1 aspect-ratio=16:9 tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="http://content.stream-link.org/epg/guide.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=3
+#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=5
+#EXTM3U url-tvg="https://i.mjh.nz/au/Melbourne/epg.xml.gz" tvg-shift=0 m3uautoload=12
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml" tvg-shift=0 m3uautoload=13
 
 #EXTINF:-1 tvg-id="VTV1" tvg-logo="https://i.imgur.com/nfkmvAY.png" group-title="VTV", VTV1
-https://ec03-pop1-hlc.tv360.vn/bpk-token/o3piygb2n2ibr75ikmxhpxumdb3n5day/bpk-tv/154/output/154-audio_214400_eng=212400-video=1752000.m3u8
+http://p1.cvtv.xyz/vtv1?token=live
 
 #EXTINF:-2 tvg-id="VTV2" tvg-logo="https://i.imgur.com/BVwi3K3.png" group-title="VTV", VTV2
-https://ec04-pop1-hlc.tv360.vn/bpk-token/sgz5updrahwdzj2jayfjbm62hsi3hwr4/bpk-tv/192/output/192-audio_133600_eng=131600-video=1752000.m3u8
+http://homelab.nguyenvinh.id.vn:9981/stream/channelid/1478248429?auth=PcetW49VQ.Gr1Glc9TGqaQpoMhag&profile=pass
 
 #EXTINF:-3 tvg-id="VTV3" tvg-logo="https://i.imgur.com/7rLCvgS.png" group-title="VTV", VTV3
-https://ec05-pop1-hlc.tv360.vn/bpk-token/j7mjsoiznccttrqviyhu5wezhfh5rgjz/bpk-tv/155/output/155-audio_133600_eng=131600-video=1752000.m3u8
+http://p1.cvtv.xyz/vtv3?token=live
 
 #EXTINF:-4 tvg-id="VTV4" tvg-logo="https://i.imgur.com/9zVTtsA.png" group-title="VTV", VTV4
-https://vod-h02-hlc.tv360.vn:18443//193_0.m3u8?AdaptiveType=HLS&SessionID=878df1e5-3493-4200-8c42-7e5387427aae&MinBw=0&MaxBw=20000000
+http://homelab.nguyenvinh.id.vn:9981/stream/channelid/1215538992?auth=PcetW49VQ.Gr1Glc9TGqaQpoMhag&profile=pass
 
 #EXTINF:-5 tvg-id="VTV5" tvg-logo="https://i.imgur.com/7qPKNFU.png" group-title="VTV", VTV5
-https://ec05-pop1-hlc.tv360.vn/bpk-token/ws232gh3awqrqu2fmixllnn5dc2llpiy/bpk-tv/194/output/194-audio_133600_eng=131600-video=1752000.m3u8
+http://p1.cvtv.xyz/vtv5?token=live
 
 #EXTINF:-6 tvg-id="VTV CẦN THƠ" tvg-logo="https://i.imgur.com/HCpqatZ.png" group-title="VTV", VTV CẦN THƠ
 https://ec03-pop1-hlc.tv360.vn/bpk-token/t3xdewwrlyxfu6i65vwjz3rslkpo4ms2/bpk-tv/156/output/156-audio_133600_eng=131600-video=1752000.m3u8
@@ -28,13 +35,13 @@ https://s3-fpt-cdn.sohatv.vn/live/pull/SWFYEZzBG7clIMM9/vtv-live/Sed8mPu64ufByBl
 https://live-on-v2-akm.akamaized.net/manifest/vtv9/master.m3u8?drmv2=1&manifestfilter=video_height%3A1-720
 
 #EXTINF:-10 tvg-id="VTV5 TÂY NGUYÊN" tvg-logo="https://i.imgur.com/R8c2swd.png" group-title="VTV", VTV5 TÂY NGUYÊN
-https://ec04-pop1-hlc.tv360.vn/bpk-token/unbucafv6noqba2sue3keq2bacrugqia/bpk-tv/308/output/308-audio_214400_eng=212400-video=1752000.m3u8
+http://homelab.nguyenvinh.id.vn:9981/stream/channelid/5778605?auth=PcetW49VQ.Gr1Glc9TGqaQpoMhag&profile=pass
 
 #EXTINF:-11 tvg-id="VTV5 TÂY NAM BỘ" tvg-logo="https://i.imgur.com/mIUWkDx.png" group-title="VTV", VTV5 TÂY NAM BỘ
-https://ec01-pop1-hlc.tv360.vn/bpk-token/au3bsxv5qqxv5lsiyruainqzlyctmgk6/bpk-tv/307/output/307-audio_133600_eng=131600-video=5154400.m3u8
+http://homelab.nguyenvinh.id.vn:9981/stream/channelid/987931107?auth=PcetW49VQ.Gr1Glc9TGqaQpoMhag&profile=pass
 
 #EXTINF:-1 tvg-id="VTC1" tvg-logo="https://i.imgur.com/7HD60aD.png" group-title="VTC", VTC1
-https://vcdn2.vtc.gov.vn:8443/encrypt/vtc1_sd.smil/playlist.m3u8?tokenhash=kj5jCaR2DdSoxO7YiUUmKlO5WJyo48OGjJ0ATYhQbIaBec-osVCS_WRqdBpOl869uvFWvJj0T989-ldkmiAi6g==&tokenstarttime=1724679387&tokenendtime=1724700987
+http://p1.cvtv.xyz/vtc1?token=live
 
 #EXTINF:-2 tvg-id="VTC2" tvg-logo="https://i.imgur.com/WUUXS6T.png" group-title="VTC", VTC2
 https://vcdn2.vtc.gov.vn:8443/encrypt/vtc2_sd.stream_270p/chunklist_w1423980288_tkdG9rZW5oYXNoPTVhYkx5MXdZLW0yZm1GRzQ5WVpidW91R1VoWEk3b19fMzlRZmFWTnBxamxEZXBCWjN3MUVUVzZ0VlhMOGx4MGRacjB6UVFGQ3U3dlQ4Z3VzVzhPRTR3PT0mdG9rZW5zdGFydHRpbWU9MTcxNTQ0MDgzOSZ0b2tlbmVuZHRpbWU9MTcxNTQ2MjQzOQ==.m3u8
@@ -91,7 +98,7 @@ https://zjizeoupprliv.vcdn.cloud/live/smil:vnews.smil/playlist.m3u8
 https://arpt.tvic.vn/live/nhandan720/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HTV1" tvg-logo="https://i.imgur.com/KEMSBD3.png" group-title="HTV", HTV1
-https://1011154949.vnns.net/CDN-FPT/HTV1-SD-ABR/playlist.m3u8?signKey=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJuYW1lIjoiMTQuMTkwLjE0My4yMjIiLCJlbWFpbCI6ImVtYWlsQGV4YW1wbGUuY29tIiwicGhvbmUiOiIwOTg3NjU0MzIxIiwiYXBwX2NvZGUiOiJodHZjIiwiY2hhbm5lbF9jb2RlIjoiVlRWMSIsImFwcF91c2VyX2lkIjoiMTQuMTkwLjE0My4yMjIiLCJpYXQiOjE3MjEzMTE4MTZ9.Skx7kcVCHdLJjopBn1VyTiKSpiVDCpa1KP19qMuJbRM7yKplBKhGB3nEuPRV2VQl_ra4d7NjtUzaFKlKlnIBbaOZuJtEXHB50oYMZYTbv3_IJCZaNajb7Ci_G-_5mk89cnCVDt5wkaXrDIQQik_NFjbwTGfo8BuDyxIU1B268cYVsarKoJEa_rgR7eV1pkFqDsBlAiGfFmrwTY4_z3cICvfjyt_ekqgBPxb8SyuoGvBhgjdlrSms9bAnCyuTyzyS0RQ-1NmfFCCMXBfGWEsqTUbY5heJnxtNswKXdWZRPbq_CvFVFDEHXvJiN34TlgYUCDjxI4sy73XIm4OOlgHILdbZ1BRHDZOQbjHk24Ha8ObcNt5Oqa-HhofriN8T4iuUH_JycUsvRekLXYDd4kMNugHuqr2vdNoNVK2Sbl5Sq3Yn5NOWm25IfGNprt5xJa5tHBcv45p25L2GABjHhDurgZg08CZoyPCuRENGOeCp1M-CLOBUeMUCV7x-22AdVP6_DRC1PHz0vB3wUAUsi8qxiouBVOD4n8Yxu7QjXmbTSRlNtiEq9SGuvGZIf6xshlZoym3S7bBEgvpIhxPPbrzD1Yb3C57id8Iy1cOQhc1x6d8vQtkTArK5f3mLHnB37Ak_PK7ZWtPB0QsRc9kRdAHf-HW8xOhakgZADtv1b3WcRl8
+No M3U detected
 
 #EXTINF:-2 tvg-id="HTV2" tvg-logo="https://i.imgur.com/Yc3cmAi.png" group-title="HTV", HTV2
 https://1011154949.vnns.net/CDN-FPT/HTV2-HD-ABR/playlist.m3u8?signKey=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJuYW1lIjoiMTQuMTkwLjE0My4yMjIiLCJlbWFpbCI6ImVtYWlsQGV4YW1wbGUuY29tIiwicGhvbmUiOiIwOTg3NjU0MzIxIiwiYXBwX2NvZGUiOiJodHZjIiwiY2hhbm5lbF9jb2RlIjoiVlRWMSIsImFwcF91c2VyX2lkIjoiMTQuMTkwLjE0My4yMjIiLCJpYXQiOjE3MjEzMTE4NTR9.UAxjG8zDOaudFOHwpx3y3APe1M2PhpKey6YNthsr0fee_qh4beamJNBhqxI4BteaXMdgg5EjdqULmg1kjNwue4xOvHqMJvQejUWtZIoHn2njcpWAcF1RFXzG_kExW-q5z6DRjzeurr9MQzuyEmbkimCfmD3NB5KJsu9Ao6QlHezaugsD9EZ5oGNh7u-J9d9Fjm5NHr88LavEFw8rUVHIL4tG8ulJhcpYj9_NnImKUrdZylZMvAp-i0PnxtzWTREgDEGZBMCDWPRnr-u4BOdUjo2ICFy6DisymZrCM6HFJipkuHAsC4zdudkw2t8OuHW1-wAyUJv0efGaqHlk94SJIHLpb-VZeVdWfjtCFoeHZpmsC15J1Wr1ixhbI3h6cnRJ_BxK9uvKTeK3qB1tsT6SY0UiYTy47AfGF9MWfUJVQup3tNQ6dLF8dxBBQmpUjfm8NfMvS6zJTn7nQBeUZaitnaqNljp6kz7bdQhPAGu0IOgUHVhJ30_9dCQpwsJFiKm63IRUeTDkuhBP_HOM6OVXty7Jgs9kXx5dFtsl_sD2Ax__IgeFqjOLwQ9fEVAQC5BWUV0PK3LokYGl6_Zw1nQmpC_hXnerIQHYvWXPmVjmROpPPs-3JVSCmEsURQyzodMRqgQO26JBHcJOdvl427xDYSicciIjwAXs1i-IAojtbQU
@@ -103,10 +110,10 @@ https://1011154949.vnns.net/CDN-FPT/HTV3-SD-ABR/playlist.m3u8?signKey=eyJ0eXAiOi
 https://1011154949.vnns.net/CDN-FPT/HTV4-SD-ABR/playlist.m3u8?signKey=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJuYW1lIjoiMTQuMTkwLjE0My4yMjIiLCJlbWFpbCI6ImVtYWlsQGV4YW1wbGUuY29tIiwicGhvbmUiOiIwOTg3NjU0MzIxIiwiYXBwX2NvZGUiOiJodHZjIiwiY2hhbm5lbF9jb2RlIjoiVlRWMSIsImFwcF91c2VyX2lkIjoiMTQuMTkwLjE0My4yMjIiLCJpYXQiOjE3MjEzMTE5NDF9.LeqkYlUdUS4JS4nznEPQKEwWWL9INrX7cY_UXsSUML53YCE1nOll7lN2bdQ6NKrknPyoyjI3OWURvYPCDnxyU4PslVCbhcBmrV1L1m7OWXkt46FxsHNQCMqln7eR-BuTxQIjHKdHqzhAgFERyCjnE_qoKzOB5EXJrCZ_46DPOihoihl6dNtXuBabC7TBWZTvY5sW2l8tXtet3-qK3zi4q0v2_PK6Aybcx9RxXt-eJFhT4RdKxyV_-K7r27w70_XDKiVHr9AXeGfyUMD-aTJlP2nQQAKbubkef58tm9j8pdAj87eMnkBT8IChn8I0zFxzu1eFlr8kom6_Yuj0zYr4CduWYlBJR79HyMIf7TicWejSHUOJlIDq0Yd8EZj9959EQzRgdXJV4oKuLbocjzbtXaIC1c3JLr8-zJ1_cth2ZTGmkvtOUxMBimKBBKKfNEVcjlJ4IQdjy4UUIVdUoJ7yZnpntSXXBpE1bPVX_vOg4luTRV4iGBSQbe4xh8ANSK7Hpyw_wsmlzXaR_2XzHegVINCFhH8lYrH_O8qJKcnNxZjiN9GxWbGhFpr1UfzF6Atw8B6WEItG6yK4e3mBLSuPifnxaf1x8G3AxKOIH8h6ayCfLTtPsiX0b8x9TEHQHAGI0WIlM_upIrgPUdRVxIrB5F3Go6QfitiZaAUczC9Dkoc
 
 #EXTINF:-5 tvg-id="HTV7HD" tvg-logo="https://i.imgur.com/PPFu7pv.png" group-title="HTV", HTV7HD
-https://live-bd2.tv360.vn/kbJ-ouCgLEA0R4vteLOokA/1714646346/manifest/HTV7_HD/master.m3u8?manifestfilter=video_bitrate:1-5767168&uid=226653457
+http://p1.cvtv.xyz/htv7?token=live
 
 #EXTINF:-6 tvg-id="HTV9HD" tvg-logo="https://i.imgur.com/1SgC1yo.png" group-title="HTV", HTV9HD
-https://1011154949.vnns.net/CDN-FPT/HTV9-HD-ABR/playlist.m3u8?signKey=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJuYW1lIjoiMTQuMTkwLjE0My4yMjIiLCJlbWFpbCI6ImVtYWlsQGV4YW1wbGUuY29tIiwicGhvbmUiOiIwOTg3NjU0MzIxIiwiYXBwX2NvZGUiOiJodHZjIiwiY2hhbm5lbF9jb2RlIjoiVlRWMSIsImFwcF91c2VyX2lkIjoiMTQuMTkwLjE0My4yMjIiLCJpYXQiOjE3MjEzMTMzMzZ9.TEcYcHPkiJUdW7vHSalDy89N4JM9BBNCE0q76ymlP9FpM7PeaNyJWoBOFEzXaISCzkN3WFQqFQvWUSg9zfYyAHiwdqri_H-2RhqJ3Z_ZwJDiAJSKiEnL3WG_GXgtKjn562xDO72kfZVEr-HofLhufaBOHpTpukDFXauY3dKz2znZzMpBvW_i2m_RjMSobSVnTXnmdHlO8Pr11Ngv9yL1FpP-7KE6BFP09n9v2y9TB_45bNxYCrRPr35jmWL6BNutCM0JJaAH2I_FoMlp7BbCnoMarzfvOjM0vi1gtNdgLxKOTUxycw_5mJ3R7AGMdf39j6TR66Tq5B0im6rkAQdwDmPjaygcw4mK1qC6_8-3n63Qn6rYO3raTEbfY7oPWVwo_FYQAihL3UsB_slziz8H5J79TX3jdsW1RCRKRg_WW-mCXISoNK4GO6gboT6ejkm590rSCanynocWydyYEU5-XXGqBpjCJOqItK5hN4V9kI4FyEOKZfBX2VzrE4Jh_6YdQ032k5fQdmkUE236egjrHNWM52yWd1I_iFd0Ssm37KgqopCzcpVyvrBIsz7AgLDIoUxKm2EyH7pp30yqxq-kVHDzJ4goGjzOVOFSX0yZPEy4djOiW9mhJeGr7Y-3hTLtPywwRQ0I-RPiNijAMm7_IS6o8SroQb4QuHnCnls179E
+http://thvip.site/360/194/index.m3u8?htv9
 
 #EXTINF:-7 tvg-id="HTV THỂ THAO" tvg-logo="https://i.imgur.com/z7NOxJ3.png" group-title="HTV", HTV THỂ THAO
 https://1011154949.vnns.net/CDN-FPT/HTV-THETHAO-HD-1080p/playlist.m3u8?signKey=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJuYW1lIjoiMTQuMTkwLjE0My4yMjIiLCJlbWFpbCI6ImVtYWlsQGV4YW1wbGUuY29tIiwicGhvbmUiOiIwOTg3NjU0MzIxIiwiYXBwX2NvZGUiOiJodHZjIiwiY2hhbm5lbF9jb2RlIjoiVlRWMSIsImFwcF91c2VyX2lkIjoiMTQuMTkwLjE0My4yMjIiLCJpYXQiOjE3MjEzMTMzNTl9.dQE6KEIKCAqaHCusGXh2OqbtyDXQ2J5DiC99CWDPcVnLzWAEXksDwoVjg_BDmCf2qI1r89SZL8Vx3ITdID2L_lghJnDdy4gyIPLoGOLIXj41RAvDEwbpfhnxIeIvpN_SEGpZjMxF0er5DJNXmy4lkbXMNsrDXPf3mO5Yhl5Y8LcQi0p6zRb-yuDVGDAbh7WX-wxRUT5_2HVcnSRnTcvnXSeUW9IVIU_egRSYRx4LTaXvP80L9dkj9ArjkHlojpeVl894DMzcY02yHhz_c2DXBIh3KeFsgRZLXSf1NYooX-_girfTJkPSF3eM-vlb8K745FmbJbs8ALfUtZMjgKj-P_o3UnND2LqX5OmTAQ9CjzVPLs1GhyCZjOpxwpPzxOaR7WQskjNdta_3yHxpBnWfZzknkQrx_vBQxC4gyLfK6L9MhvGWKin2IPVwvuXqX8-Jn-4oqBh6AIbfFHC5r-GPtfTdZT0qrJ__8EzqBtgeMU2NmLXnfV04MFz2MzGRtSfFHYdThY8Miwa_wAhQZwISbUzoCblPhVh_guffrIuM9GMI0Fnworx61bWaEJXVfvtSJAXPPmLWFPV4DeuSdd-yPr5bU_cCMvok8YR2mNzvccZLqx-8lh4fUjmR2zcbJRsWANaKk53ACgsNlKSmDJOUzHCnwVMf-AAio8v0mr-QX5Y
@@ -133,7 +140,7 @@ https://lsm-g12.tv360.vn:18443/25.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2g
 https://lsm-g12.tv360.vn:18443/60.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5SSbGmJrt0a7Nfz8kHzaFCyqD/u3Ik/Xdu4TW2L442T4gteAkaoaxu73+8aRobaO9613TbuFyPwmV9fQLebCXm3fhTyvcMUs6BFThXUIm9HSh7OCppYMzsj+OGG++ExO0GPdmqQGT0AF+oQd317ZXIc9zpDv3Cm0DVndOfrFqegww==&uid=226653457
 
 #EXTINF:-1 tvg-id="ATV HD | ĐÀI PT-TH AN GIANG" tvg-logo="https://i.imgur.com/0TkI4Ar.png" group-title="Kênh Địa Phương", ATV HD | ĐÀI PT-TH AN GIANG
-http://221.133.9.35:1935/live/1.stream_360p/playlist.m3u8
+https://oipf0znpmnliv.vcdn.cloud/hls/thangiang/index.m3u8
 
 #EXTINF:-2 tvg-id="BTV | ĐÀI PT-TH BÌNH ĐỊNH" tvg-logo="https://i.imgur.com/0yZnK57.png" group-title="Kênh Địa Phương", BTV | ĐÀI PT-TH BÌNH ĐỊNH
 http://truyenhinhbinhdinhonline.dynns.com:8086/live.m3u8
@@ -187,7 +194,7 @@ https://live.danangtv.vn/livedrt1/playlist.m3u8
 https://live.danangtv.vn/livestream/chunklist.m3u8
 
 #EXTINF:-17 tvg-id="ĐNRTV1HD | ĐÀI PT-TH ĐỒNG NAI" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/18/%C4%90N1-RTV_logo_2018.png/revision/latest/scale-to-width-down/200?cb=20211207103154&path-prefix=vi" group-title="Kênh Địa Phương", ĐNRTV1HD | ĐÀI PT-TH ĐỒNG NAI
-https://htvc271120.cdn.vnns.io/12c239bff459370fb9d35b653bd7384f1729146568/dongnai1.adm.720p.tms/playlist.m3u8
+http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8
 
 #EXTINF:-18 tvg-id="DRTHD | ĐÀI PT-TH ĐẮK LẮK" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f9/DRT_%C4%90%E1%BA%AFk_L%E1%BA%AFk_2021.png/revision/latest?cb=20230108145830&path-prefix=vi"group-title="Kênh Địa Phương", DRTHD | ĐÀI PT-TH ĐẮK LẮK
 https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/chunklist.m3u8

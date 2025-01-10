@@ -82,9 +82,6 @@ https://vcdn2.vtc.gov.vn:8443/encrypt/vtc16_sd.stream_270p/playlist.m3u8?tokenha
 #EXTINF:-14 tvg-id="VOV TV" tvg-logo="https://i.imgur.com/lARtNRO.png" group-title="VTC", VOV TV
 https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="KÊNH7 - Truyền hình Quốc Hội Việt Nam" tvg-logo="https://i.imgur.com/YtZGuSy.png" group-title="Thiết yếu", KÊNH7 - Truyền hình Quốc Hội Việt Nam
-https://cloudvodqh.tek4tv.vn/live/quochoi_abr.m3u8
-
 #EXTINF:-2 tvg-id="ANTV - Truyền hình Công An Nhân Dân" tvg-logo="https://i.imgur.com/QztqOe0.png" group-title="Thiết yếu", ANTV - Truyền hình Công An Nhân Dân
 https://lives.antv.gov.vn/channel/antv/channel/antv_1080p/chunks.m3u8
 
@@ -281,13 +278,13 @@ https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/playlist.m3u8
 https://60acee235f4d5.streamlock.net/live/mystream/playlist.m3u8
 
 #EXTINF:-46 tvg-id="PTVHD | ĐÀI PT-TH PHÚ THỌ" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c2/PTV_logo_2020.png/revision/latest/scale-to-width-down/190?cb=20230303145842&path-prefix=vi"group-title="Kênh Địa Phương", PTVHD | ĐÀI PT-TH PHÚ THỌ
-https://cdn.3ssoft.vn/live/phuthotv/phuthotv/index.m3u8?t=QAAAulyzRLpBETcF7C5m4g&e=1715020353
+https://cdn.3ssoft.vn/live/phuthotv/phuthotv/index.m3u8?t=UpTaJZR9vMTfUvq6Gi1SSA&e=1736548437
 
 #EXTINF:-47 tvg-id="PTP | ĐÀI PT-TH PHÚ YÊN" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/11/PTP_2018_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/1200?cb=20230205010739&path-prefix=vi" group-title="Kênh Địa Phương", PTP | ĐÀI PT-TH PHÚ YÊN
 http://113.161.4.48:8080/phuyen/tv/index.m3u8
 
 #EXTINF:-48 tvg-id="QBTVHD | ĐÀI PT-TH QUẢNG BÌNH" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2a/QBTV_logo_2019_b%E1%BA%A3n_3.png/revision/latest/scale-to-width-down/200?cb=20230410095159&path-prefix=vi" group-title="Kênh Địa Phương", QBTVHD | ĐÀI PT-TH QUẢNG BÌNH
-No M3U8 detected
+https://media.qbtv.vn/LiveApp/streams/UfqMzQUuZFxD69275138146969_adaptive.m3u8
 
 #EXTINF:-49 tvg-id="QRTHD | ĐÀI PT-TH QUẢNG NAM" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/91/QRT_2019.png/revision/latest?cb=20221124163144&path-prefix=vi"group-title="Kênh Địa Phương", QRTHD | ĐÀI PT-TH QUẢNG NAM
 https://beta.qrt.vn/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8

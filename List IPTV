@@ -328,7 +328,7 @@ https://lsm-g11.tv360.vn:18443/211.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2
 No M3U8 detected
 
 #EXTINF:-1 tvg-id="VTVCab 3 - ON SPORTS" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d3/ON_Sports_logo_2022.png/revision/latest/scale-to-width-down/1000?cb=20220311023726&path-prefix=vi" group-title="VTVCab", VTVCab 3 - ON SPORTS
-No M3U8 detected
+https://509942876.r.vtvcdn.com/onplus/THETHAO_HD/m30_index.m3u8
 
 #EXTINF:-1 tvg-id="VTVCab 4 - ON MOVIES" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/19/ON_Movies_logo.png/revision/latest/scale-to-width-down/1200?cb=20221211044023&path-prefix=vi" group-title="VTVCab", VTVCab 4 - ON MOVIES
 No M3U8 detected
@@ -337,7 +337,7 @@ No M3U8 detected
 No M3U8 detected
 
 #EXTINF:-1 tvg-id="VTVCab 6 - ON SPORTS +" tvg-logo="https://i.ibb.co/2KBjsz8/cccab06.webp" group-title="VTVCab", VTVCab 6 - ON SPORTS +
-No M3U8 detected
+https://509942876.r.vtvcdn.com/onplus/HAY_TV/m30_index.m3u8
 
 #EXTINF:-1 tvg-id="VTVCab 7 - ON O2TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/70/ON_O2TV.png/revision/latest?cb=20221211044258&path-prefix=vi" group-title="VTVCab", VTVCab 7 - ON O2TV
 https://ec01-pop1-hlc.tv360.vn/bpk-token/2hgvsbab7zqainm7ay3nbtkzati42wie/bpk-tv/218/output/218-audio_133600_eng=131600-video=1752000.m3u8
@@ -361,13 +361,13 @@ No M3U8 detected
 No M3U8 detected
 
 #EXTINF:-1 tvg-id="VTVCab 16 - ON FOOTBALL" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/ac/ON_Football_logo_2022.png/revision/latest/scale-to-width-down/1000?cb=20220311023748&path-prefix=vi" group-title="VTVCab", VTVCab 16 - ON FOOTBALL
-https://ec05-pop4-hlc.tv360.vn/bpk-token/27wtyvqh3ycvn4kdvnsnn3j4k3l62pcw/bpk-tv/222/output/222-audio_133600_eng=131600-video=3621600.m3u8
+https://509942876.r.vtvcdn.com/onplus/BONGDA_HD/m30_index.m3u8
 
 #EXTINF:-1 tvg-id="VTVCab 17 - ON TRENDINGTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f0/ON_Trending_TV.png/revision/latest/scale-to-width-down/1000?cb=20240816163750&path-prefix=vi" group-title="VTVCab", VTVCab 17 - ON TRENDINGTV
 https://lsm-g11.tv360.vn:18443/350.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5RIEgdAwkOTtdWIbGhMJkn74+m6XuxR+G4KQ2Fi4K2EMeNVSCrK7cQGHeWJ35stlo+E2U2jKg2k7Rq9P0ta+aVNNhU/nc/Mslst3KC12YVybJ1r6pAyOVm/90/lZXlj03/fMD7QGEIBbgt8znNU6FRqih5kwqX+bnPdawKUUDtv2Q==&uid=202120540
 
 #EXTINF:-1 tvg-id="VTVCab 18 - ON SPORTSNEWS" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1f/ON_Sports_News_logo_2022.png/revision/latest?cb=20220403050655&path-prefix=vi" group-title="VTVCab", VTVCab 18 - ON SPORTSNEWS
-https://fo-hlc.tv360.vn/bpk-tv/223/output/index.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3MjQxNzI2OTAsInVyaSI6Ii9icGstdHYvMjIzL291dHB1dC9pbmRleC5tM3U4In0.ftOHXPVCObIGVACLGI9GKXuqJHO-DPcpct8J-WbBvUs&minrate=0&maxrate=6000000&uid=202120540
+https://509942876.r.vtvcdn.com/onplus/THETHAO_TINTUC_HD/m30_index.m3u8
 
 #EXTINF:-1 tvg-id="VTVCab 19 - ON VIE DRAMAS" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/30/ON_Vie_Dramas.png/revision/latest/scale-to-width-down/1000?cb=20240816025529&path-prefix=vi" group-title="VTVCab", VTVCab 19 - ON VIE DRAMAS
 No M3U8 detected

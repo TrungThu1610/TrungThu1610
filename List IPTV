@@ -1,44 +1,37 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=0
-#EXTM3U url-tvg="https://github.com/LITUATUI/M3UPT/raw/main/epg/epg-vodafone.xml.gz"tvg-shift=0 m3uautoload=0
-#EXTM3U url-tvg="https://iptvx.one/EPG" deinterlace=0
-#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml" cache=500 deinterlace=1 aspect-ratio=16:9 tvg-shift=0 m3uautoload=1
-#EXTM3U url-tvg="http://content.stream-link.org/epg/guide.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=3
-#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=5
-#EXTM3U url-tvg="https://i.mjh.nz/au/Melbourne/epg.xml.gz" tvg-shift=0 m3uautoload=12
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml" tvg-shift=0 m3uautoload=13
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz"
 
 #EXTINF:-1 tvg-id="VTV1" tvg-logo="https://i.imgur.com/nfkmvAY.png" group-title="VTV", VTV1
-http://p1.cvtv.xyz/vtv1?token=live
+https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b4200000.m3u8
 
 #EXTINF:-2 tvg-id="VTV2" tvg-logo="https://i.imgur.com/BVwi3K3.png" group-title="VTV", VTV2
-http://homelab.nguyenvinh.id.vn:9981/stream/channelid/1478248429?auth=PcetW49VQ.Gr1Glc9TGqaQpoMhag&profile=pass
+https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist_b4200000.m3u8
 
 #EXTINF:-3 tvg-id="VTV3" tvg-logo="https://i.imgur.com/7rLCvgS.png" group-title="VTV", VTV3
-http://p1.cvtv.xyz/vtv3?token=live
+https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist_b4200000.m3u8
 
 #EXTINF:-4 tvg-id="VTV4" tvg-logo="https://i.imgur.com/9zVTtsA.png" group-title="VTV", VTV4
-http://homelab.nguyenvinh.id.vn:9981/stream/channelid/1215538992?auth=PcetW49VQ.Gr1Glc9TGqaQpoMhag&profile=pass
+https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist_b4200000.m3u8
 
 #EXTINF:-5 tvg-id="VTV5" tvg-logo="https://i.imgur.com/7qPKNFU.png" group-title="VTV", VTV5
-http://p1.cvtv.xyz/vtv5?token=live
+https://live.fptplay53.net/epzch2/vtv5hd_abr.smil/chunklist_b4200000.m3u8
 
 #EXTINF:-6 tvg-id="VTV CẦN THƠ" tvg-logo="https://i.imgur.com/HCpqatZ.png" group-title="VTV", VTV CẦN THƠ
-https://ec03-pop1-hlc.tv360.vn/bpk-token/t3xdewwrlyxfu6i65vwjz3rslkpo4ms2/bpk-tv/156/output/156-audio_133600_eng=131600-video=1752000.m3u8
+https://live.fptplay53.net/fnxch2/vtvcantho_abr.smil/chunklist_b4200000.m3u8
 
 #EXTINF:-7 tvg-id="VTV7" tvg-logo="https://i.imgur.com/AgamSNe.png" group-title="VTV", VTV7
-https://cdn-traffic.sohatv.vn/live/pull/SWFYEZzBG7clIMM9/vtv-live/tfzVwLwUq2AEBi2c/337a54767a7233703637564336316a6d880e9c9c25c3c9f9efb6d4bd7278e97f890ee0697c64e1f731eeb197aeca1a8171e13164e2d83399618fd5bef7e137445223138845558d3d3aebee11826d162436c591df5e368c9b3f2d851fea37c7d65cb5caec24d30f89de921bccdc9b3a19b0944c810b22090daa8b52acb6765931af53b4c4325510bfc601983e833bd04fbeb564e6beab0771cef9f5682767da8fa3b1de1b3d7d857c73cf68760ba6b12ad5eb12f3cdd3fbab763afd4cf9a6494a7da918828dd28cb4b24a8cee8595ae74876d7cbe91687c70f601b197b3719b6b7459af4262a104c2046d8c7d91e50b0dea521f152d6bde5d2815cb022aa114b20bed61d92c27fed48b87b170b1e94f050c6d756c652275d9d653e5eeee2af3c6dd3704eab94d5f536d3342883010a85744bc984c513fed068cf9351131b78379ca9127b702ae2b79fa6f6a3824e1c5fb35d7210671cb947ced79ddb9ad6c6700abe359aad494fcb0a61074fbbe06ea73424f7b76656287b971e33735db4c6a38/master.m3u8?extSrc=vtv7
+https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-8 tvg-id="VTV8" tvg-logo="https://i.imgur.com/lpcltL9.png" group-title="VTV", VTV8
-https://s3-fpt-cdn.sohatv.vn/live/pull/SWFYEZzBG7clIMM9/vtv-live/Sed8mPu64ufByBlS/337a54767a7233703637564336316a6d87261b7c3b019097a0caf8df61853683c44b70345cdeee7526064f878347fd34ee33594c8c02323cd0e16d1438d4bf8bd404b11406326dd68a5abcc532ba83b0daca0846a151c45812b1277c5e34c2688dd41b5bf9441c617b905ba6e451e375e7dac96653100ca906a02f56a5aac8f68f99110a51c748aef258c8235aa98c4a3717eae3f22ebc2f765b90862769d9d44ea1be1ea0db5aa7e4901630563631023131b9953e8d0656d17ab60577d9c05d7d22477a26269a1ad6aa4317b406b2678bd341810d3c153ae9c0055fbcb7d86cbbca2a5240135d30dedf06ecccf1c62364102bf0acdb6da90301121af76bd173a16adb9a8e6952a970ca0b5bc830f5ef7ac69191af0674dd790a4178ff77d8c83a2f74fe0f7785ba0963dd6b47ce2901630ff9b3e49a6425e8834dddd0ba59777827e182530ac17f305e7f523f869a021c5edf11ed1a5d3e14b48aebe269b45edfad31cbbcc9f8a19b6ca7d5b0118ce40296182f88a1e58e8f1c7e8f96ab4dd9/720p.m3u8
+https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-9 tvg-id="VTV9" tvg-logo="https://i.imgur.com/Ex1VkGQ.png" group-title="VTV", VTV9
-https://live-on-v2-akm.akamaized.net/manifest/vtv9/master.m3u8?drmv2=1&manifestfilter=video_height%3A1-720
+https://live.fptplay53.net/epzch2/vtv9hd_abr.smil/chunklist_b4200000.m3u8
 
 #EXTINF:-10 tvg-id="VTV5 TÂY NGUYÊN" tvg-logo="https://i.imgur.com/R8c2swd.png" group-title="VTV", VTV5 TÂY NGUYÊN
-http://homelab.nguyenvinh.id.vn:9981/stream/channelid/5778605?auth=PcetW49VQ.Gr1Glc9TGqaQpoMhag&profile=pass
+https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-11 tvg-id="VTV5 TÂY NAM BỘ" tvg-logo="https://i.imgur.com/mIUWkDx.png" group-title="VTV", VTV5 TÂY NAM BỘ
-http://homelab.nguyenvinh.id.vn:9981/stream/channelid/987931107?auth=PcetW49VQ.Gr1Glc9TGqaQpoMhag&profile=pass
+https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="VTC1" tvg-logo="https://i.imgur.com/7HD60aD.png" group-title="VTC", VTC1
 http://p1.cvtv.xyz/vtc1?token=live

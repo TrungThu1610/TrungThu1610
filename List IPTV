@@ -381,3 +381,63 @@ https://fo-hlc.tv360.vn/bpk-tv/234/output/index.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbG
 
 #EXTINF:-1 tvg-id="VTVCab 22 - ON LIFE" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/37/ON_Life.png/revision/latest/scale-to-width-down/1000?cb=20221211044714&path-prefix=vi" group-title="VTVCab", VTVCab 22 - ON LIFE
 No M3U8 detected
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VzZYa4n.png" group-title="SCTV",tvg-id="49734b854081bda890ee47bbcd0abc97",SCTV Phim Tổng Hợp
+http://vuminhthanh:vuminhthanh@hothanhdam.dsmynas.com:9981/stream/channelid/88830793?profile=pass
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/imhFxSG.png" group-title="SCTV",tvg-id="ac0f78cfd4df0bfc8031bc48bb619521",SCTV1
+http://vuminhthanh:vuminhthanh@hothanhdam.dsmynas.com:9981/stream/channelid/1333268396?profile=pass
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AP2o4bW.png" group-title="SCTV",tvg-id="bd68ffb32a450112faf7b2695928410c",SCTV11
+http://vuminhthanh:vuminhthanh@hothanhdam.dsmynas.com:9981/stream/channelid/872376509?profile=pass
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5nrSZd8.png" group-title="SCTV",tvg-id="b7292f947e5c48885a2d56570d1f8a08",SCTV12
+http://vuminhthanh:vuminhthanh@hothanhdam.dsmynas.com:9981/stream/channelid/338635191?profile=pass
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PEz2Ieq.png" group-title="SCTV",tvg-id="62fa3b5ba23070dea05c4c4a9617f309",SCTV13
+http://vuminhthanh:vuminhthanh@hothanhdam.dsmynas.com:9981/stream/channelid/1530657378?profile=pass
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EPwjrlB.png" group-title="SCTV",tvg-id="d9e10d71efaf7ac78d801a5f7a65a9eb",SCTV15
+http://vuminhthanh:vuminhthanh@hothanhdam.dsmynas.com:9981/stream/channelid/1896735193?profile=pass
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b4ZROQG.png" group-title="SCTV",tvg-id="4ca79d2fd393a485c25ea15863c5f058",SCTV16
+http://vuminhthanh:vuminhthanh@hothanhdam.dsmynas.com:9981/stream/channelid/798861132?profile=pass
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ghjy4HY.png" group-title="SCTV",tvg-id="0efd8ae2c833b21740269ca327f6191c",SCTV17
+http://vuminhthanh:vuminhthanh@hothanhdam.dsmynas.com:9981/stream/channelid/1653275918?profile=pass
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k2Eg4T4.png" group-title="SCTV",tvg-id="412a7c929c1af7cee0aa0336f65bf3ee",SCTV18
+http://vuminhthanh:vuminhthanh@hothanhdam.dsmynas.com:9981/stream/channelid/310127169?profile=pass
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s4vfvNb.png" group-title="SCTV",tvg-id="bfded1dac1bcc416b451d2d89fb5d39f",SCTV19
+http://vuminhthanh:vuminhthanh@hothanhdam.dsmynas.com:9981/stream/channelid/1523703487?profile=pass
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UpBZOaH.png" group-title="SCTV",tvg-id="9708629c4ddff1677657b7a8d68cce55",SCTV2
+http://vuminhthanh:vuminhthanh@hothanhdam.dsmynas.com:9981/stream/channelid/476186775?profile=pass
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zwfqboB.png" group-title="SCTV",tvg-id="2705c9c3314d3956d712d89afe1e3293",SCTV20
+http://vuminhthanh:vuminhthanh@hothanhdam.dsmynas.com:9981/stream/channelid/1137247527?profile=pass
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aHKybQW.png" group-title="SCTV",tvg-id="54db94290eb0a931b4a780810bbe93c8",SCTV21
+http://vuminhthanh:vuminhthanh@hothanhdam.dsmynas.com:9981/stream/channelid/697621332?profile=pass
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O0HdUpB.png" group-title="SCTV",tvg-id="77fe775bbbd85038e59a61d46aa0a340",SCTV22
+http://vuminhthanh:vuminhthanh@hothanhdam.dsmynas.com:9981/stream/channelid/1534590583?profile=pass
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wZrGAtH.png" group-title="SCTV",tvg-id="7f4c71b3834b5f10b9aa0fe32feb07b1",SCTV3
+http://vuminhthanh:vuminhthanh@hothanhdam.dsmynas.com:9981/stream/channelid/863063167?profile=pass
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ntSnAMJ.png" group-title="SCTV",tvg-id="c39d27ecd9e72e8b555b8e45439d4a8f",SCTV4
+http://vuminhthanh:vuminhthanh@hothanhdam.dsmynas.com:9981/stream/channelid/1814535619?profile=pass
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pSIvTkZ.png" group-title="SCTV",tvg-id="470a5b7c4a70190f827f9d216bdb8a0d",SCTV6
+http://vuminhthanh:vuminhthanh@hothanhdam.dsmynas.com:9981/stream/channelid/2086341191?profile=pass
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EdjXUUb.png" group-title="SCTV",tvg-id="8d86da0ff9fed35cc47e370c88c3727a",SCTV7
+http://vuminhthanh:vuminhthanh@hothanhdam.dsmynas.com:9981/stream/channelid/265979533?profile=pass
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NULoCoA.png" group-title="SCTV",tvg-id="dd9ad2b7a767fe9996db669c51b60d0f",SCTV8
+http://vuminhthanh:vuminhthanh@hothanhdam.dsmynas.com:9981/stream/channelid/936549085?profile=pass
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6dvyvea.png" group-title="SCTV",tvg-id="419fd01cc049c678e2756a04bb0e567b",SCTV9
+http://vuminhthanh:vuminhthanh@hothanhdam.dsmynas.com:9981/stream/channelid/483434305?profile=pass

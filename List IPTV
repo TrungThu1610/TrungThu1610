@@ -476,22 +476,22 @@ http://e5.endpoint.cdn.sctvonline.vn/hls/sctv17/index.m3u8
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://s8.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s8.edge.cdn.sctvonline.vn/hls/sctv18/index.m3u8
 
-#EXTINF:-1 tvg-id="sctv19hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/SCTV19.jpg", SCTV19 HD
+#EXTINF:-1 tvg-id="sctv19hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ef/SCTV19.png/revision/latest/scale-to-width-down/1200?cb=20240131141543&path-prefix=vi", SCTV19 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://s13.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s13.edge.cdn.sctvonline.vn/hls/sctv19/index.m3u8
 
-#EXTINF:-1 tvg-id="sctv20hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/SCTV20.jpg", SCTV20 HD
+#EXTINF:-1 tvg-id="sctv20hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/7f/SCTV20_logo_2019.png/revision/latest?cb=20220223142132&path-prefix=vi", SCTV20 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/sctv20/index.m3u8
 
-#EXTINF:-1 tvg-id="sctv21hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/SCTV21.jpg", SCTV21 HD
+#EXTINF:-1 tvg-id="sctv21hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e7/SCTV21_logo_19-01-2023.png/revision/latest?cb=20240207112450&path-prefix=vi", SCTV21 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://s13.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s13.edge.cdn.sctvonline.vn/hls/sctv21/index.m3u8
 
-#EXTINF:-1 tvg-id="sctv22hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/SCTV22.jpg", SCTV22 HD
+#EXTINF:-1 tvg-id="sctv22hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/db/SCTV22_SSport_1.png/revision/latest?cb=20230802033043&path-prefix=vi", SCTV22 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 http://e5.endpoint.cdn.sctvonline.vn/hls/sctv22/index.m3u8
 
-#EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/SCTVPTH.jpg", SCTV HD Phim Tổng Hợp
+#EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/33/SCTV_Phim_T%E1%BB%95ng_h%E1%BB%A3p_2020_b%E1%BA%A3n_2.png/revision/latest?cb=20240203101704&path-prefix=vi", SCTV HD Phim Tổng Hợp
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://s11.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s11.edge.cdn.sctvonline.vn/hls/sctvphimtonghop/index.m3u8

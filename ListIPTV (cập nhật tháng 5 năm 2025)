@@ -1,1 +1,15 @@
-
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
+#EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0e/VTV1_01.11.2022-nay.png/revision/latest/scale-to-width-down/1000?cb=20250110114241&path-prefix=vi" group-title="VTV" ,VTV1
+https://sgchill.io.vn/360/2/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" tvg-name="VTV2" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/20/VTV2_21.11.2024-nay.png/revision/latest/scale-to-width-down/1000?cb=20250110115127&path-prefix=vi" group-title="VTV" ,VTV2
+https://sgchill.io.vn/360/3/index.m3u8
+#EXTINF:-1 tvg-id="vtv3hd" tvg-name="VTV3" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/33/VTV3_01.11.2022-nay.png/revision/latest/scale-to-width-down/1000?cb=20241030005038&path-prefix=vi" group-title="VTV" ,VTV3
+https://sgchill.io.vn/360/4/index.m3u8
+#EXTINF:-1 tvg-id="vtv4hd" tvg-name="VTV4" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c9/VTV4_21.02.2023-nay.png/revision/latest/scale-to-width-down/1000?cb=20250403032740&path-prefix=vi" group-title="VTV" ,VTV4
+https://sgchill.io.vn/360/108/index.m3u8
+#EXTINF:-1 tvg-id="vtv5hd" tvg-name="VTV5" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/90/VTV5_31.07.2024-nay.png/revision/latest/scale-to-width-down/1000?cb=20241117140146&path-prefix=vi" group-title="VTV" ,VTV5
+https://sgchill.io.vn/360/110/index.m3u8
+#EXTINF:-1 tvg-id="vtv6hd" tvg-name="VTV Cần Thơ" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/84/VTV_C%E1%BA%A7n_Th%C6%A1_logo_b%E1%BA%A3n_tr%E1%BB%B1c_ti%E1%BA%BFp.png/revision/latest/scale-to-width-down/1000?cb=20230928060844&path-prefix=vi" group-title="VTV" ,VTV Cần Thơ
+https://sgchill.io.vn/360/98/index.m3u8
+#EXTINF:-1 tvg-id="vtv7hd" tvg-name="VTV7" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d6/VTV7_01-08.01.2020_v%C3%A0_31.10.2022-nay.png/revision/latest/scale-to-width-down/1000?cb=20220602112740&path-prefix=vi" group-title="VTV" ,VTV7
+https://sgchill.io.vn/360/6/index.m3u8

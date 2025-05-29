@@ -13,3 +13,9 @@ https://sgchill.io.vn/360/110/index.m3u8
 https://sgchill.io.vn/360/98/index.m3u8
 #EXTINF:-1 tvg-id="vtv7hd" tvg-name="VTV7" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d6/VTV7_01-08.01.2020_v%C3%A0_31.10.2022-nay.png/revision/latest/scale-to-width-down/1000?cb=20220602112740&path-prefix=vi" group-title="VTV" ,VTV7
 https://sgchill.io.vn/360/6/index.m3u8
+#EXTINF:-1 tvg-id="vtv8hd" tvg-name="VTV8" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b5/VTV8_logo_2016-2020.png/revision/latest?cb=20240815114106&path-prefix=vi" group-title="VTV" ,VTV8
+https://sgchill.io.vn/360/155/index.m3u8
+#EXTINF:-1 tvg-id="vtv9hd" tvg-name="VTV9" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/62/VTV9_01-10.01.2020_v%C3%A0_01.11.2022-nay_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/1000?cb=20221101094805&path-prefix=vi" group-title="VTV" ,VTV9
+https://sgchill.io.vn/360/8/index.m3u8
+#EXTINF:-1 tvg-id="vtv5taynambohd" tvg-name="VTV5 Tây Nam Bộ" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d4/VTV5_T%C3%A2y_Nam_B%E1%BB%99_02-08-2024.png/revision/latest/scale-to-width-down/1000?cb=20241117140519&path-prefix=vi" group-title="VTV" ,VTV5 Tây Nam Bộ
+https://xem.TruyenHinh.Click/CoBan/vtv5hdtnb/TuyetDoiKhongKinhDoanh.m3u8

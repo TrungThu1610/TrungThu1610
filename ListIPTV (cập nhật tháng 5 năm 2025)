@@ -95,3 +95,18 @@ https://xem.TruyenHinh.Click/CoBan/htvccanhachd/TuyetDoiKhongKinhDoanh.m3u8
 https://xem.TruyenHinh.Click/CoBan/htvcplushd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="htvdulich&cuocsonghd" tvg-name="HTVC Du lịch & Cuộc sống" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/59/HTVC_DLCS.png/revision/latest/scale-to-width-down/1000?cb=20230905030444&path-prefix=vi" group-title="HTVC" group-logo="https://static.wikia.nocookie.net/logos/images/c/c5/HTVC_logo_2007.png/revision/latest?cb=20240908034357&path-prefix=vi",HTVC Du lịch & Cuộc sống
 https://xem.TruyenHinh.Click/CoBan/htvcdilichhd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" group-logo="https://truyenhinhkplusvn.com/wp-content/uploads/2024/10/Logo-K-Moi-vuong.png" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+Sport1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://rg.hoangducanh.site/ksport1hd
+#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" group-logo="https://truyenhinhkplusvn.com/wp-content/uploads/2024/10/Logo-K-Moi-vuong.png" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+Sport2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://rg.hoangducanh.site/ksp2hd
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+" group-logo="https://truyenhinhkplusvn.com/wp-content/uploads/2024/10/Logo-K-Moi-vuong.png" tvg-logo="https://i.imgur.com/As4bwUs.png",K+Cine HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://rg.hoangducanh.site/kcinehd
+#EXTINF:-1 tvg-id="kaction" group-title="K+" group-logo="https://truyenhinhkplusvn.com/wp-content/uploads/2024/10/Logo-K-Moi-vuong.png" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://rg.hoangducanh.site/kactionhd
+#EXTINF:-1 tvg-id="kkidshd" group-title="K+" group-logo="https://truyenhinhkplusvn.com/wp-content/uploads/2024/10/Logo-K-Moi-vuong.png" tvg-logo="https://i.imgur.com/erWqYxh.png",K+Kids HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://rg.hoangducanh.site/kkidshd

@@ -156,3 +156,59 @@ https://rg.hoangducanh.site/sctv21
 https://rg.hoangducanh.site/sctv22
 #EXTINF:0 tvg-id="sctvhdpth" group-title="SCTV" group-logo="https://static.wikia.nocookie.net/logos/images/8/83/SCTV_logo_2022.png/revision/latest/scale-to-width-down/1281?cb=20220507015022&path-prefix=vi" tvg-logo="https://i.imgur.com/VzZYa4n.png",SCTV HD Phim Tổng Hợp
 https://rg.hoangducanh.site/sctvpth
+#EXTINF:-1 tvg-id="atvhd" tvg-name="ATV | Đài PT-TH An Giang" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/06/Logo_ATV_An_Giang_2022.png/revision/latest?cb=20250328104314&path-prefix=vi" group-title="TH Địa Phương" ,ATV | Đài PT-TH An Giang
+http://118.71.40.202:9981/stream/channelid/89372203?ticket=9910C46BEAD3A621D37CB2BA24A3E8C003975486&profile=pass
+#EXTINF:-1 tvg-id="brthd" tvg-name="BRT | Đài PT-TH Bà Rịa Vũng Tàu" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a6/BRT.png/revision/latest/scale-to-width-down/1000?cb=20211107022218&path-prefix=vi" group-title="TH Địa Phương" ,BRT | Đài PT-TH Bà Rịa Vũng Tàu
+http://118.71.40.202:9981/stream/channelid/1927897948?ticket=DD0D66E7360AA3D0D01CBB6002731461F971E2D8&profile=pass
+#EXTINF:-1 tvg-id="bltvhd" tvg-name="BLTV | Báo và Đài PT-TH Bạc Liêu" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e3/Logo_BLTV_B%E1%BA%A1c_Li%C3%AAu.png/revision/latest/scale-to-width-down/1000?cb=20220214151023&path-prefix=vi" group-title="TH Địa Phương" ,BLTV | Báo và Đài PT-TH Bạc Liêu
+http://118.71.40.202:9981/stream/channelid/1163585283?ticket=BDA0F418F94F4066FCAE1CE1BE507AE1C31F40C3&profile=pass
+#EXTINF:-1 tvg-id="bgtvhd" tvg-name="BGTV | Đài PT-TH Bắc Giang" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/31/BG.TV_2023.png/revision/latest?cb=20250204003457&path-prefix=vi" group-title="TH Địa Phương" ,BGTV | Đài PT-TH Bắc Giang
+http://118.71.40.202:9981/stream/channelid/622507346?ticket=351A2AFABD076298426EC3A13AD99C6F52DB3CE0&profile=pass
+#EXTINF:-1 tvg-id="tbkhd" tvg-name="TBK | Đài PT-TH Bắc Kạn" tvg-logo="https://lh3.google.com/u/0/d/1y5TbcLrofBG27KaNpadMPF0W4GOr51R7=w1875-h919-iv1?auditContext=prefetch" ,TBK | Đài PT-TH Bắc Kạn
+http://118.71.40.202:9981/stream/channelid/1353512560?ticket=7886C1B90FCA0772508CCCF35C1468EF68BD93F3&profile=pass
+#EXTINF:-1 tvg-id="btvhd" tvg-name="BTV | Đài PT-TH Bắc Ninh" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0e/BTV_B%E1%BA%AFc_Ninh_logo_b%E1%BA%A3n_2.png/revision/latest?cb=20240414021138&path-prefix=vi" ,BTV | Đài PT-TH Bắc Ninh
+http://118.71.40.202:9981/stream/channelid/1623500085?ticket=47E4BCAE628AB37E1266E510E86FFBA3AD7260F5&profile=pass
+#EXTINF:-1 tvg-id="thbthd" tvg-name="THBT | Đài PT-TH Bến Tre" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b8/Logo_THBT_B%E1%BA%BFn_Tre_m%E1%BB%9Bi_%282022_-_Logo_m%C3%A0n_h%C3%ACnh%2C_B%E1%BA%A3n_1%29.png/revision/latest/scale-to-width-down/1000?cb=20220304074717&path-prefix=vi" ,THBT | Đài PT-TH Bến Tre
+http://118.71.40.202:9981/stream/channelid/96377560?ticket=48C138300F10EC0B9C89E24BB561A0BA68DF9B18&profile=pass
+#EXTINF:-1 tvg-id="btv1hd" tvg-name="BTV1 | Đài PT-TH Bình Dương" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/17/BTV1_logo_2021.png/revision/latest/scale-to-width-down/1000?cb=20230919091003&path-prefix=vi" ,BTV1 | Đài PT-TH Bình Dương
+http://118.71.40.202:9981/stream/channelid/2131619929?ticket=16373C30BD02BEE9AC7217FCC18B23B99DD2EB18&profile=pass
+#EXTINF:-1 tvg-id="btv2hd" tvg-name="BTV2 | Đài PT-TH Bình Dương" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f4/BTV2_logo_2024.png/revision/latest/scale-to-width-down/1000?cb=20241117130454&path-prefix=vi" ,BTV2 | Đài PT-TH Bình Dương
+http://118.71.40.202:9981/stream/channelid/1291271109?ticket=ED787217C788CED42543BEDD2559EC2A1C89F373&profile=pass
+#EXTINF:-1 tvg-id="btv9hd" tvg-name="BTV9 - BChannel | Đài PT-TH Bình Dương" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/38/BTV9_Bchannel.png/revision/latest/scale-to-width-down/1000?cb=20230718083223&path-prefix=vi" ,BTV9 - BChannel | Đài PT-TH Bình Dương
+http://118.71.40.202:9981/stream/channelid/1172448733?ticket=3F158AD522FD3385256058611E69966A5E1AA139&profile=pass
+#EXTINF:-1 tvg-id="btv" tvg-name="BTV | Đài PT-TH Bình Định" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/91/BTV_Binh_Dinh_logo_m%C3%A0n_h%C3%ACnh.png/revision/latest/scale-to-width-down/1000?cb=20230220061636&path-prefix=vi" ,BTV | Đài PT-TH Bình Định
+http://118.71.40.202:9981/stream/channelid/1317679880?ticket=EA5F412A31113892D75D0A7A5C15473CEA83513B&profile=pass
+#EXTINF:-1 tvg-id="bptv1hd" tvg-name="BPTV1 | Đài PT-TH và Báo Bình Phước" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/01/BPTV1_logo_2020_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/1000?cb=20250414132608&path-prefix=vi" ,BPTV1 | Đài PT-TH và Báo Bình Phước
+http://118.71.40.202:9981/stream/channelid/1832526902?ticket=847AB7C8451257A8199D73CCCECCDF7184DBAD8E&profile=pass
+#EXTINF:-1 tvg-id="bptv2hd" tvg-name="BPTV2 | Đài PT-TH và Báo Bình Phước" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/eb/BPTV2_logo_2023.png/revision/latest/scale-to-width-down/1000?cb=20231208081416&path-prefix=vi" ,BPTV2 | Đài PT-TH và Báo Bình Phước
+http://118.71.40.202:9981/stream/channelid/789947673?ticket=F997BEABD96127EAFC3EFFFF994C12137A8A6D97&profile=pass
+#EXTINF:-1 tvg-id="btvhd" tvg-name="BTV | Đài PT-TH Bình Thuận" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1a/BTV_B%C3%ACnh_Thu%E1%BA%ADn_05-2021.png/revision/latest?cb=20230308074516&path-prefix=vi" ,BTV | Đài PT-TH Bình Thuận
+http://118.71.40.202:9981/stream/channelid/1096881999?ticket=FC849A4F6D34B649AD2379F639F65632916E4101&profile=pass
+#EXTINF:-1 tvg-id="ctvhd" tvg-name="CTV | Báo và Đài PT-TH Cà Mau" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/09/CTV_Ca_Mau_2024.png/revision/latest?cb=20240916030332&path-prefix=vi" ,CTV | Báo và Đài PT-TH Cà Mau
+http://118.71.40.202:9981/stream/channelid/407543954?ticket=1E1E70FA3AE3F235335D3516E15FB92598C35D15&profile=pass
+#EXTINF:-1 tvg-id="crtvhd" tvg-name="CRTV | Báo Cao Bằng" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8a/CRTV_logo_2020.png/revision/latest?cb=20250430043808&path-prefix=vi" ,CRTV | Báo Cao Bằng
+http://118.71.40.202:9981/stream/channelid/1696924267?ticket=026DCDB9637D2508A6B006388583BB743830C559&profile=pass
+#EXTINF:-1 tvg-id="thtpcthd" tvg-name="THTPCT | Đài PT-TH TP Cần Thơ" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/80/THTPCT_logo_2020.png/revision/latest/scale-to-width-down/1000?cb=20240914040100&path-prefix=vi" ,THTPCT | Đài PT-TH TP Cần Thơ
+http://118.71.40.202:9981/stream/channelid/981992273?ticket=16753806122CF67123D52EDEB56233961B8F8597&profile=pass
+#EXTINF:-1 tvg-id="danangtv1hd" tvg-name="DaNangTV1 | Báo và Đài PT-TH Đà Nẵng" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/aa/DaNangTV1_%282023%2C_b%E1%BA%A3n_2%29.png/revision/latest/scale-to-width-down/1000?cb=20231123085722&path-prefix=vi" ,DaNangTV1 | Báo và Đài PT-TH Đà Nẵng
+http://118.71.40.202:9981/stream/channelid/2030518622?ticket=FBA5FBD20EB546BA267BCE15CA0500B382016748&profile=pass
+#EXTINF:-1 tvg-id="danangtv2hd" tvg-name="DaNangTV2 | Báo và Đài PT-TH Đà Nẵng" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d4/DaNangTV2_%282022%2C_b%E1%BA%A3n_2%29.png/revision/latest/scale-to-width-down/1000?cb=20231123071421&path-prefix=vi" ,DaNangTV2 | Báo và Đài PT-TH Đà Nẵng
+http://118.71.40.202:9981/stream/channelid/1575540767?ticket=051DAC4D55BF1E1D35DE8D156867965DC2004F59&profile=pass
+#EXTINF:-1 tvg-id="drthd" tvg-name="DRT | Đài PT-TH Đắk Lắk" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a9/DRT_%C4%90%E1%BA%AFk_L%E1%BA%AFk_logo_2021.png/revision/latest/scale-to-width-down/1000?cb=20240624070618&path-prefix=vi" ,DRT | Đài PT-TH Đắk Lắk
+http://118.71.40.202:9981/stream/channelid/1354658701?ticket=4E9193447C8ADBDDC25852B28EA78CB695EBDC66&profile=pass
+#EXTINF:-1 tvg-id="ptdhd" tvg-name="PTD | Đài PT-TH Đắk Nông" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/49/PTD_%C4%90%E1%BA%AFk_N%C3%B4ng_2021.png/revision/latest/scale-to-width-down/1000?cb=20230402001724&path-prefix=vi" ,PTD | Đài PT-TH Đắk Nông
+https://xem.TruyenHinh.Click/CoBan/138/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="đtvhd" tvg-name="ĐTV | Đài PT-TH Điện Biên" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9d/%C4%90TV_logo_2020.png/revision/latest/scale-to-width-down/1000?cb=20230203120213&path-prefix=vi" ,ĐTV | Đài PT-TH Điện Biên
+http://118.71.40.202:9981/stream/channelid/1822657649?ticket=EA09A0D4DAA79C01AE501BFAA50B8147F68B10C5&profile=pass
+#EXTINF:-1 tvg-id="đn1-rtvhd" tvg-name="ĐN1-RTV | Đài PT-TH Đồng Nai" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d6/%C4%90N1-RTV.png/revision/latest?cb=20211025161718&path-prefix=vi" ,ĐNRTV1 | Đài PT-TH Đồng Nai
+http://118.71.40.202:9981/stream/channelid/987636687?ticket=C89CC210D027219663599F180AAF41A40C32538C&profile=pass
+#EXTINF:-1 tvg-id="đn2-rtvhd" tvg-name="ĐN2-RTV | Đài PT-TH Đồng Nai" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4e/%C4%90N2-RTV.png/revision/latest?cb=20211025161727&path-prefix=vi" ,ĐNRTV2 | Đài PT-TH Đồng Nai
+http://118.71.40.202:9981/stream/channelid/178596674?ticket=9EFF243F8997C99F81FDDCC959EED6B81CF23A26&profile=pass
+#EXTINF:-1 tvg-id="thđt1hd" tvg-name="THĐT1 | Đài PT-TH Đồng Tháp" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/27/TH%C4%90T1_logo_ch%C3%ADnh_31-07-2023.png/revision/latest/scale-to-width-down/1000?cb=20231107123817&path-prefix=vi" ,THĐT1 | Đài PT-TH Đồng Tháp
+http://118.71.40.202:9981/stream/channelid/158331468?ticket=F4B2A56737A4A0FE71AA6554E9D26791EA667BFD&profile=pass
+#EXTINF:-1 tvg-id="thđt2hd" tvg-name="THĐT2 - Miền Tây | Đài PT-TH Đồng Tháp" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/27/TH%C4%90T1_logo_ch%C3%ADnh_31-07-2023.png/revision/latest/scale-to-width-down/1000?cb=20231107123817&path-prefix=vi" ,THĐT2 - Miền Tây | Đài PT-TH Đồng Tháp
+http://118.71.40.202:9981/stream/channelid/1421909684?ticket=553753634C1A6467BE356286A347C866658C5E0E&profile=pass
+#EXTINF:-1 tvg-id="thglhd" tvg-name="THGL | Báo Gia Lai" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f9/THGL_Gia_Lai-0.png/revision/latest/scale-to-width-down/1000?cb=20211020031618&path-prefix=vi" ,THGL | Báo Gia lai
+http://118.71.40.202:9981/stream/channelid/1180281656?ticket=C37A4EEF140F04271A9D6759B97CFB68428B2662&profile=pass
+#EXTINF:-1 tvg-id="hgtvhd" tvg-name="HGTV | Báo Hà Giang" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3d/HGTV_H%C3%A0_Giang_logo_2022.png/revision/latest/scale-to-width-down/1000?cb=20241013132235&path-prefix=vi" ,HGTV | Báo Hà Giang
+http://118.71.40.202:9981/stream/channelid/962191959?ticket=65BEC069CEC5F94B2D7A60BDD0C848374F17379F&profile=pass

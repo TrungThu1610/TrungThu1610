@@ -286,7 +286,7 @@ https://pa.thst.vn/liveeventstv2.m3u8
 https://xem.TruyenHinh.Click/CoBan/173/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id=ttv11hd" tvg-name="TTV11 | Đài PT-TH Tây Ninh" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3d/TTV11_logo_2020.png/revision/latest/scale-to-width-down/1000?cb=20230628151522&path-prefix=vi" group-title="TH Địa Phương",TTV11 | Đài PT-TH Tây Ninh
 http://118.71.40.202:9981/stream/channelid/1230760282?ticket=9E44E79D67E0733512C8BC58B81BBE90D7F31831&profile=pass
-#EXTINF:-1 tvg-id=ttvhd" tvg-name="TTV | Báo và Đài PT-TH Thanh Hoá" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/18/Logo_TTV_Thanh_H%C3%B3a_2017_%28B%E1%BA%A3n_4%29.png/revision/latest/scale-to-width-down/1000?cb=20241116101053&path-prefix=vi" group-title="TH Địa Phương",TTV11 | Đài PT-TH Tây Ninh
+#EXTINF:-1 tvg-id=ttvhd" tvg-name="TTV | Báo và Đài PT-TH Thanh Hoá" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/18/Logo_TTV_Thanh_H%C3%B3a_2017_%28B%E1%BA%A3n_4%29.png/revision/latest/scale-to-width-down/1000?cb=20241116101053&path-prefix=vi" group-title="TH Địa Phương",TTV | Đài PT-TH Thanh Hoá
 http://118.71.40.202:9981/stream/channelid/1230760282?ticket=9E44E79D67E0733512C8BC58B81BBE90D7F31831&profile=pass
 #EXTINF:-1 tvg-id=tn1hd" tvg-name="TN1 | Đài PT-TH Thái Nguyên" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cf/TN1_logo_2017.png/revision/latest?cb=20231031073135&path-prefix=vi" group-title="TH Địa Phương",TN1 | Đài PT-TH Thái Nguyên
 http://118.71.40.202:9981/stream/channelid/1213163775?ticket=A4B7C7363DD43B11E93E989E3E577B8E4B8FA813&profile=pass

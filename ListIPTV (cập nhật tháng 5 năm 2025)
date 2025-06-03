@@ -244,6 +244,8 @@ http://118.71.40.202:9981/stream/channelid/1190497611?ticket=EC5C3D5067486E5C9BF
 https://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
 #EXTINF:-1 tvg-id="krthd" tvg-name="KRT | Trung tâm Truyền thông tỉnh Kon Tum" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6b/KRT_Kon_Tum.png/revision/latest?cb=20210123064536&path-prefix=vi" group-title="TH Địa Phương",KRT | Đài PT-TH Kon Tum
 http://118.71.40.202:9981/stream/channelid/844297037?ticket=D7D90F0E260006207762735FB6859BCF9317CE6A&profile=pass
+#EXTINF:-1 tvg-id="ltvhd" tvg-name="LTV | Đài PT-TH Lai Châu" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8f/Logo_LTV_Lai_Ch%C3%A2u_2022_%28Logo_m%C3%A0n_h%C3%ACnh%29.png/revision/latest/scale-to-width-down/1000?cb=20220120003433&path-prefix=vi" group-title="TH Địa Phương",LTV | Đài PT-TH Lai Châu
+http://118.71.40.202:9981/stream/channelid/2054537942?ticket=BD4D3948B1A30BC27D5FDAB655DD1D41644A68D2&profile=pass
 #EXTINF:-1 tvg-id="lstvhd" tvg-name="LSTV | Báo và Đài PT-TH Lạng Sơn" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/21/LSTV_2024.png/revision/latest/scale-to-width-down/1000?cb=20240211035805&path-prefix=vi" group-title="TH Địa Phương",LSTV | Báo và Đài PT-TH Lạng Sơn
 http://118.71.40.202:9981/stream/channelid/2126369388?ticket=F361F2C442886B9797E5FFE0919CED6668799649&profile=pass
 #EXTINF:-1 tvg-id="thlchd" tvg-name="THLC | Báo Lào Cai" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/53/THLC_2017%2C_2018%2C_2019.png/revision/latest?cb=20240720062104&path-prefix=vi" group-title="TH Địa Phương",THLC | Báo Lào Cai

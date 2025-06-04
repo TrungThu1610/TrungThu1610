@@ -40,7 +40,7 @@ http://118.71.40.202:9981/stream/channelid/1922223913?ticket=349BB0233E5C1C7C9E5
 #EXTINF:-1 tvg-id="htvthethaohd" tvg-name="HTV Thể Thao" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/11/HTV_Th%E1%BB%83_thao_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/1000?cb=20220424065732&path-prefix=vi" group-title="HTV" group-logo="https://static.wikia.nocookie.net/logos/images/c/c8/HTV_logo_ch%C3%ADnh_31-12-2024_%28HTV2_-_Vie_Channel%29.png/revision/latest?cb=20250114003157&path-prefix=vi",HTV Thể Thao
 http://118.71.40.202:9981/stream/channelid/25864435?ticket=C78C442C2A112CA1DA5ABC75A495AF018F5DC983&profile=pass
 #EXTINF:-1 tvg-id="vtvcab1" tvg-name="ON Vie Giải Trí" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f4/ON_Vie_Gi%E1%BA%A3i_tr%C3%AD_logo_23-12-2023.png/revision/latest/scale-to-width-down/1000?cb=20240816030855&path-prefix=vi" group-title="VTVcab ON" group-logo="https://www.vban.vn/Resources/images/logo-vtvcab-on.png",ON Vie Giải Trí
-https://xem.TruyenHinh.Click/CoBan/vtvcab1hd/TuyetDoiKhongKinhDoanh.m3u8
+https://livecdn-vthcm-gcore.vieon.vn/a366a8888085e45019a63474f90d1a4c/1749136565000/livetv/enc2/3b0d13cc45a5e637e4672ba354d7e8b5/playlist.m3u8?c=h
 #EXTINF:-1 tvg-id="vtvcab2" tvg-name="ON Phim Việt" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c3/ON_Phim_Vi%E1%BB%87t_logo_2023.png/revision/latest?cb=20250515121518&path-prefix=vi" group-title="VTVcab ON" group-logo="https://www.vban.vn/Resources/images/logo-vtvcab-on.png",ON Phim Việt
 https://xem.TruyenHinh.Click/CoBan/vtvcab2hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="vtvcab3" tvg-name="ON Sports" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d3/ON_Sports_logo_2022.png/revision/latest/scale-to-width-down/1000?cb=20220311023726&path-prefix=vi" group-title="VTVcab ON" group-logo="https://www.vban.vn/Resources/images/logo-vtvcab-on.png",ON Sports
@@ -72,7 +72,7 @@ https://xem.TruyenHinh.Click/CoBan/vtvcab17hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="vtvcab18" tvg-name="ON Sports News" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1f/ON_Sports_News_logo_2022.png/revision/latest/scale-to-width-down/1000?cb=20220403050655&path-prefix=vi" group-title="VTVcab ON" group-logo="https://www.vban.vn/Resources/images/logo-vtvcab-on.png",ON Sports News
 https://xem.TruyenHinh.Click/BoSung/vtvcab18hd/TruyenHinh.Click
 #EXTINF:-1 tvg-id="vtvcab19" tvg-name="ON Vie Dramas" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2f/ON_Vie_Dramas_logo_29-12-2023.png/revision/latest/scale-to-width-down/1000?cb=20240816031242&path-prefix=vi" group-title="VTVcab ON" group-logo="https://www.vban.vn/Resources/images/logo-vtvcab-on.png",ON Vie Dramas
-https://xem.TruyenHinh.Click/CoBan/vtvcab19hd/TuyetDoiKhongKinhDoanh.m3u8
+https://livecdn-vthcm-gcore.vieon.vn/8dd3245723d8c9c1fa2db03bafc13350/1749136612000/livetv/enc2/9416aa65cec57d5b01ed0e2297e1b4e3/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="vtvcab20" tvg-name="ON VFamily" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/ae/ON_VFamily_logo_20-04-2023.png/revision/latest/scale-to-width-down/1000?cb=20241217025839&path-prefix=vi" group-title="VTVcab ON" group-logo="https://www.vban.vn/Resources/images/logo-vtvcab-on.png",ON VFamily
 https://xem.TruyenHinh.Click/CoBan/vtvcab20hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="vtvcab21" tvg-name="ON Kids" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/be/ON_Kids_logo.png/revision/latest/scale-to-width-down/1000?cb=20221221112957&path-prefix=vi" group-title="VTVcab ON" group-logo="https://www.vban.vn/Resources/images/logo-vtvcab-on.png",ON Kids
@@ -247,7 +247,7 @@ https://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
 #EXTINF:-1 tvg-id="krthd" tvg-name="KRT | Trung tâm Truyền thông tỉnh Kon Tum" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6b/KRT_Kon_Tum.png/revision/latest?cb=20210123064536&path-prefix=vi" group-title="TH Địa Phương",KRT | Đài PT-TH Kon Tum
 http://118.71.40.202:9981/stream/channelid/844297037?ticket=D7D90F0E260006207762735FB6859BCF9317CE6A&profile=pass
 #EXTINF:-1 tvg-id="ltvhd" tvg-name="LTV (ViettelTV) | Đài PT-TH Lai Châu" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8f/Logo_LTV_Lai_Ch%C3%A2u_2022_%28Logo_m%C3%A0n_h%C3%ACnh%29.png/revision/latest/scale-to-width-down/1000?cb=20220120003433&path-prefix=vi" group-title="TH Địa Phương",LTV (ViettelTV) | Đài PT-TH Lai Châu
-https://xem.TruyenHinh.Click/CoBan/157/TuyetDoiKhongKinhDoanh.m3u8
+https://cmcdp2.vtvdigital.vn/hls/LAICHAUTV/index.m3u8
 #EXTINF:-1 tvg-id="ltvhd" tvg-name="LTV (FPTplay) | Đài PT-TH Lai Châu" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8f/Logo_LTV_Lai_Ch%C3%A2u_2022_%28Logo_m%C3%A0n_h%C3%ACnh%29.png/revision/latest/scale-to-width-down/1000?cb=20220120003433&path-prefix=vi" group-title="TH Địa Phương",LTV (FPTplay) | Đài PT-TH Lai Châu
 https://live.fptplay53.net/fnxsd1/laichau_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="lstvhd" tvg-name="LSTV | Báo và Đài PT-TH Lạng Sơn" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/21/LSTV_2024.png/revision/latest/scale-to-width-down/1000?cb=20240211035805&path-prefix=vi" group-title="TH Địa Phương",LSTV | Báo và Đài PT-TH Lạng Sơn

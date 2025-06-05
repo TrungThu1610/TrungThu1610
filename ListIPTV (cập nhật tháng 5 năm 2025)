@@ -164,9 +164,9 @@ http://118.71.40.202:9981/stream/channelid/1927897948?ticket=DD0D66E7360AA3D0D01
 http://118.71.40.202:9981/stream/channelid/1163585283?ticket=BDA0F418F94F4066FCAE1CE1BE507AE1C31F40C3&profile=pass
 #EXTINF:-1 tvg-id="bgtvhd" tvg-name="BGTV | Đài PT-TH Bắc Giang" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/31/BG.TV_2023.png/revision/latest?cb=20250204003457&path-prefix=vi" group-title="TH Địa Phương" ,BGTV | Đài PT-TH Bắc Giang
 http://118.71.40.202:9981/stream/channelid/622507346?ticket=351A2AFABD076298426EC3A13AD99C6F52DB3CE0&profile=pass
-#EXTINF:-1 tvg-id="tbkhd" tvg-name="TBK | Đài PT-TH Bắc Kạn" tvg-logo="https://lh3.google.com/u/0/d/1y5TbcLrofBG27KaNpadMPF0W4GOr51R7=w1875-h919-iv1?auditContext=prefetch" group-title="TH Địa Phương",TBK | Đài PT-TH Bắc Kạn
+#EXTINF:-1 tvg-id="tbkhd" tvg-name="TBK | Đài PT-TH Bắc Kạn" tvg-logo="https://i.postimg.cc/qMhS90Dc/msjevyp.png" group-title="TH Địa Phương",TBK | Đài PT-TH Bắc Kạn
 http://118.71.40.202:9981/stream/channelid/1353512560?ticket=7886C1B90FCA0772508CCCF35C1468EF68BD93F3&profile=pass
-#EXTINF:-1 tvg-id="btvhd" tvg-name="BTV | Đài PT-TH Bắc Ninh" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0e/BTV_B%E1%BA%AFc_Ninh_logo_b%E1%BA%A3n_2.png/revision/latest?cb=20240414021138&path-prefix=vi" group-title="TH Địa Phương",BTV | Đài PT-TH Bắc Ninh
+#EXTINF:-1 tvg-id="btvhd" tvg-name="BTV | Đài PT-TH Bắc Ninh" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/48/BTV_B%E1%BA%AFc_Ninh.png/revision/latest?cb=20211005091117&path-prefix=vi" group-title="TH Địa Phương",BTV | Đài PT-TH Bắc Ninh
 http://118.71.40.202:9981/stream/channelid/1623500085?ticket=47E4BCAE628AB37E1266E510E86FFBA3AD7260F5&profile=pass
 #EXTINF:-1 tvg-id="thbthd" tvg-name="THBT | Đài PT-TH Bến Tre" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b8/Logo_THBT_B%E1%BA%BFn_Tre_m%E1%BB%9Bi_%282022_-_Logo_m%C3%A0n_h%C3%ACnh%2C_B%E1%BA%A3n_1%29.png/revision/latest/scale-to-width-down/1000?cb=20220304074717&path-prefix=vi" group-title="TH Địa Phương",THBT | Đài PT-TH Bến Tre
 http://118.71.40.202:9981/stream/channelid/96377560?ticket=48C138300F10EC0B9C89E24BB561A0BA68DF9B18&profile=pass
@@ -218,8 +218,10 @@ http://118.71.40.202:9981/stream/channelid/962191959?ticket=65BEC069CEC5F94B2D7A
 https://xem.TruyenHinh.Click/CoBan/146/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="hanoitv1hd" tvg-name="H1 | Đài PT-TH Hà Nội" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/68/HanoiTV1_HD_2024.png/revision/latest/scale-to-width-down/1000?cb=20241231140707&path-prefix=vi" group-title="TH Địa Phương",H1 | Đài PT-TH Hà Nội
 http://118.71.40.202:9981/stream/channelid/4963272?ticket=D010FCB0B0B605C5ED6E9E319138B41580407F46&profile=pass
-#EXTINF:-1 tvg-id="hanoitv2hd" tvg-name="H2 | Đài PT-TH Hà Nội" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ef/HanoiTV2_HD_2024.png/revision/latest?cb=20240410163436&path-prefix=vi" group-title="TH Địa Phương",H2 | Đài PT-TH Hà Nội
+#EXTINF:-1 tvg-id="hanoitv2hd" tvg-name="H2HD | Đài PT-TH Hà Nội" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ef/HanoiTV2_HD_2024.png/revision/latest?cb=20240410163436&path-prefix=vi" group-title="TH Địa Phương",H2 | Đài PT-TH Hà Nội
 http://118.71.40.202:9981/stream/channelid/228030465?ticket=36E73D55468E82367BB8C44AF8CAFE6FF42BAC67&profile=pass
+#EXTINF:-1 tvg-id="hanoitv24k" tvg-name="H2UHD | Đài PT-TH Hà Nội" tvg-logo="https://i.postimg.cc/fTXx0ggj/H2-Hanoi-TV-UHD.png" group-title="TH Địa Phương",H2UHD | Đài PT-TH Hà Nội
+https://cloudstreamqh.tek4tv.vn/live/hanoi2.m3u8
 #EXTINF:-1 tvg-id="hitvhd" tvg-name="HiTV | Đài PT-TH Hà Nội" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/ca/Logo_HiTV_from_2013.png/revision/latest/scale-to-width-down/1000?cb=20200831064620&path-prefix=vi" group-title="TH Địa Phương",HiTV | Đài PT-TH Hà Nội
 https://xem.TruyenHinh.Click/CoBan/185.HiTV/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="youtvhd" tvg-name="YouTV | Đài PT-TH Hà Nội" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f6/YouTV_logo_31-03-2025.png/revision/latest/scale-to-width-down/1000?cb=20250401080135&path-prefix=vi" group-title="TH Địa Phương",YouTV | Đài PT-TH Hà Nội
